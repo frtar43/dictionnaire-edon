@@ -1,0 +1,575 @@
+
+DICTIONNAIRE
+FRANÇAIS-LATIN
+
+DICTIONNAIRE
+FRANÇAIS-LATIN
+
+
+RÉDIGÉ SPÉCIALEMENT
+À L'USAGE DES CLASSES
+
+
+PAR
+
+
+GEORGES ÉDON
+
+
+AGRÉGÉ DE L'UNIVERSITÉ
+PROFESSEUR AU LYCÉE HENRI IV
+
+
+PRÉFACE
+
+Il importe avant tout de prévenir toute équivoque : quoique M. Edon soit mort il y a déjà deux ans et demi, le Dictionnaire Français-Latin que nous présentons au public est bien son œuvre, — son œuvre préférée, à laquelle il a travaillé plus de trente ans, avec tout le zèle et toute la compétence dont son nom suffit à évoquer le souvenir. — Pour la majeure partie du livre, de A à SYLLABE exactement, il a pu tout faire et tout voir lui-même, jusqu'au « bon à tirer » inclusivement. Quant au reste, on s'est borné à rédiger les notes qu'il avait laissées, très précises et très complètes; et, pour mettre en œuvre ces matériaux qui étaient les siens, on s'est tenu le plus près possible de sa méthode. — C'est cette méthode qu'il s'agit ici de définir, pour faciliter l'usage du Dictionnaire.
+
+Dans chaque article, les différentes acceptions du mot sont séparées par le signe || et numérotées. Pour chaque acception, la définition, en caractères gras, est suivie d'un ou plusieurs équivalents latins, sauf dans le cas où il n'y a pas en latin de traduction directe correspondant au mot français. Après ces équivalents, et séparés d'eux par le signe : viennent les exemples, dans lesquels le mot en question est remplacé (sauf dans le premier) par un tiret.
+Pour la traduction des mots français, les équivalents sont pris, autant que possible, dans Cicéron et dans les auteurs les plus classiques. Ce n'est qu'à leur défaut qu'on recourt aux écrivains de la décadence et aux poétes : les mots empruntés à ces derniers sont généralement accompagnés d'une mention spéciale (poét.). Pour certains noms géographiques, zoologiques, botaniques, etc., qui n'ont pas d'équivalents en latin ancien, on s'est adressé à Du Cange, à Linné, etc. ; on a eu soin de l'indiquer.
+Quant aux indications morphologiques, on a observé les règles que voici :
+pour les substantifs, on donne toujours le génitif (et, s'il y a lieu, d'autres formes quand elles sont irrégulières) ; lorsque le génitif n'est pas mentionné, c’est que le mot appartient au même type de déclinaison que celui qui le précède immédiatement dans la série [ainsi, si, au mot TRAITÉ, on trouve Disputatio, onis, f. Cic. Dissertatio, f. Plin., on en conclura que dissertatio se décline comme disputatio] ; — pour les substantifs également, le genre est indiqué par les abréviations, m., f., et n. ; cependant, quand une erreur de l'élève est à craindre, on met, plus au long, masc. ou fém. [ainsi, « douleur » étant féminin en français, dolor sera suivi, non de m., mais de masc.];
+pour les adjectifs, s’ils sont du type de bonus, on donne le féminin et le neutre (bonus, a, um); — s'ils sont du type de prudens, on donne le génitif (prudens, gén. entis) ; — s'ils sont du type de fortis, on donne les deux formes du nominatif (fortis, m. f., e, n.); — lorsqu'il n'y a pas d'indications, c'est que l'adjectif se comporte comme celui qui le précède immédiatement dans la série;
+pour les verbes, à part les verbes réguliers de la 1re conjugaison (du type de amare), on donne l'infinitif présent, la 1re et la 2e personne du singulier de l'indicatif présent (sauf le cas où, dans l'exemple cité, se trouverait la 2e ou la 3e personne), la ou les formes du parfait, celles du supin, ou, à défaut, du participe futur; — les formes du passif sont le plus souvent rattachées à l'actif [ainsi, altitudo expleatur (pass. de explere, eo, es, evi, etum)] ; — l'absence de certaines formes est indiquée par s. parf., s. sup., s. parf. ni sup. ; — lorsque, dans une subdivision d'un article, est cité un verbe dont les temps primitifs ont été donnés dans une subdivision antérieure, on y renvoie [ainsi, à PORTER 7˚, on trouvera deferre, voy. 1˚].
+Pour ce qui est des signes de quantité, l'ablatif de la 1re déclinaison et le génitif de la 4e portent le signe de la longue ; on distingue aussi en marquant la quantité les infinitifs (et les 2es personnes du passif) de la 2e et de la 3e conjugaison, les composés de cado et ceux de cædo, enfin certaines formes de présent et de parfait [movere et movi, venire et veni, légere et legi, etc.].
+Une partie des participes présents et des participes passés sont à part des verbes dont ils dérivent ; cela a lieu surtout lorsque les participes ont un sens légèrement différent du verbe même.
+Les noms propres ont été l'objet d'un soin tout spécial de M. Edon. Il s'est attaché à traduire : pour la France, les noms des provinces et de leurs habitants, ceux des villes un tant soit peu importantes, et ceux des montagnes, fleuves, rivières, etc.; — pour les nations étrangères, les noms des États et de leurs habitants, ceux des principales provinces, des principales villes, des fleuves les plus connus ; — pour l’antiquité, les noms des personnages célèbres, ceux des provinces et villes importantes et de leurs habitants, ceux des fleuves et montagnes les plus connus, ceux des dieux, monuments, fêtes et jeux, etc.
+Les renvois d'un article à l'autre sont de deux sortes : quand on renvoie pour la traduction d'un mot à un autre mot, si les deux mots ont exactement le même sens, on se sert de l'abréviation C. [ainsi OUTRÉMENT, adv. C. EXCESSIVEMENT] ; — si le renvoi n'est fait que pour référence ou explication, sans que les deux mots soient synonymes, on se sert de l'abréviation Voy.
+Les mots homonymes sont distingués par des chiffres placés devant eux.
+Dans les exemples, les mots de la phrase française qui ne sont pas traduits en latin, sont mis entre crochets [	]; — les mots qui, sans faire partie de la phrase, sont nécessaires à titre d'explication, sont entre parenthèses(	); — enfin lorsque, pour préciser le sens d'un mot français, on a besoin d'en donner l'équivalent, cet équivalent est introduit par le signe  égalité et placé entre parenthèses ; par exemple : À mon arrivée à la ville (= dès que je fus arrivé), Ut veni ad urbem.
+La liste ci-dessous donnera l'explication des autres abréviations et des autres signes.
+
+René PICHON,
+
+Agrégé de l'Université, Professeur de Première supérieure
+au Lycée Henri IV.
+
+
+LISTE ALPHABÉTIQUE DES PRINCIPAUX AUTEURS
+CITÉS EN ABRÉGÉ DANS CE DICTIONNAIRE
+
+NOTA. — Outre les auteurs mentionnés dans cette liste, les anciens en citent un assez grand nombre dont les ouvrages ne nous sont pas parvenus. Ils ont été quelquefois utilisés dans le Dictionnaire, et désignés par des indications du genre de celles-ci : Brut ad Cic., Crass. Ad Cic., etc. Lettre de Brutus (ou de Cassius) à Cicéron; C. Gracch. Ap. Suet., Aug. Ap. Suet., citation de C Gracchus (ou d’Auguste) conservée par Suétone. Auct. ap. Suet., citation anonyme conservée par Suétone; Poet. ap. Cic., citation d’un poète anonyme conservée par Cicéron, etc.
+
+Acro. Helenius Acro (Acron), Un des scholiastes d'Horace (IVe siècle). 
+Æl. Tub, Æuivs Tubero. Historien (1er siècle av. J.-C.).
+Afr. ou Afran. L. Afranius. Poète comique (1er siècle av. J.-C.).
+Aggen. Aggenus Urbicus. Auteur d'un traité sur les mesures agraires (IVe siècle).
+Agræt. Agroetius. Grammairien (Ve siècle?).
+Albin. Pedo Albinovanus. Poète épique et élégiaque (siècle d'Auguste).
+Alc. ou Alcim. Alcimus Avitus (Saint Avit). Poète chrétien (Ve siècle).
+Alcuin. Alcuin. Grammairien (VIIIe siècle).
+Alf. Alfenus Varus, Jurisconsulte (1er siècle).
+Ambr. Ambrosius (Saint Ambroise). Moraliste chrétien (IVe siècle).
+Amm. Ammianus Marcellinus (Ammien Marcellin). Historien (IVe siècle),
+Ampel. Ampelius, Historien (IVe siècle).
+Anast. Bibl. Anastase le Bibliothécaire (IXe siècle).
+Andr. ou Andron. Livius Andronicus, Poète dramatique (IIIe siècle av. J.-C.).
+Ant, Antonini Itinerarium (Itinéraire d’Antonin) (IIIe siècle).
+Apic. Cœlius Apicius. Auteur d'un traité sur l'art culinaire (IIIe siècle).
+Apul. et Apul.-med. L. Apuleius (Apulée). Philosophe et botaniste (IIe siècle).
+Aquil. Aquila Romanus, Rhéteur (IVe siècle).
+Arat. Arator. Poète chrétien (VIe siècle).
+Arbor. Arborius Magnus. Poète élégiaque (IVe siècle).
+Arn. Arnobius (Arnobe). Moraliste chrétien (IVe siècle).
+Asc. ou Ascon. Asconius Pedanius. Grammairien (1er siècle).
+At.-Cap. Ateius Capito. Jurisconsulte (1er siècle).
+Atil. Atilius Fortunatianus, — Grammairien. (IVe siècle).
+Att. L. Attius ou Accius, Poète tragique (IIe siècle av. J.-C.).
+Atta. Q. Atta. Poète comique (1er siècle avant J.-C.).
+Aug. Aurelius Augustinus (Saint Augustin). Moraliste chrétien (IVe siècle).
+August. Augustus (César Auguste, cité par Suétone).
+Aus. Decimus Magnus Ausonius (Ausone). Poète et rhéteur (IVe siècle).
+Avian, Flavius Avianus. Fabuliste (Ve siècle).
+A.-Vict. Aurelius Victor. Historien (IVe siècle).
+Avien. Festus Avienus (Avien). Poète didactique (IVe siècle).
+Bass. Saleius Bassus. Auteur présumé du poème Ad Pisonem (Ier siècle).
+Beda. Beda Venerabilis, Polygraphe (VIIIe siècle).
+Bibac. Bibaculus, Poète satirique (IIe sc. av. J.-C.).
+Boet. Anicius Manlius Torquatus Boethius (Boèce). Philosophe (VIe siècle).
+Cæcil. Cæcilius Statius, Poète comique (IIe siècle av. J.-C.).
+Caes. C. Julius Cæsar (Jules César). Historien (Ier siècle av. J.-C.).
+Caj. T, Cajus ou Gaius. Jurisconsulte (IIe siècle).
+Calliste. Voy. Dig. 2e liste.
+Calp. T. Julius Calpurnius Siculus. Poète bucolique (IIe siècle).
+Calp.-Fl. Calpurnius Flaccus. Rhéteur (IIIe siècle).
+Catl.-Piso. Calpurnius Piso. Polygraphe (VIIIe sc.).
+Cang. Du Cange. Auteur d'un dictionnaire (XVIIIe siècle).
+Capel. Martianus Felix Capella. Grammairien (Ve siècle).
+Caper, Flav. Caper. Grammairien (IIIe siècle).
+Capit. Julius Capitolinus (Capitolin), Un des auteurs de l'Histoire Auguste (IIIe siècle).
+Cass. M, Aurelius Cassiodorus (Cassiodore). Philosophe et historien (VIe siècle).
+Cassian. Johannes Cassianus (Cassien), Écrivain chrétien (Ve siècle).
+Cat. C. Val. Catullus (Catulle). Poète lyrique (Ier siècle av. J.-C.).
+Cato. M. Porcius Caro (Caton l’Ancien). Historien et agronome (IIe siècle av. J.-C.).
+C.-Aur. Caelius Aurelius, Médecin (IIIe siècle).
+Cels. Corn. Celsus (Celse), Médecin (siècle d'Auguste).
+Censor. Censorinus. Grammairien (IIIe siècle).
+C.-Gall, Corn. Gallus. Poète élégiaque (siècle d'Auguste).
+Char. Flav. Sosipater Charisius. Grammairien (IVe siècle).
+Cic. M. Tullius Cicero (Cicéron), Orateur et philosophe (Ier siècle av. J.-C.).
+Cic.-fil. Cicero filius (fils du précédent).
+Cic.-poet. Œuvres poétiques de Cicéron.
+Cinc.-Alim. Cincius Alimentus. Historien (IIe siècle av. J.-C.).
+Cinn. Helvius Cinna, Poète épique (Ier siècle av. J.-C.).
+CL. ou Claud. Claudius Claudianus (Claudien). Poète épique (IVe siècle).
+Cn.-Gell. Cneus Gellius, Historien (Ier sc. av. J.-C.).
+Cn.-Mat. Voy. Mat.
+Col. ou Colum, L. Moderatus Columella (Columelle). Agronome (Ier siècle).
+Commod. Commodianus (Commodien). Poète et moraliste chrétien (IIIe siècle).
+Const.-Afric, Constantinus Africanus, Médecin (XIe siècle).
+Corip. Flav. Corippus (Corippe). Poète et rhéteur chrétien (VIe siècle).
+C.-Sev. Corn. Severus. Poète épique (Ier siècle av, J.-C.).
+Curt. Q. Curtius (Quinte-Curce). Historien (Ier sc.).
+Cypr. Thascius Caecilius Cyprianus (Saint Cyprien). Moraliste chrétien (IIIe siècle).
+Damas. Damasus. Poète chrétien (IVe siècle).
+Dict. Dictys Cretensis, Mythographe (IVe siècle?).
+Diocl, Diocletianus (Édit de Dioclétien)(IIIe sc.).
+Diom, Diomedes (Diomède). Grammairien (Ve sc.).
+Don. ou Donat. Aelius Donatus (Donat), Grammairien (IVe siècle).
+Dracont. Dracontius, Poète chrétien (Ve siècle).
+Empor. Emporius. Rhéteur (VIe siècle).
+Enn. Q. Ennius. Poète épique el dramatique (IIe siècle av. J.-C.).
+Ennod. M. Felix Ennodius. Poète et rhéteur chrétien (VIe siècle).
+Erasm. Erasme. Savant (XVIe siècle).
+Eucher. Eucherius (Euchère), Moraliste chrétien (Ve siècle).
+Eugen. Eugenius. Poète chrétien (VIIe siècle).
+Eumen. Eumenius. Panégyriste (IVe siècle).
+Eutr. Eutropius (Eutrope). Historien (IVe siècle).
+Fenest. Fenestella. Historien (siècle d'Auguste).
+Fest. Pomp. Festus. Grammairien (IIIe siècle).
+Firm. J. Firmicus Maternus. Mathématicien et apologiste (IVe siècle).
+Fl. ou Flor. L. Annaeus Florus. Historien (IIe sc.).
+Flod, Flodoard, Chroniqueur et poète (Xe siècle).
+Fort. Venantius Fortunatus (Fortunat). Poète chrétien (VIe siècle).
+F.-Pict. Fabius Pictor. Historien (IIe sc. av. J.-C.).
+Fr. Dictionnaire de Freund.
+Frontin, S. Julius Frontinus (Frontin). Écrivain didactique (Ier siècle).
+Fronto. M. Cornelius Fronto (Fronton), Rhéteur (IIe siècle).
+Fulg. Fl. Fulgentius (Fulgence). Philologue et mythographe (VIe siècle).
+Gaj. Voy. Caj.
+Garg, Gargilius Martialis. Agronome (IIIe siècle).
+Gell. Aulus Gellius (Aulu-Gelle). Grammairien (IIe siècle).
+Genn. Gennadius. Écrivain chrétien (Ve siècle).
+Georg. Dictionnaire de Georges.
+Gerb. Gerbert. Mathématicien (Xe siècle).
+Germ. Cæsar Germanicus. Poète didactique (siècle d'Auguste).
+Grat. Gratius Faliscus. Poète didactique (siècle d'Auguste).
+Greg. ou Greg. Tur. Gregorius Turonensis (Grégoire de Tours). Historien (VIe siècle).
+Hem. Cassius Hemina. Historien (Ier sc. Av. J.-C.).
+Hier. Eusebius Hieronymus (Saint Jérôme). Écrivain chrétien (IVe siècle).
+Hilar. Hilarius (Saint Hilaire). Écrivain chrétien (IVe siècle).
+Hincmar. Hincmar, Théologien. (IXe siècle).
+Hirt, A, Hirtius. Historien (Ier siècle av. J.-C.).
+Hor. Q. Horatius Flaccus (Horace). Poète lyrique et satirique (siècle d'Auguste).
+Hyg. C. J, Hyginus (Hygin). Grammairien et mythographe (siècle d'Auguste).
+Innoc. Innocentius. Auteur d'un traité sur les mesures agraires (IVe siècle).
+Isid. Isidorus. (Isidore de Séville). Grammairien (VIIe siècle).
+Jabol. Jabolenus. Jurisconsulte (Ier siècle).
+J.-Obs. ou Obseq. Jul. Obsequens. Auteur d'un traité sur les prodiges (Ier siècle).
+Jorn. Jornandes. Historien (VIe siècle).
+Jul. Julianus. Jurisconsulte (IIe siècle).
+Just. M. Justinus (Justin). Historien (IIe siècle).
+Juv. Decimus Junius Juvenalis. (Juvénal). Poète satirique (Ier siècle).
+Juvc. C. Aquilinus Juvencus. Poète chrétien (IVe siècle).
+J.-Val. Jul. Valerius. Biographe (IVe siècle).
+KL. Klotz. Auteur d'un dictionnaire.
+Laber. Decimus Laberius. Mimographe (Ier siècle av. J.-C.).
+Lact. Caecilius Lactantius. (Lactance) Écrivain chrétien (IVe siècle).
+Læv. Lævius. Poète lyrique (Ier siècle av, J.-C.).
+Lampr. Ael. Lampridus (Lampride). Historien (IIIe siècle).
+Licent. Licentius. Poète chrétien (Ve siècle).
+Licin. Granius Licinianus. Historien (IIe siècle).
+Licin.-Mac. Licinius. Macer. Historien (Ier siècle av. J.-C.).
+Linn. Linné. Botaniste (XVIIIe siècle).
+Liv. Titus Livius (Tite Live). Historien (siècle d'Auguste).
+Long. Villeius Longus, Grammairien (IIIe siècle).
+Luc. M. Annaeus Lucanus (Lucain). Poète épique (Ier siècle).
+Lucil. C Lucilius. Poète satirique (IIe siècle av. J.-C.).
+Lucr, T. Lucretius Carus (Lucrèce), Poète didactique (Ier siècle av. J.-C.).
+Macer. Aemilius Macer. Médecin et poète (Ier siècle av. J.-C.).
+Macr. Aurelius Macrobius (Macrobe). Grammairien (Ve siècle).
+Mall.-Th. Mallius Theodorus. Auteur d'un traité sur la métrique (Ve siècle).
+Mamert. CL, Mamertinus. Panégyriste (Ve siècle).
+Man. M. Manilius. Poète didactique (Ier siècle).
+Marcian. Voy. Dig. 2e liste.
+Mart, M. Valerius Martialis. (Martial), Poète épigrammatiste (Ier siècle).
+Mat. Cn. Matius. Auteur de mimes (Ier siècle av. J.-C.).
+M-Aur. Marcus Aurelius. (Marc-Aurèle) (IIe sc.).
+Max. Maximus (Saint Maxime). Écrivain chrétien (Ve siècle).
+Maxim. Maximianus (Maximien), Poète élégiaque (Ve siècle).
+M.-Corv, Messala Corvinus, Historien (siècle d'Auguste).
+Mel. Pomponius Mela. Géographe (Ier siècle).
+M.-Emp. Marcellus Empiricus. Médecin (Ve sc.).
+Minuc. Minucius Felix. Rhéteur (IIIe siècle).
+Mod. Modestus. Auteur d'un traité sur l’art militaire (IVe siècle).
+Musa. Antonius Musa. Médecin (siècle d'Auguste).
+M.-Vict. Marius Victorinus. Rhéteur (IVe siècle).
+Naev. Cn. Naevius, Poète dramatique et épique (IIIe siècle av. J.-C.).
+Nazar. Nazarius. Panégyriste (IVe siècle).
+Nemes. M. Aurelius Nemesianus (Némésien). Poète bucolique (IIIe siècle).
+Nep. Corn. Nepos. Biographe (Ier siècle av. J.-C.).
+Nigid. Nigidius Figulus, Historien et commentateur (Ier siècle av. J.-C.).
+Non. Nonius Marcellus. Grammairien (IIIe sc.).
+Nov. Novius. Poète comique (Ier siècle av. J.-C).
+Optat. Porphyrius Optatianus. Auteur de panégyriques (IVe siècle).
+Oros. Paulus Orosius. Historien (Ve siècle).
+Ov. P. Ovidius Naso (Ovide). Poète élégiaque et didactique (siècle d'Auguste).
+Pacat. Latinus Pacatus Drepanius. Panégyriste (IVe siècle).
+Pacuv. ou Pac. M. Pacuvius, Poète tragique (IIe siècle av. J.-C.).
+Palaem. Palæmo, Voy. Remnius.
+Pall. Palladius Rutilius Taurus. Agronome (Ve siècle).
+Papin. Æm. Papinianus. Jurisconsulte (IIIe siècle).
+Papir. Papirius. Jurisconsulte (IVe sc. av, J.-C.).
+P.-jct. Paulus. Jurisconsulte (IIIe siècle).
+Pelag. Pelagonius. Auteur d'un traité sur l'hippiatrique (IVe siècle).
+Pentad. Pentadius. Épigrammatiste (IVe siècle).
+Pers. A. Persius Flaccus (Perse). Poète satirique (Ier siècle).
+Petr. T. Petronius Arbiter (Pétrone). Auteur du Satyricon (Ier siècle?).
+Ph. ou Phæd. Phaedrus (Phèdre). Fabuliste (siècle d'Auguste).
+Phoc. Phocas. Grammairien et poète (VIe siècle).
+P.-Lat. Porcius Latro. Rhéteur (siècle d'Auguste).
+Plaut. T. Maccius Plautus (Plaute). Poète comique (IIe siècle av. J.-C.).
+Plin. C. Plinius Secundus (Pline). Auteur d'une histoire naturelle (Ier siècle).
+Pl-j. C. Plinius Caecilius Secundus (Pline le Jeune). Épistolographe et panégyriste (IIe siècle).
+Pl.-Val. C. Plinius Valerianus. Naturaliste (IVe siècle).
+Plot. Plotius. Auteur d'un traité sur la métrique (IIIe siècle ap. J.-C.).
+P.-Nol. Paulus Nolanus (Paulin de Nole). Épistolographe et poète (IVe siècle).
+Pollio. Asinius Pollion. Orateur et poète (siècle d'Auguste).
+Pomp. Pomponius. Poète comique (Ier siècle av.-J.C).
+Pomp.-gr. Pompeius. Grammairien (IVe siècle ?).
+Pomp.-jct. S. Pomponius. Jurisconsulte (IIe siècle).
+Porphyr. Porphyrio. Commentateur d'Horace.
+P.-Petroc. Paulinus Petrocorius (Paulin de Périgueux). Poète chrétien (Ve siècle).
+Prisc. Priscianus. Caesariensis (Priscien). Grammairien (Ve siècle).
+Prob. Valerius Probus. Grammairien (IVe siècle).
+Prop. Sext. Propertius (Properce). Poète élégiaque (siècle d'Auguste).
+Prosp. Prosper D’Aquitaine. Controversiste et poète (Ve siècle).
+Prud. Aur. Prudentius Clemens (Prudence). Poète chrétien (IVe siècle).
+P.-Vict. Publius Victor. Géographe (IIIe siècle).
+Quadrig. Q. Claudius Quadrigarius. Historien (Ier siècle av. J.-C.).
+Quint. M. Fabius Quintilianus (Quintilien). Rhéteur (Ier siècle).
+Q.-Cic. Quintus Ciceron. Frère et correspondant de l'orateur.
+Rhemn. Q. Fannius Rhemnius ou Remnius Palaemo. Grammairien et poète (Ier siècle).
+Ruf. Sextus Rufus, Historien (IVe siècle).
+Rufin. Rufinus (Rufin). Grammairien et poète (Ve siècle).
+Rutil. Rutilius Namatianus, Poète didactique (Ve siècle).
+Rut.-Lup. Rutilius Lupus. Rhéteur (Ier siècle).
+Sabin. A. Sabinus, Poète élégiaque (siècle d'Auguste).
+Sall. C. Sallustius Crispus (Salluste). Historien (Ier siècle av. J.-C.).
+Salv. Salvianus (Salvien). Controversiste chrétien (Ve siècle).
+Samm. Q. Serenus Sammonicus, Médecin (IIIe siècle).
+S.-Cæs. Saint Césaire d’Arles. Sermonnaire (Ve siècle).
+Scæv. Scævola. Jurisconsulte (IIIe sc. av. J.-C.).
+Scaur. Scaurus. Grammairien (IIe siècle ap. J.-C.).
+Scrib. Scribonius Largus. Médecin (Ier siècle).
+Sedul. Coelius Sedulius. Poète chrétien (Ve siècle).
+Sen. L. Annaeus Seneca (Sénèque). Philosophe (Ier siècle).
+Sen.-rh. Sénèque le Rhéteur, père du précédent (siècle d'Auguste).
+Sen.-tr. Sénèque le Tragique, peut-être le même que Sénèque le Philosophe.
+Seren. Septimus Serenus. Poète bucolique (IIe siècle ap. J.-C.).
+Serg. Sergius. Grammairien (IVe siècle).
+Serv. Servius Honoratus Maurus. Grammairien (Ve siècle).
+Sev. Voy. C.-Sev.
+Sic.-Fl. Siculus Flaccus. Agronome (IVe siècle).
+Sid. C. Sidonius Apollinaris (Sidoine Apollinaire). Épistolographe et poète (Ve siècle).
+Sil. C. Silius Italicus. Poète épique (Ier siècle).
+Simplic. Simplicius. Auteur d'un traité sur les mesures agraires (IIIe siècle).
+Sisen. L. Corn. Sisenna. Annaliste et grammairien (Ier siècle av. J.-C.).
+Sm. ou Smith. Dictionnaire de Smith.
+Sol. C. Julius Solinus. Géographe (IIIe siècle).
+Spart. Aelius Spartianus (Spartien). Un des auteurs de l’Histoire Auguste (IIIe siècle).
+S.-Sev. Sulpicius Severus (Sulpice-Sévère). Historien (Ve siècle).
+St. ou Stat. P. Papinius Statius (Stace). Poète épique (Ier siècle).
+Suet. C. Suetonius Tranquillus (Suétone). Historien (Ier siècle).
+Sulp. Sulpicia. Poétesse auteure d'une satire (Ier sc.).
+Symm. Q. Aurelius Symmachus (Symmaque), Orateur et philosophe (IVe siècle).
+Syr. Publius Syrus. Mimographe (Ier sc. av. J.-C.).
+Tac. C. Cornelius Tacitus (Tacite), Historien (IIe siècle).
+Ter. P. Terentius Afer (Térence). Poète comique (2e sc. av. J.-C.).
+Tert. Q. Septimius. Tertullianus (Tertullien). Moraliste chrétien (IIIe siècle).
+Th.-Pr, Theodorus Priscianus, Médecin (IVe siècle).
+Tib. A. Aelius Tibullus (Tibulle). Poète élégiaque (siècle d'Auguste).
+Titin. Titinius. Poète comique (Ier siècle av. J.-C.).
+T.-Maur. Terentianus Maurus, Poète didactique (IIe siècle).
+Treb. ou Trebel. Trebellius Pollio. Un des auteurs de l'Histoire Auguste (IIIe siècle).
+Turn. Fl. Turnus. Poète satirique (Ier siècle).
+Turpil. Sextus Turpilius. Poète comique (IIe siècle av. J.-C.).
+Ulp. Domitius Ulpianus (Ulpien). Jurisconsulte (IIIe siècle).
+V.-Ant, Valerius Antias. Historien (Ier sc. av. J.C.).
+Val.-Cat, Valerius Cato. Grammairien et poète (IIe siècle av. J.-C.).
+Varr. M. Terentius Varro (Varron). Agronome et grammairien (Ier siècle av. J.-C.).
+Varr.-At, Varro Atacinus. Poète épique (Ier siècle av. J.-C.).
+Veg. Flav. Vegetius Renatus (Végèce). Auteur de traités sur l'art militaire et sur l'art vétérinaire (IVe siècle).
+V.-Fl. C. Valerius Flaccus. Poète épique (Ier sc.).
+V.-Max. Valerius Maximus (Valère Maxime). Historien (siècle d'Auguste).
+Vell. P. Velleius Paterculus. Historien (siècle d'Auguste).
+Verr. Verrius Flaccus. Grammairien (siècle d'Auguste).
+Vib. Vibius Sequester. Géographe (Ve siècle).
+Vict. Cl. Marius Victor. Poète (IVe siècle).
+Vinc. Belvac. Vincent de Beauvais. Polygraphe (XIIIe siècle).
+Virg. P. Virgilius  Maro (Virgile). Poète bucolique, didactique et épique (siècle d'Auguste).
+Vitr. M. Vitruvius Pollio (Vitruve). Auteur d'un traité d'architecture (siècle d'Auguste).
+Vop. ou Vopisc. Flavius Vopiscus. Un des auteurs de l'Histoire Auguste (IIIe siècle).
+Vulc. Vulcatius Gallicanus. Un des auteurs de l’Histoire Auguste (IIIe siècle).
+ 
+OUVRAGES D'AUTEURS INCERTAINS
+
+A. b. Af. Auctor. Belli Africani. Continuateur de César (Ier siècle av. J.-C.).
+A. b. Al. Auctor Belli Alexandrini. Continuateur de César (Ier siècle av. J.-C.).
+A. b. H. Auctor Belli Hispaniensis. Continuateur de César (Ier siècle av. J.-C.).
+Ad Her. Ad Herennium (La Rhétorique à Hérennius). Attribuée à Cicéron.
+Ad Liv. Ad Liviam. Élégie anonyme (sc. d'Auguste).
+Ad Pis. Ad Pisonem. Petit poème (Ier sc. ap. J.-C.).
+Anthol. ou Anth. Anthologia. Recueil de pièces de différents genres.
+Auct. Col. Auctor Coloniarum, Description des colonies.
+A.-Limit. Auctor Limitum. Auteur d'un traité sur les limites.
+A.-Phil. Voy. Philom.
+Bibl. Voy. Vulg.
+Capitul. Capitulaires. Ordonnances de l'époque Carolingienne.
+Carm.-Gen. Carmen de Genesi. (Auteur inconnu.).
+Cat.-Virg. Catalecta Virgilii. Recueil de poésies attribuées à Virgile.
+Ciris. Ciris. Petit poème attribué à Virgile.
+Cod. ou C.-Just. Codex Justinianus. (Code Justinien).
+Cod.-Const. Code de Constantin.
+Copa. Copa. Petit poème attribué à Virgile.
+C.-Th. ou Theod. Codex Theodosianus (Code Théodosien).
+Culex. Culex. Petit poème attribué à Virgile.
+Dig. Digesta (Digestes). Recueil des décisions des principaux jurisconsultes : Ulpien, Modestin, Callistrate, etc.
+Eccl. ou (Eccl.). Latin Ecclésiastique.
+Ep.-Il. Epitome Iliados (Abrégé de l’Iliade).
+Ep.-Liv. Epitome  Livii (Abrégé de Tite Live).
+Fr.-J. Fragmenta Juris (Fragments de l’ancien Droit).
+Gloss, Un glossaire anonyme.
+Gl. Cyr. Glossarium Cyrilli. (Glossaire de Cyrille).
+Gl gr.-lal. Glossarium Graeco-Latinum. (Glossaire Grec-Latin).
+Gl. lat-gr. Glossarium Latino-Graecum. (Glossaire Latin-Grec).
+Gl-Phil. Glossarium Philoxeni. (Glossaire de Philoxène).
+Gl. Pith. Glossarium Pithoei. Glossaire publié par Pithou.
+Gl.-Plac. Glossarium Placidi. (Glossaire de Placide).
+Ibis. Ibis. Poème attribué à Ovide.
+Insc. Inscriptiones. (Inscriptions).
+Inst. Institutiones Justiniani (Institutes de Justinien).
+It.-Al. Itinerarium Alexandri (Itinéraire d’Alexandre).
+Moret. Moretum. Petit poème attribué à Virgile.
+Myth. Mythographii (Mythographes, publiés par A. Mai).
+N.-Tir. ou Not,-Tir, Notæ Tironis.
+Novel. Novellae Constitutiones. Recueil de jurisprudence sous Justinien.
+Pand. Pandectes. Recueil juridique.
+Pan.-Const, Panegyricus ad Constantinum.
+Perv.-Ven, Pervigilium Veneris. Hymne attribué à J. Florus.
+Peut. Peutingeriana Tabula (Carte de l'empire romain au IVe siècle, publiée par Peutinger).
+Philom. Philomela (Philomèle). Poème sur les cris des animaux.
+Priap. Priapea (Recueil de Priapées).
+Sch. ou Schol. Scholiastes (Scholiaste de Cicéron, de Juvénal, etc.).
+Vet.-poet. Vetus Poeta (Ancien Poète).
+Vulg. Vulgata (Vulgate ou version latine de la Bible).
+XII Tab. XII Tabulae (Loi des Douze Tables).
+
+
+
+§ 1. EXPLICATION DES SIGNES
+
+Le signe 
+
+— tient lieu du mot qui est l'objet de l'article ou qui commence l'exemple précédent; quelquefois il remplace la première partie d'un mot précédemment exprimé; quelquefois enfin il marque dans une phrase dialoguée le changement d'interlocuteur.
+
++ indique un archaïsme ou un néologisme.
+
+? indique un mot douteux ou une origine incertaine.
+
+: précède les citations françaises et leurs traductions, données comme exemples.
+
+|| marque une transition.
+
+Le chiffre placé en tête d'un article sert à distinguer les homonymes.
+
+Les chiffres employés dans le cours d’un article annoncent les changements d'acception.
+
+
+§ 2. EXPLICATION DES SIGNES
+
+§ 1. SIGNES
+Le signe
+ — lient lieu du mot qui est l’objet de l’article ou qui commence l’exemple précédent; quelquefois il remplace la première partie d'un mot précédemment exprimé; quelquefois enfin il marque dans une phrase dialoguée le changement d’interlocuteur.
++ indique un archaïsme ou un néologisme.
+Le signe ? indique un mot douteux ou une origine incertaine.
+: précède les citations françaises et leurs traductions, données comme exemples.
+|| marque une transition.
+Le chiffre placé en tête d’un article sert à distinguer les homonymes.
+Les chiffres employés dans le cours d’un article annoncent les changements d’acception.
+
+
+
+
+§ 2. ABRÉVIATIONS
+
+all.                 ablatif
+abr. abrév.          abrégé, abréviation,
+absol.               absolument.
+acc. ou accus,       accusatif.
+ad, activt.          actif, activement.
+adj. adject.         adjectif, adjectivement,
+adv.                 adverbe, adverbialement,
+affirm.              affirmatif.
+agric.               agriculture.
+anat.                anatomie.
+anc.                 ancien.
+anim.                animé, animal,
+antéc.               antécédent.
+apr.                 après.
+arch.                archaïsme.
+archit.              architecture,
+arith.               arithmétique,
+arpent,              arpentage,
+astron.              astronomie,
+attr.                attraction.
+aug.                 augure,
+av.                  avant.
+b. part.             (en) bonne part.
+c.                   comme.
+c.-à-d.              c’est-à-dire.
+cap.                 capitale.
+ch.                  chose.
+chir.                chirurgie.
+coll.                collectif.
+comp. ou compar.     comparatif.
+compl.               complément.
+conj.                conjonction.
+conjug.              conjugaison.
+contr.               contracté, contraction.
+corrél.              corrélatif.
+dat.                 datif,
+décl.                déclinaison,
+démonstr.            démonstratif,
+dép.                 déponent.
+déterm.              déterminatif.
+dial.                dialogue,
+diér.                diérèse,
+dim. ou dimin.       diminutif.
+dor.                 dorien.
+dr.                  droit.
+dubit.               dubitatif.
+ell. ellipt.         ellipse, elliptiquement.
+empl.                employé.
+éol.                 éolien.
+épith.               épithète.
+ex.                  exemple.
+excl.                exclamatif.
+expr.                exprimant, exprimé, exprèssion.
+ext.                 (par) extension.
+famil.               familier, familièrement.
+f. ou fém.           féminin.
+fig.                 (au) figuré.
+fig. de rhét.        figure de rhétorique.
+fl.                  fleuve.
+form.                formule.
+fréq.                fréquentatif.
+f. ou fut.           futur.
+gén.                 génitif.
+gén. ou géner.       général, généralement.
+géom.                géométrie.
+gér.                 gérondif.
+gram.                grammaire.
+hab.                 habitants.
+hellén.              hellénisme.
+hypall.              hypallage.
+imparf.              imparfait.
+impér.               impératif.
+imp. ou impers.      impersonnel.
+ind. ou indécl.      indéclinable.
+indéf.               indéfini.
+indic.               indicatif.
+indir.               indirect.
+inf. ou infin.       infinitif, infïnîtive.
+interj.              interjection.
+interr. ou interrog. interrogatif.
+inus.                inusité.
+ion.                 ionien.
+iron.                ironiquement.
+irrég.               irrégulier.
+jud.                 judiciaire.
+litt. ou littér.     littéralement.
+locut.               locution.
+log.                 logique.
+m. ou masc.          masculin
+m.                   mot. 
+m. à m.              mot à mot. 
+math.                mathématique. 
+méd.                 médecine. 
+métr.                métrique. 
+milit.               militaire. 
+m. part.             (en) mauvaise part. 
+mouv.                mouvement. 
+mt.                  montagne. 
+mus.                 musique. 
+nt. ou neut.         neutre. 
+nég. ou négat.       négatif. négation. 
+nom. ou nomin.       nominatif. 
+obj.                 objet. 
+onomat.              onomatopée. 
+opp. ou oppos.       opposé, opposition. 
+ord. ou ordin.       ordinairement. 
+p.                   pour. 
+parf.                parfait. 
+parl.                (en) parlant. 
+part.                participe. 
+part. ou partic.     particulier, particulièrement. 
+part. f. p.          participe futur passif. 
+part. p.             participe passif. 
+pass.                passif. 
+passivt.             passivement. 
+peint.               peinture. 
+pers. ou person.     personne, personnel. 
+philos.              philosophie. 
+phr.                 phrase. 
+phys.                physique. 
+pléon.               pléonasme. 
+pl. ou plur.         pluriel. 
+poét.                poétique. 
+polit.               politique. 
+poss.                possessif. 
+pple.                peuple. 
+préc. ou prècéd.     précédent. 
+prép.                préposition. 
+prés.                présent. 
+prim.                primitif. 
+priv.                privatif.
+promont.             promontoire.
+pr.                  propre.
+pron.                pronom.
+prop. ou propos.     proposition.
+prov.                proverbe. 
+qcq.                 quelconque.
+qq.                  quelque.
+qq. ch.              quelque chose.
+Qqf.                 quelquefois.
+qqn.                 quelqu'un.
+rar.                 rarement.
+refl.                réfléchi.
+rég.                 régime.
+rel. ou relat.       relatif, relativement.
+rhét.                rhétorique.
+riv.                 rivière.
+s.-ent. ou s.-e.     sous-entendu.
+seul.                seulement.
+simpl.               simplement.
+s. ou sing.          singulier.
+souv.                souvent.
+subj.                subjonctif.
+subord.              subordonné.
+subst. substantif,   substantivement.
+suiv.                suivant.
+suj.                 sujet.
+sup.                 supin.
+superl.              superlatif.
+syn.                 synonyme.
+sync.                syncope.
+synér.               synérèse.
+t.                   terme.
+techn.               technique.
+théol.               théologie.
+tm.                  tmèse.
+touj.                toujours.
+v.                   ville.
+végét.               végétal.
+voc.                 vocatif.
+V. ou voy.           voyez.

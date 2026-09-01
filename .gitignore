@@ -1,0 +1,17 @@
+# Fichiers Code::Blocks locaux et de session
+*.layout
+*.depend
+*.workspace.save
+
+# Fichiers objets et binaires de compilation
+bin/
+obj/
+*.o
+*.a
+*.exe
+*.out
+
+# Système et sauvegardes
+.DS_Store
+*~
+*.swp
