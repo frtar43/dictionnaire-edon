@@ -12,6 +12,10 @@ mots latins, l'IA aurait pu se tromper, vérifiez vos recherches...
 ## Compilation
 Mettre edon.db et intro.txt à côté de l'exécutable.
 
+## Dépendances Linux
+sudo apt install libsqlite3-dev
+sudo apt install fonts-noto-color-emoji
+
 ### Avec Code::Blocks
 1. Ouvrez le fichier `dictionnaire_edon.cbp` dans Code::Blocks.
 2. Assurez-vous que les options du compilateur contiennent les flags GTK4 :
