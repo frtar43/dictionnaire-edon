@@ -106,41 +106,45 @@ static void display_word_definition(AppState *state, const char *word);
 static void add_to_history(AppState *state, const char *word);
 
 static void update_style(AppState *state) {
-    char css[512];
+    char css[1024];
     const char *current_font = state->current_font;
 
     if (state->dark_mode) {
         snprintf(css, sizeof(css),
-        "window { background-color: #1e1e1e; color: white; } "
-        ".right-panel { background-color: #1e1e1e; } "
-        "textview.definition-view { "
-        "  font-family: '%s', 'Segoe UI', 'Calibri', 'Arial', sans-serif; "
-        "  font-size: %dpx; "
-        "  background-color: #252525; "
-        "  color: white; "
-        "} "
-        "list, listrow { background-color: #252525; color: white; } "
-        "label { background-color: transparent; } "
-        "button { background-color: #303030; color: white; } "
-        "entry { background-color: #303030; color: white; } ",
-        current_font,
-        state->font_size);
+            "window { background-color: #1e1e1e; color: white; } "
+            ".right-panel { background-color: #1e1e1e; } "
+            "textview.definition-view, "
+            "textview.definition-view text { "
+            "  font-family: '%s', 'Segoe UI', 'Calibri', 'Arial', sans-serif; "
+            "  font-size: %dpx; "
+            "  background-color: #252525; "
+            "  color: white; "
+            "} "
+            "scrolledwindow { background-color: transparent; } "
+            "list, listrow { background-color: #252525; color: white; } "
+            "label { background-color: transparent; } "
+            "button { background-color: #303030; color: white; } "
+            "entry { background-color: #303030; color: white; } ",
+            current_font,
+            state->font_size);
     } else {
         const char *bg_hex = DAY_COLORS[state->bg_color_index].hex;
 
         snprintf(css, sizeof(css),
-        "textview.definition-view { "
-        "  font-family: '%s', serif; "
-        "  font-size: %dpx; "
-        "  background-color: %s; "
-        "  color: #1a1a1a; "
-        "} "
-        ".right-panel { background-color: %s; } "
-        "label { background-color: transparent; } ",
-        current_font,
-        state->font_size,
-        bg_hex,
-        bg_hex);
+            ".right-panel { background-color: %s; } "
+            "textview.definition-view, "
+            "textview.definition-view text { "
+            "  font-family: '%s', serif; "
+            "  font-size: %dpx; "
+            "  background-color: %s; "
+            "  color: #1a1a1a; "
+            "} "
+            "scrolledwindow { background-color: transparent; } "
+            "label { background-color: transparent; } ",
+            bg_hex,
+            current_font,
+            state->font_size,
+            bg_hex);
     }
 
     gtk_css_provider_load_from_string(state->css_provider, css);
