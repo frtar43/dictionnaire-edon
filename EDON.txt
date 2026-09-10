@@ -25683,7 +25683,7 @@ conjonctive. Appositum, i, n. Quint. *Appositio, onis, f.
 
 APPRÉCIABLE, adj. Qui peut être apprécié. Aestimabilis, m. f., e,
 n. Cic. : Qui n'est pas appréciable, Inaestimabilis, e. Liv. Ce qui
-n'est — ni à l'œil, ni à l'oreille, Quod neque oculis, neque
+n'est — ni à l'oeil, ni à l'oreille, Quod neque oculis, neque
 auribus percipi potest. Cic. Tout ce qui est — à l'oreille
 s'appelle nombre, Quidquid sub aurium mensuram cadit, numerus
 vocatur. Cic. Voy. APPRÉCIER.
@@ -25776,7 +25776,7 @@ APPRENDRE, v. act.
 1° Acquérir une connaissance. Discere, o, is,
 didici, s. sup., act. Cic. Condiscere, act. Cic. : Apprendre à
 fond, Perdiscere, act. Cic. — en sus, Addiscere, act. Cic. —
-d'avance, Praediscere, act. Cic. — par cœur. Voy. 2°. — qq. ch.
+d'avance, Praediscere, act. Cic. — par coeur. Voy. 2°. — qq. ch.
 (une science, un art) de qqn, Discere aliquid ab aliquo. Cic.
 Quint. de aliquo. Ter. ex aliquo. Quint. apud aliquem. Cic. — à
 nager, à danser, à lutter, à lire, Discere nare. Plaut. saltare.
@@ -25793,7 +25793,7 @@ les mers pour —, Discendi causa maria transmittere. Cic. Il en est
 qui apprennent avec peine, Indociles sunt quidam. Cic. || 2°
 Retenir dans sa mémoire. Ediscere, o, is, didici, s. sup., act.
 Cic. : Apprendre qq. ch. mot pour mot, Aliquid ad verbum ediscere.
-Cic. — des noms par cœur, Nomina memoriae commendare, o, as, avi,
+Cic. — des noms par coeur, Nomina memoriae commendare, o, as, avi,
 atum. Cic. — une pièce de théâtre (pour la jouer), Ediscere
 fabulam. Ter. || 3° S'accoutumer à faire qq. ch. Condiscere, o, is,
 didici, s. sup., act. Cic. Assuescere, o, is, suevi, suetum, n.
@@ -26193,7 +26193,7 @@ Perscrutari, or, aris, atus sum, dép. (acc.). Cic. Pernoscere, o,
 is, novi, notum, act. Cic. Excutere, io, is, cussi, cussum, act.
 Cic. Plane cognoscere, o, is, gnovi, gnitum, act. Cic. :
 Approfondir les passions de l'âme, Motus animorum pernoscere. Cic.
-— le cœur de qqn, Alicujus mentem penitus introspicere. Cic. Choses
+— le coeur de qqn, Alicujus mentem penitus introspicere. Cic. Choses
 sérieusement approfondies, Res penitus perspectae planeque
 cognitae. Cic. Approfondissons ces questions, Haec interiora
 videamus (de videre, eo, es, vidi, visum). Cic. Approfondir
@@ -26631,7 +26631,7 @@ Germania. Tac. Le froid n'y est pas —, Abest frigorum asperitas
 (atis, f.). Tac. || 2° Fig. Rude, dur, grossier (en parl. du style).
 Asper, era, erum. Cic. Horridus. Cic. Durus. Cic. || 3° Sévère,
 sauvage, farouche. Asper, era, erum. Cic. Durus. Cic. Horridus.
-Cic. Acerbus. Cic. : Âpre dans ses discours et dans ses mœurs,
+Cic. Acerbus. Cic. : Âpre dans ses discours et dans ses moeurs,
 Asper oratione et moribus. Cic. Humeur —, Asperitas, atis, f. Cic.
 Morum acerbitas, f. Cic. || 4° Acharné. Asper, era, erum. Sall.
 Acer, cris, cre. Cic. Atrox, gén. ocis. Sall. Liv. || 5°
@@ -26715,7 +26715,7 @@ immédiatement — le roi, Secundus a rege. Cic. Le quatrième —
 Arcésilas, Quartus ab Arcesila. Cic. Le plus savant — Varron,
 Juxta Varronem doctissimus. Gell. Ayant rencontré une plaine — de
 grands rochers, Ex magnis rupibus nactus planitiem. Caes.
-L'œsophage vient immédiatement — la langue, Linguam stomachus
+L'oesophage vient immédiatement — la langue, Linguam stomachus
 excipit (de excipere, io, cepi, ceptum). Cic. Faire passer qq. ch.
 — la liberté, Rem posteriorem libertate ducere. Cic. — la vertu,
 rien n'est préférable à l'amitié, Virtute excepta, nihil amicitia
@@ -26760,7 +26760,7 @@ decreverunt. Cic. Je ne pense que d'— toi, Nihil sentio nisi de
 sententia tua. Cic. Prédire qq. ch. d'— le nombre des moineaux, Ex
 passerum numero aliquid augurari. Cic. Juger une chose d'— une
 autre, Perpendere rem re ou ad rem. Cic. Juger qq. ch. d'— vos
-lois, Ad vestras leges aliquid exigere. Liv. Vivre d'— le vœu de la
+lois, Ad vestras leges aliquid exigere. Liv. Vivre d'— le voeu de la
 nature, Secundum naturam vivere. Cic. Régler les contestations
 d'— les mots et non d'— l'équité, Verbis controversias, non
 aequitate, dijudicare. Cic. Non d'— les mots, mais d'— l'idée, Non
@@ -26849,7 +26849,7 @@ Fig. Rudesse (du style). Duritas, atis, f. Cic. Horror, oris, m.
 Quint. || 3° Rudesse, dureté (du caractère), animosité. Asperitas,
 atis, f. Cic. : L'âpreté du caractère, Naturae asperitas ou
 immanitas, f. Cic. L'— des stoïciens, Stoicorum tristitia (ae, f.)
-ou asperitas. Cic. L'— des mœurs, Morum acerbitas, f. Cic. L'— de
+ou asperitas. Cic. L'— des moeurs, Morum acerbitas, f. Cic. L'— de
 la discussion, Contentionis asperitas. Cic. Mésintelligence
 exempte d'—, Dissensio sine acerbitate. Cic. || 4° Avidité.
 Aviditas, atis, f. (à qq. ch., alicujus rei). Cic. : Âpreté au gain,
@@ -27267,7 +27267,7 @@ m. f., e, n. (Georg.).
 ARCHIDUCHÉ, s. m. Seigneurie d'Autriche. *Archiducatus, us, m.
 (Georg.).
 
-ARCHIDUCHESSE, s. f. Femme d'un archiduc ; Fille ou Sœur de
+ARCHIDUCHESSE, s. f. Femme d'un archiduc ; Fille ou Soeur de
 l'empereur d'Autriche. *Archidux, ucis, f. (Georg.).
 
 ARCHIÉPISCOPAL, ALE, adj. D'archevêque. *Archiepiscopalis, m. f.,
@@ -27449,7 +27449,7 @@ L'— des regrets que tu nous causes, Desiderii tui igniculus (i), m.
 Cic. — des combats, Armorum ardor. Praeliorum contentiones. Cic.
 Vivacité qu'enflamme ou qu'augmente l'— du combat, Alacritas quae
 studio pugnae incenditur. Caes. Les Romains encore dans toute l'—
-du combat, Romani calentes adhuc a pugna. Liv. Cœur plein d'—,
+du combat, Romani calentes adhuc a pugna. Liv. Coeur plein d'—,
 Fervidum ingenium. Liv. Homme plein d'—, Fervidi animi vir. Liv.
 Tout le monde est plein d'—, Omnes calent (de calere, eo, lui, s.
 sup., n.). Hirt. ap. Cic. Les soldats avaient tant d'— que...,
@@ -28331,7 +28331,7 @@ alicui legere, o, is, legi, lectum. Ph. S'— les cheveux, Crines
 scindere, o, is, scidi, scissum. Att. ap. Cic. lacerare, o, as,
 avi, atum. Curt. — les (petites) plumes des oies, Plumam
 anserum vellere. Col. — la langue, Linguam (alicui) evellere.
-Cic. — l'œil, Oculum (alicui) eruere. Plin. excludere, o, is,
+Cic. — l'oeil, Oculum (alicui) eruere. Plin. excludere, o, is,
 clusi, clusum. Plaut. Ter. excutere, io, is, cussi, cussum. Plaut.
 Suet. — du feuillage, des feuilles à des arbres, Frondem
 destringere, o, is, strinxi, strictum. Quint. Folia ex
@@ -28343,7 +28343,7 @@ dejicere, io, is, jeci, jectum. Cic. — l'étendard de terre,
 Signum loco (à l'abl.) movere, eo, es, movi, motum. Liv. — la
 palissade, Vallum vellere. Liv. — [une statue] de sa place, Ex
 sedibus suis convellere. Cic. || Fig. Ces choses m'arrachent le
-cœur, Haec me excruciant (excruciare, o, avi, atum). Plaut. || 3°
+coeur, Haec me excruciant (excruciare, o, avi, atum). Plaut. || 3°
 Prendre de force qq. ch. à qqn, enlever par la violence une
 personne à une autre. Eripere, io, is, ripui, reptum, act. Cic.
 Extorquere, eo, es, torsi, tortum, act. Cic. Abstrahere, o, is,
@@ -28378,9 +28378,9 @@ sommeil, Aliquem e somno excitare, o, as, avi, atum. Cic. || 5°
 Fig. Bannir, chasser qq. ch. Extrahere, o, is, traxi, tractum,
 act. Cic. Exstirpare (voy. 1°), act. Cic. Excutere, io, is,
 cussi, cussum, act. Cic. Excidere, o, is, cidi, cisum, act. Cic.
-Evellere (voy. 1°), act. Cic. : Arracher la religion du cœur des
+Evellere (voy. 1°), act. Cic. : Arracher la religion du coeur des
 hommes, Religionem ex animis hominum radicitus extrahere. Cic.
-Tout sentiment d'humanité a été arraché de son cœur, Ex ejus animo
+Tout sentiment d'humanité a été arraché de son coeur, Ex ejus animo
 exstirpata est humanitas. Cic. Arracher un préjugé de son esprit,
 Opinionem sibi excutere. Cic. — un scrupule de son âme,
 Scrupulum ex animo evellere. Cic. — de sa mémoire un triste
@@ -28654,7 +28654,7 @@ n'a pas d'idée —, Incertus sententiae. Liv. Voy. ARRÊTER 12° et
 autorité qcq. Decretum, i, n. Cic. Edictum, n. Cic. Voy. ARRÊT
 8°. : Prendre un arrêté, Voy. ARRÊTER 13°.
 
-ARRÊTE-BŒUF, s. m. Sorte de plante dont les racines font souvent
+ARRÊTE-BOEUF, s. m. Sorte de plante dont les racines font souvent
 obstacle à la charrue. Ononis, idis, f. Plin.
 
 1. ARRÊTER, v. act.
@@ -28665,7 +28665,7 @@ act. Caes. Morari, or, aris, atus sum, dép. (acc.). Cic. Caes.
 Supprimere, o, is, pressi, pressum, act. Caes. Reprimere, act.
 Cic. Sistere, o, is, stiti et steti, statum, act. Caes. Liv. :
 Arrêter des chevaux, un char, les rames, Sustinere equos. Caes.
-currum. Cic. remos. Cic. — la manœuvre des rames, Remos
+currum. Cic. remos. Cic. — la manoeuvre des rames, Remos
 inhibere, eo, es, bui, bitum. Quint. Pourquoi m'arrêtes-tu ? Quid
 me retines ? Plaut. Arrêter qqn par son manteau, Aliquem pallio
 prehendere, o, is, hendi, hensum. Plaut. — son armée, Agmen
@@ -28956,7 +28956,7 @@ Dig.
 parl. à une seule personne) ! Apage te a me ! Plaut. Te hinc
 amove ! Ter. —, scélérat ! Abi hinc, scelus ! Ter. — (en parl. à
 plus. pers.) ! Facessite hinc ! Plaut. —, profanes ! Procul este
-profani ! Virg. — les sœurs qui..., Apage istas a me sorores,
+profani ! Virg. — les soeurs qui..., Apage istas a me sorores,
 quae... Plaut. || 2° T. de marine. Par derrière : Vent arrière,
 Ventus a puppi surgens. Virg. Navire qui va vent —, qui a vent
 —, Navis secundo vento cursum tenens. Cic.
@@ -29065,12 +29065,12 @@ un arrière-goût, Aliquid resipere, io, is, s. parf. ni sup., n.
 Plin. [Ce] vin laisse un — de poix, Vinum resipit picem. Col.
 
 ARRIÈRE-NEVEU, s. m.
-1° Le fils du neveu ou de la nièce, petit-fils du frère ou de la sœur. Fratris ou Sororis nepos (otis), m.
+1° Le fils du neveu ou de la nièce, petit-fils du frère ou de la soeur. Fratris ou Sororis nepos (otis), m.
 Dig. || 2° Au pl. La postérité la plus reculée. Seri (orum)
 nepotes (um), m. pl. Ov. Sera (ae) posteritas (atis), f. Ov.
 Voy. POSTÉRITÉ.
 
-ARRIÈRE-NIÈCE, s. f. La fille du neveu ou de la nièce, petite-fille du frère ou de la sœur. Fratris ou Sororis neptis (is), f.
+ARRIÈRE-NIÈCE, s. f. La fille du neveu ou de la nièce, petite-fille du frère ou de la soeur. Fratris ou Sororis neptis (is), f.
 Isid.
 
 ARRIÈRE-PENSÉE, s. f. Pensée, intention que l'on cache tandis
@@ -29511,7 +29511,7 @@ Cic. Ramener qq. ch. aux règles de l'—, Aliquid ad artem et ad
 praecepta revocare. Cic. Cela constitue un —, Hujus rei ratio
 aliqua est. Cic. Posséder un — en théorie, Artem scientia
 tenere. Cic. Genre où brille le génie, où l'— est peu de chose,
-Res facultate praeclara, arte mediocris. Cic. Œuvre d'—, Opus
+Res facultate praeclara, arte mediocris. Cic. Oeuvre d'—, Opus
 artificiosum. Cic. Artificium, ii, n. Cic. Ce qui lui plaisait
 [dans ces clous d'or], ce n'était pas l'—, mais le poids, Non
 opere delectabatur, sed pondere. Cic. Il faut de l'— pour
@@ -29585,7 +29585,7 @@ Scientia, ae, f. Cic. Artificium, ii, n. Cic. : L'— de saisir le
 moment favorable, Scientia opportunitatis temporum. Cic. Instruit
 dans l'— de feindre, Eruditus artificio simulationis. Cic. Maître
 dans l'— de corrompre, Ad corrumpendum artifex (gén. ficis). Cic.
-Qui a l'— de remuer les cœurs, Ad permovendos animos instructus ou
+Qui a l'— de remuer les coeurs, Ad permovendos animos instructus ou
 paratus. Cic. Je ne possède pas l'— d'ordonner un festin, Parum
 scite convivium exorno. Sall. Pratiquer l'insolence avec —,
 Meditate effundere probra. Sen. || 6° Artifice, ruse. Ars, artis,
@@ -29602,7 +29602,7 @@ ARTÉMISE, reine d'Halicarnasse. Artemisia, ae, f. Gell.
 ARTENAY, ville de France (Loiret). *Arthenaeum, i, n.
 
 ARTÈRE, s. f. Vaisseau (qqf. confondu par les anciens avec les
-veines) qui porte le sang du cœur vers les extrémités. Arteria,
+veines) qui porte le sang du coeur vers les extrémités. Arteria,
 ae, f. Cels. Qqf. Vena, f. Cic. Cels.
 
 ARTÉRIOTOMIE, s. f. Ouverture qu'on fait à une artère.
@@ -29622,7 +29622,7 @@ Cinara, ae, f. Col. Carduus, i, m. Col. Plin.
 ARTICLE, s. m.
 1° Jointure des os. Articulus, i, m. Cic. Voy.
 ARTICULATION 1°. || 2° Portion d'une tige comprise entre deux
-nœuds. Internodium, ii, n. Plin. || 3° Fig. Division du temps,
+noeuds. Internodium, ii, n. Plin. || 3° Fig. Division du temps,
 moment ; court moment, instant critique : [Faire qq. ch.] en un
 article, Puncto temporis. Caes. Ne faire qu'un — d'une chose (=
 n'en faire qu'une bouchée), Voy. BOUCHÉE. || Qui est à l'article
@@ -29675,7 +29675,7 @@ Commissura, ae, f. Cic. Nodus, i, m. Caes. Artus, us (dat. et
 abl. pl. ubus), m. Cic. : Les articulations des jarrets,
 Suffraginum artus. Plin. À cause de la flexibilité des — des
 doigts, Propter molles commissuras et artus digitorum. Cic. ||
-2° En parl. des plantes, Nœud. Nodus, i, m. Col. Articulus, m.
+2° En parl. des plantes, Noeud. Nodus, i, m. Col. Articulus, m.
 Col. Plin. Geniculum, i, n. Plin. : Qui a des articulations,
 Geniculatus, a, um. Cic. || 3° T. de palais. Énonciation des faits
 article par article : Articulation des faits, Singularum rerum
@@ -29749,7 +29749,7 @@ Cic. À l'aide d'un léger artifice de mots, Sub levi verborum
 praetextu. Liv. Discours sans —, Oratio quae astu caret. Quint.
 Refuser qq. ch. sans déguisement ni —, Aliquid sine fuco ac
 fallaciis negare. Cic. Parler sans —, Sincere loqui. Cic. Homme,
-Cœur sans —, Vir simplex (gén. plicis). Cic. Animus ingenuus.
+Coeur sans —, Vir simplex (gén. plicis). Cic. Animus ingenuus.
 Cic. Plein d'—, Voy. ARTIFICIEUX. Avec —, Voy.
 ARTIFICIEUSEMENT. || 3° Composition pyrotechnique : Un feu
 d'artifice, *Ignes (ium) artificiosi (orum), m. pl. (Kr.).
@@ -29925,7 +29925,7 @@ auctoritatis habere. Cic. Ceux qui ont le plus d'— sur moi par
 leur mérite, Qui apud me dignitate plurimum possunt (posse,
 possum, potes, potui, n.). Cic. Il exerce sur moi le même —,
 Eodem est apud me pondere. Cic. || En parl. des ch. L'ascendant de
-la patrie, Vis patriae. Cic. Le doux — de la nature (sur le cœur
+la patrie, Vis patriae. Cic. Le doux — de la nature (sur le coeur
 d'un fils), Dulcissima naturae commendatio. Cic. Ignorant l'— de
 la vertu, Ignarus quid virtus valeat. Cic.
 
@@ -30223,7 +30223,7 @@ de pierres, Saxis incessi (passif de incessere, o, is, cessivi et
 cessi, s. sup.). Liv. || Fig. Un fléau assaillit la société,
 Pestis in vitam hominum invasit. Cic. La peste — la ville,
 Pestilentia incidit in urbem. Liv. Assaillir un tribunal,
-Tribunal circumstare, o, as, steti, s. sup. Cic. — le cœur,
+Tribunal circumstare, o, as, steti, s. sup. Cic. — le coeur,
 Animum occupare, o, as, avi, atum. Cic. — d'outrages, Ignominiis
 appetere, o, is, ivi et ii, itum, act. Quint. Être assailli par
 l'envie, Ab invidia circumsederi, eor, eris, sessus sum, pass.
@@ -32155,7 +32155,7 @@ Vestis gemmis obstricta. Flor. Navires attachés ensemble,
 Conserta navigia. Curt. Attacher au croc, Ad carnarium stringere.
 Plaut. — à une colonne, Ad columnam adstringere. Plaut. — avec des
 liens d'osier, Viminibus obstringere. Col. — les pouces par un
-nœud (bien serré), Pollices nodo praestringere. Tac. — un masque à
+noeud (bien serré), Pollices nodo praestringere. Tac. — un masque à
 qqn, Personam alicui aptare. Quint. — les provins à des pieux,
 Propagines palis (au dat.) applicare. Col. — la vigne (en la
 relevant), Vinculo vitem suspendere. Plin. — à la potence,
@@ -32284,7 +32284,7 @@ adhaerescere. Hor. S'— à la glu, In visco inhaerescere. Cic. Où pût
 s'— le feu de l'ennemi, Ubi ignis hostium inhaeresceret. Caes. La
 vigne s'attache à tout ce qu'elle rencontre, Vitis quidquid nacta
 est, complectitur. Cic. Vignes qui se sont attachées à des arbres,
-Vites applicitae arboribus (au dat.). Quint. L'œsophage vient
+Vites applicitae arboribus (au dat.). Quint. L'oesophage vient
 s'attacher à la langue, Ad linguam stomachus annectitur (de
 annecti, or, nexus sum, pass.). Cic. Dans l'articulation même où
 le cou s'attache à la tête, Ipso in articulo quo capiti cervix
@@ -32582,7 +32582,7 @@ aggredi. Plaut. Cic.
 164. S'ATTAQUER, v. réfl.
 1° Suivi de la prép. à. Attaquer qqn ou qq.
 ch. Impugnare, o, as, avi, atum, act. Cic. Aggredi, ior, eris,
-gressus sum, dép. (acc.). Cic. : S'attaquer à des cœurs
+gressus sum, dép. (acc.). Cic. : S'attaquer à des coeurs
 indomptables, Corda aspera tentare, o, as, avi, atum. Virg. Qu'il
 apprenne à qui il s'est attaqué, Sentiat quos attentarit. Ph. On
 s'attaque même à Démosthène, Etiam Demosthenes exagitatur. Cic.
@@ -32729,7 +32729,7 @@ jure deminuere. Caes. Jus imminuere. Cic. Porter — au droit de
 qqn, Juri alicujus derogare. Tac. — portée à votre liberté,
 Deminutio libertatis vestrae. Cic. Porter — à l'union des
 citoyens, Conjunctionem civium dirimere, o, is, emi, emptum. Cic.
-Porter une — sensible, une — fatale aux mœurs, Mores impellere,
+Porter une — sensible, une — fatale aux moeurs, Mores impellere,
 o, is, puli, pulsum. Plin. graviter affligere, o, is, flixi,
 flictum. Plin. [Amitié] qui n'a jamais souffert la moindre —, Quae
 nunquam imminuta est. Cic. Sans aucune — à l'innocence, Salva
@@ -32762,19 +32762,19 @@ Cic. Se raidir courageusement contre les — de la douleur,
 Fortiter dolori resistere. Cic.
 
 ATTELAGE, s. m. L'ensemble des animaux attelés à une charrue, à
-une voiture. Jugum, i, n. Varr. Plin. : Attelage de bœufs, Boum
+une voiture. Jugum, i, n. Varr. Plin. : Attelage de boeufs, Boum
 junctura (ae), f. Col. Boum protelum (i), n. Plin. — de deux
-chevaux, Bigae, arum, f. pl. Plin. Virg. — de deux bœufs, Bigae
-cornutae. Varr. Ce qu'un — de deux bœufs peut labourer, Quod uno
+chevaux, Bigae, arum, f. pl. Plin. Virg. — de deux boeufs, Bigae
+cornutae. Varr. Ce qu'un — de deux boeufs peut labourer, Quod uno
 jugo boum exarari potest. Plin. — de quatre chevaux, Quadrigae,
-arum, f. pl. Cic. Virg. — à deux, à trois paires de bœufs,
-Protela bina, terna. Plin. Un — de trois paires de bœufs tirera
+arum, f. pl. Cic. Virg. — à deux, à trois paires de boeufs,
+Protela bina, terna. Plin. Un — de trois paires de boeufs tirera
 une seule charrue, Protelo trini boves unum aratrum ducent. Cato
 ap. Non. Chevaux d'—, Equi jugales. Curt.
 
 ATTELER, v. act. Attacher des animaux à une charrue, à une
 voiture. Jungere, o, is, junxi, junctum, act. Cic. Conjungere,
-act. Col. Subjungere, act. Col. : Atteler des bœufs, Boves
+act. Col. Subjungere, act. Col. : Atteler des boeufs, Boves
 conjungere. Cato. — des lions, Leones jugo subdere, o, is, didi,
 ditum. Plin. Se laisser —, S'—, Jugum subire, eo, is, ivi et ii,
 itum. Plin. C'est une bonne manière d'—, Hoc (est) genus juncturae
@@ -32983,7 +32983,7 @@ Lenire, io, is, ivi et ii, itum, act. Cic. Flectere, o, is, flexi,
 flexum, act. Cic. Movere, eo, es, movi, motum, act. Cic. Commovere,
 act. Cic. Permovere, act. Cic. Ad misericordiam inducere, o, is,
 duxi, ductum, act. Cic. Commovere misericordiam (alicui). Cic.
-miserationem (alicujus). Quint. : Attendrir le cœur des juges,
+miserationem (alicujus). Quint. : Attendrir le coeur des juges,
 Animos judicum movere. Quint. Judicum mentem miseratione
 permovere. Cic. Chercher à — qqn, Alicujus misericordiam captare.
 Cic. Chercher à nous —, Miserationem nostram requirere. Cic. Je me
@@ -33134,7 +33134,7 @@ attentifs, Animos ad audiendum erigere, o, is, rexi, rectum. Cic.
 Sois attentif (= vigilant), Chrysippe, Vigila, Chrysippe. Cic. Les
 yeux et les esprits étaient également attentifs (au spectacle),
 Deditae (ad spectaculum) mentes cum oculis erant. Liv. Il était
-attentif à la route, Il observait d'un œil — la route que nous
+attentif à la route, Il observait d'un oeil — la route que nous
 suivions, Itinera nostra servabat (de servare, o, as, avi, atum).
 Caes. De manière qu'il échappe à l'examen le plus —, Ut curiosis
 oculis perspici non possit. Cic. — à tous les mouvements de
@@ -33619,7 +33619,7 @@ Pleine d'—, Forma praestans. Cic. Jeune fille sans —, Ingrata
 virgo. Apul. Voy. BEAUTÉ.
 
 ATTRAPE, s. f. Tromperie. Captio, onis, f. Plaut. Cic. : C'est une
-attrape, Istæc (et ordin. Ista) captio est. Plaut.
+attrape, Istaec (et ordin. Ista) captio est. Plaut.
 
 ATTRAPER, v. act.
 1° Prendre à une trappe, à un piège, par
@@ -33644,7 +33644,7 @@ levi, litum (= lui barbouiller la face, lui jouer un tour). Plaut.
 Frustrare, o, as, avi, atum, act. Plaut. Liv. Frustrari, or, aris,
 atus sum, dép. (acc.). Cic. Pl.-j. : J'ai été déjà attrapé (=
 trompé dans mon attente), Jam me spes frustrata est. Ter. Voy.
-MÉCOMPTE. || 6° Se procurer par ruse, par quelque manœuvre. Sibi
+MÉCOMPTE. || 6° Se procurer par ruse, par quelque manoeuvre. Sibi
 ducere (o, is, duxi, ductum), act. Sall. : Attraper 80 000
 sesterces, LXXX detergere, eo, es, tersi, tersum. Cic. Je t'ai
 attrapé ces trente mines, Istis te triginta minis tetigi (de
@@ -34250,7 +34250,7 @@ seulement que je sais..., Nunc primum audio. Ter. || 2° À présent, au
 temps où nous sommes. Nunc. Cic. His temporibus. Cic. In praesenti.
 Cic. In praesentia. Cic. Hodie. Nep. Cic. : Les choses d'—,
 Praesentia, ium, n. pl. Cic. Les hommes d'—, Qui nunc sunt homines.
-Cic. Surtout avec les mœurs d'—, Praesertim, ut nunc sunt mores. Ter.
+Cic. Surtout avec les moeurs d'—, Praesertim, ut nunc sunt mores. Ter.
 La licence d'—, Haec licentia. Liv. Le Caton d'—, Hic noster Cato.
 Cic. — pour la première fois, Nunc primum. Ter. Pour —, In praesens
 tempus. Cic. Où est — la ville, Ubi hodie est urbs. Cic. || 3° À un
@@ -34469,7 +34469,7 @@ monde, Tam gratum id mihi erit quam quod gratissimum. Cic. Ils seront
 — affligés que moi, Mecum pariter moleste ferent. Cic. Jamais la
 pauvreté ne m'a paru — lourde que tout à l'heure, Nunquam aeque ac
 modo paupertas mihi onus visa est grave. Ter. Il y a entre eux une
-différence de mœurs — grande qu'elle peut l'être, Tanta est inter eos,
+différence de moeurs — grande qu'elle peut l'être, Tanta est inter eos,
 quanta maxima esse potest, morum distantia. Cic. Infligeons-leur un
 châtiment — sévère que le comporte la justice, Eos tanta poena
 afficiamus, quantam aequitas patitur. Cic. Figurons-nous des ténèbres
@@ -34554,7 +34554,7 @@ austerum. Cels. || 2° Fig. Rigoureux, sévère, rude. Austerus, a, um.
 Cic. Severus. Cic. Durus. Cic. Asper, era, erum. Cic. : Qui mène une
 vie austère, Vita severus. Cic. Un peu trop —, Paulo durior. Pl.-j.
 Homme —, Homo austerus. Cic. Homme un peu trop —, Vir paulo horridior.
-Pl.-j. Homme de mœurs moins austères, Vir animi remissioris. Sen.
+Pl.-j. Homme de moeurs moins austères, Vir animi remissioris. Sen.
 Tromper par son air austère, Decipere tristitia. Cic. Rugis (= par les
 rides de son front). Cic. La doctrine — (des stoïciens), Doctrina
 aspera et dura. Cic. La règle — des stoïciens (en b. part),
@@ -34567,7 +34567,7 @@ Severe. Cic.
 
 AUSTÉRITÉ, s. f. Rigueur, sévérité. Severitas, atis, f. Cic. Duritia,
 ae, f. Cic. Tristitia, ae, f. Cic. : Couvrir d'une apparence
-d'austérité des mœurs infâmes, Tristitiam pessimis moribus
+d'austérité des moeurs infâmes, Tristitiam pessimis moribus
 praetendere. Quint. Vie passée dans une très grande —, Severissime
 exacta aetas. Cic. L'— du style, Orationis severitas. Cic. Avec —,
 Voy. le précéd.
@@ -34627,7 +34627,7 @@ que d'ignorer des choses nécessaires, Non tam obest audire supervacua,
 quam ignorare necessaria. Quint. Je ne souhaitais pas... — que je suis
 charmé..., Non tantopere desiderabam, quantopere delector. Cic. Si on
 les sollicite — que tu l'affirmes, Si tantopere efflagitantur, quam tu
-affirmas. Quint. Il fait — de cas des vœux [du municipe] que de sa
+affirmas. Quint. Il fait — de cas des voeux [du municipe] que de sa
 propre parole, Voluntatem tantidem, quanti fidem suam facit. Cic. Ils
 donneront de ces terres — qu'ils voudront, Ement agros, quam volent
 magno (= tam magno, quam volent). Cic. Il vaut — qu'un champignon
@@ -34842,9 +34842,9 @@ Engager à recourir aux —, Renvoyer aux —, Ad auctores relegare. Plin.
 Indiquer les —, Auctores appellare. Plin. Les — que nous avons cités
 en tête du livre, Auctores quos praetexuimus volumini. Plin.
 Feuilleter les — grecs et latins, Evolvere auctores utriusque linguae.
-Suet. || 3° Celui qui a fait une œuvre de science ou d'art. Auctor,
+Suet. || 3° Celui qui a fait une oeuvre de science ou d'art. Auctor,
 oris, m. Plin. : Statue dont on ne connaît pas l'auteur, Statua
-auctoris incerti. Plin. Il attesta qu'il était l'— de cette œuvre, Hoc
+auctoris incerti. Plin. Il attesta qu'il était l'— de cette oeuvre, Hoc
 suum opus esse testatus est. Plin. Phidias est l'— d'une Minerve en
 ivoire, Phidias fecit ex ebore Minervam. Plin. Le peintre Artémon est
 — d'une Danaé, Artemon pinxit Danaen. Plin. || 4° Celui de qui l'on a
@@ -34989,7 +34989,7 @@ Fournir un motif, un prétexte. Causam praebere, eo, es, bui, bitum.
 Liv. : Ceux que leurs infirmités autorisaient à ne point prendre part
 à la guerre, Ii quibus morbus causa erat quominus militarent. Liv. ||
 5° Alléguer pour motif, pour excuse. Praetendere, o, is, tendi,
-tentum, act. Cic. : Autoriser tes mœurs farouches du nom d'un homme
+tentum, act. Cic. : Autoriser tes moeurs farouches du nom d'un homme
 très savant, Hominis doctissimi nomen tuis immanibus moribus
 praetendere. Cic. N'autorisons pas notre paresse de celle d'autrui, Ne
 praetendamus desidiae nostrae alienam. Pl.-j.
@@ -35240,8 +35240,8 @@ L'AUTRE, L'UN DE L'AUTRE, L'UN À L'AUTRE, etc. (= mutuellement). Alter
 (répété). Cic. LES UNS LES AUTRES, LES UNS DES AUTRES, LES UNS AUX
 AUTRES, etc. Alteri (répété). Cic. : Coupables tous les deux, ils
 rejettent leur faute l'un sur l'autre, Noxii ambo alter in alterum
-causam conferunt. Liv. L'un brise les œufs de l'—, ou Ils brisent les
-œufs l'un de l'—, Alter alterius ova frangit. Cic. Vous vous déplaisez
+causam conferunt. Liv. L'un brise les oeufs de l'—, ou Ils brisent les
+oeufs l'un de l'—, Alter alterius ova frangit. Cic. Vous vous déplaisez
 l'un à l'—, Alter alteri displicetis. Liv. Une main lave l'— (prov. =
 on s'aide mutuellement), Manus manum lavat. Sen. Petr. Cherche lequel
 des deux a dressé des embûches à l'—, Quaere uter utri insidias
@@ -35286,7 +35286,7 @@ personne —, toute chose —), Voy. n° 1, au comm. Tout autre (=
 entièrement —), Longe alius, a, ud. Cic. Je suis dans de tout autres
 sentiments, Longe alia mihi mens est. Sall. Je veux devenir tout
 autre, Alius fieri volo. Plaut. Les hommes sont devenus tout autres,
-Homines alii facti sunt. Cic. Le présent demande d'— mœurs, Nunc haec
+Homines alii facti sunt. Cic. Le présent demande d'— moeurs, Nunc haec
 dies alios mores postulat. Ter. Autre chose est médire, — chose
 accuser, Aliud est maledicere, aliud accusare. Cic. Ils avaient [tous
 les deux] une égale grandeur d'âme, mais elle était d'une nature chez
@@ -35527,8 +35527,8 @@ exhauseras. Cic. Avaler une coupe de vin miellé, Pultarium mulsi
 obducere. Petr. — un flacon de vin, Hirneam vini educere. Plaut. — de
 l'eau froide par-dessus les autres boissons, Potiones aqua frigida
 includere, o, is, clusi, clusum. Cels. — sa salive, Salivam suam
-devorare. Cels. — des œufs, Ova exsorbere. Plin. — un œuf cru, Crudum
-ovum sorbere. Plin. — un œuf entier, Ovum integrum devorare. Cato. —
+devorare. Cels. — des oeufs, Ova exsorbere. Plin. — un oeuf cru, Crudum
+ovum sorbere. Plin. — un oeuf entier, Ovum integrum devorare. Cato. —
 des taureaux entiers, Solidos tauros haurire. Plin. Nous avalons les
 aliments quand nous les avons mâchés, Cibos mansos demittimus. Quint.
 — les aliments d'un seul coup (sans les mâcher), Cibos integros
@@ -35778,7 +35778,7 @@ Pellem. Virg. Faire — les vaisseaux vers une forteresse, Naves ad
 castellum subigere, o, is, egi, actum. Liv. Faire — des pierres au
 moyen de leviers, Saxa vectibus promovere, eo, es, movi, motum. Caes.
 Faire — les mantelets, Vineas agere, o, is, egi, actum. Caes.
-Conducere, o, is, duxi, ductum. Cic. Faire — un bœuf qui hésite, Bovem
+Conducere, o, is, duxi, ductum. Cic. Faire — un boeuf qui hésite, Bovem
 cunctantem producere. Col. Faire — les légions, Legiones promovere.
 Hirt. On fait — les dernières réserves, Ab ultimis subsidiis miles
 cietur (pass. de ciere, eo, civi, citum). Liv. Faire — l'armée, les
@@ -36457,7 +36457,7 @@ Cum ista sis auctoritate, non debes... Cic. Il n'a pas osé, — des
 sentiments bas, tenir un langage élevé, Non est ausus elate loqui cum
 humiliter sentiret. Cic. Nous avons si bien fait, — notre amour pour
 Rome, que nous nous sommes trouvés cernés, Dum Urbem amamus, ita nos
-gessimus, ut plane interclusi simus. Cic. Surtout — les mœurs
+gessimus, ut plane interclusi simus. Cic. Surtout — les moeurs
 d'aujourd'hui..., Praesertim ut nunc sunt mores. Ter. César, — sa
 bonté..., Qua est humanitate, Caesar... Cic. Tullie, — l'amitié
 qu'elle eut pour toi, Tullia, qui illius in te amor fuit... Cic. — le
@@ -36499,7 +36499,7 @@ AVELINIER, s. m. Arbre qui porte les avelines. Corylus, i, fém. Virg.
 AVENANT, part. prés. du v. AVENIR, Voy. ce v. || AVENANT, ANTE, adj.
 Qui a bonne grâce. Lepidus, a, um. Cic. : D'un air avenant, Lepide.
 Cic. Mal —, Peu —, Illepidus. Cic. || À L'AVENANT, locut. adv. En
-proportion : À de telles manières se joignaient des mœurs à l'avenant,
+proportion : À de telles manières se joignaient des moeurs à l'avenant,
 Hunc habitum convenientes mores sequebantur. Liv. Mithridate d'une
 taille colossale et armé à l'—, Mithridates corpore ingenti, perinde
 armatus. Sall. ap. Quint.
@@ -36888,7 +36888,7 @@ aveuglait pas, Nisi ipsos caecos redderet avaritia. Cic. [La Fortune]
 aveugle ceux qu'elle favorise, Eos efficit caecos, quos complexa est.
 Cic. Esprits aveuglés par la colère et par la peur, Ira et pavore
 occaecati animi. Liv. Aveuglé par la passion, Cupiditate caecus. Cic.
-Liv. Occaecatus. Cic. Cœur — par la passion, Alienatus ad libidinem
+Liv. Occaecatus. Cic. Coeur — par la passion, Alienatus ad libidinem
 animus. Liv. L'esprit est — par l'erreur, Animi acies caecatur
 erroribus. Cic. L'espérance a tellement — l'esprit, Spes ita
 occaecavit animum. Liv. — par une vaine espérance, Falsa spe inductus.
@@ -36916,8 +36916,8 @@ cibi. Ter. Parasite avide, Parasitus edax (gén. acis). Ter. Être — de
 boire, Sitire, io, is, ivi et rar. ii, s. sup., n. Plaut. || 2° Fig.
 Qui désire avec beaucoup d'ardeur. Avidus, a, um. Cic. Cupidus. Cic.
 Appetens, gén. entis. Cic. : Oreilles avides, Aures avidae. Cic.
-Sitientes. Cic. Regarder d'un œil avide, Avide intueri. Curt. Lire
-d'un œil très —, Cupidissime legere. Sen. — de gloire, Avidus ou
+Sitientes. Cic. Regarder d'un oeil avide, Avide intueri. Curt. Lire
+d'un oeil très —, Cupidissime legere. Sen. — de gloire, Avidus ou
 Appetens gloriae. Cic. Plus avide de discussion que de vérité,
 Contentionis cupidior quam veritatis. Cic. Très — de ce qui est
 honnête, Studiosissimus ou Appetentissimus honestatis. Cic. — de
@@ -37254,9 +37254,9 @@ bouche, Habere aliquid in ore. Cic. — toujours à l'esprit combien
 l'homme est supérieur [à la bête], Semper in promptu habere, quantum
 natura hominis antecedat. Cic. Le préfet qui avait eu vent de quelque
 chose, Praefectus, cui nescio quid redoluerat (de redolere, eo, es, s.
-sup., n.). Capit. Que les dieux aient l'œil sur vous, Ad vos dii
+sup., n.). Capit. Que les dieux aient l'oeil sur vous, Ad vos dii
 respiciant (de respicere, io, is, spexi, spectum). Just. Qu'ils
-sachent que tu as l'œil sur eux, Se abs te observari, sciant. Cic. Je
+sachent que tu as l'oeil sur eux, Se abs te observari, sciant. Cic. Je
 n'ai eu rien de plus pressé que de (faire), Nihil mihi potius fuit,
 quam ut (subj.). Cic. Avoir assez de qq. ch., Aliquid satis habere.
 Ter. Nep. Chacun a bien assez de ses propres affaires, Satis superque
@@ -37274,8 +37274,8 @@ io, is, ivi et ii, itum, n. Cic. — recours à tous les moyens, Extrema
 omnia experiri, ior, iris, pertus sum, dép. Sall. N'— pas recours à la
 fortune de ses amis, Facultatibus amicorum carere. Nep. — part à un
 crime, Partem sceleris attingere, o, is, tigi, tactum. Cic. Si tu as à
-cœur (qq. ch.), Si qua cura te attingit de (abl.). Cic. Et il n'eut
-rien tant à cœur que de (faire), Neque ullam curam priorem habuit quam
+coeur (qq. ch.), Si qua cura te attingit de (abl.). Cic. Et il n'eut
+rien tant à coeur que de (faire), Neque ullam curam priorem habuit quam
 ut (subj.). Liv. Il faut avoir soin de (faire), Observandum est ut
 (subj.). Suet. Il eut grand soin de (faire), In magno negotio habuit
 (infin.). Suet. Tu as raison de (dire), Bene ou Praeclare facis, quod
@@ -37418,7 +37418,7 @@ cinquième enfant, Si quintum pareret mater ejus. Cic. Marcia, tu avais
 quatre enfants, Quatuor liberos sustuleras, Marcia. Sen. Avoir des
 petits, Sobolem facere, io, is, feci, factum. Col. [Les animaux] qui
 ont beaucoup de petits à la fois, Quae multiplices fetus procreant.
-Cic. Le lion aura des petits, Leo pariet. Quint. Avoir des œufs, Ova
+Cic. Le lion aura des petits, Leo pariet. Quint. Avoir des oeufs, Ova
 gignere. Cic. Parere. Cic. La pomme a des pépins, Facit grana malum.
 Col. || 6° Se procurer. Parare, o, as, avi, atum, act. Cic. Comparare,
 act. Cic. : Je songe à avoir des jardins au delà du Tibre, Cogito
@@ -37440,7 +37440,7 @@ Montrer à la vue, présenter à l'esprit (telle ou telle particularité
 dans sa manière d'être, dans son état). Habere, eo, es, bui, bitum,
 act. Cic. Praebere, act. Cic. Gerere, o, is, gessi, gestum, act. Cic.
 On tourne pl. souv. par ÊTRE : Esse, sum, es, fui, n. Cic. : Avoir
-l'œil vif, Habere oculos acres. Cic. — l'air..., Speciem praebere.
+l'oeil vif, Habere oculos acres. Cic. — l'air..., Speciem praebere.
 Caes. Speciem facere, io, is, feci, factum. Liv. — les dehors d'un
 sage, Speciem sapientis gerere. Cic. On rapporte qu'il avait le teint
 blanc, Fuisse traditur colore candido. Suet. Avoir la tête rasée, Esse
@@ -37716,7 +37716,7 @@ is, verti, versum. Liv. Qui a avorté, Voy. AVORTÉ.
 AVORTON, s. m.
 1° Enfant né avant terme. Abortum, i, n. Fest. || 2°
 Fig. Petit homme mal bâti. Frustum (i, n.) pueri. Plaut. || 3° Fig.
-Œuvre imparfaite et mal venue : Produire des avortons, Abortus facere.
+Oeuvre imparfaite et mal venue : Produire des avortons, Abortus facere.
 Plin.
 
 1. AVOUÉ, ÉE, part. passé : Ayant avoué (= ayant confessé), Confessus,
@@ -38047,7 +38047,7 @@ Liv. Sarcinas. Sall. Avertir de plier —, Vasa conclamare. Caes. ||
 Fig. Commençons à plier bagage (= apprêtons-nous à mourir), Incipiamus
 vasa colligere. Sen. Mes quatre-vingts ans m'avertissent de plier —,
 Annus octogesimus admonet me ut sarcinas colligam. Varr. || 3° Fig.
-L'œuvre d'un auteur. Supellex, lectilis (abl. lectile et lectili; s.
+L'oeuvre d'un auteur. Supellex, lectilis (abl. lectile et lectili; s.
 pl.), fém. Cic. : Un riche bagage, Lauta supellex. Cic. Inutile — de
 littérature, Supervacua litterarum supellex. Sen.
 
@@ -38200,7 +38200,7 @@ lavatum, n. Plaut. Ter. Liv. Perlui, or, eris, lutus sum, pass. Caes.
 : Se baigner dans les rivières, In fluminibus lavari ou perlui. Caes.
 Aller se —, Ire lavatum. Plaut. Annoncer (qq. ch.) au roi pendant
 qu'il se baigne, Lavanti regi nuntiare. Liv. Se tuer après s'être
-baigné, Se lautum occidere. Cic. Ici se baignent les bœufs, Boves hic
+baigné, Se lautum occidere. Cic. Ici se baignent les boeufs, Boves hic
 perfunduntur (de perfundi, or, eris, fusus sum, pass.). Varr. Voy.
 BAIN. || 2° Fig. Se tremper dans. Se respergere (o, is, spersi,
 spersum). Liv. : Se baigner dans le sang, Sanguine se respergere. Liv.
@@ -38467,7 +38467,7 @@ n. Liv. Se submittere (o, is, misi, missum). Liv. : Se baisser devant
 l'arc de Fabius (pour passer dessous), Caput ad fornicem Fabii
 demittere. Cic.
 
-BAJOUE, s. f. Partie de la tête du porc qui s'étend de l'œil à la
+BAJOUE, s. f. Partie de la tête du porc qui s'étend de l'oeil à la
 mâchoire. Gena, ae, f. Plin.
 
 BAL, s. m. Réunion où l'on danse. Chorus, i, m. Hor. Saltatio, onis
@@ -39119,7 +39119,7 @@ Cic. Molestias depellere. Cic. Curas ponere. Liv. — la colère,
 Iracundiam pellere. Cic. — une faiblesse, Mollitiem animi ejicere
 (voy. 1°). Ter. — la pudeur, Verecundiam effundere, o, is, fudi,
 fusum. Sen. — le souvenir des bienfaits, Memoriam beneficiorum
-expellere (voy. 1°). Caes. — qqn de son cœur, Aliquem e sinu
+expellere (voy. 1°). Caes. — qqn de son coeur, Aliquem e sinu
 dimittere. Cic.
 
 7. SE BANNIR, v. réfl.
@@ -39629,7 +39629,7 @@ D'apr. Plin. (xxxiii, 4, 25). || 11° Dégénéré, tombé en décadence.
 Deterior, us. Virg. : Basse latinité, *Infima latinitas. Voy.
 DÉCADENCE. || 12° Qui est sans grandeur, sans élévation. Demissus, a,
 um. Cic. Abjectus. Cic. Humilis, m. f., e, n. Cic. Pusillus, a, um.
-Cic. : Cœur bas, Humilis animus. Cic. Avoir des sentiments —,
+Cic. : Coeur bas, Humilis animus. Cic. Avoir des sentiments —,
 Humiliter ou Demisse sentire. Cic. || 13° Vil, méprisable, honteux.
 Abjectus, a, um. Cic. Sordidus. Cic. Turpis, m. f., e, n. Cic.
 Deformis. Liv. Foedus, a, um. Cic. : Les âmes les plus basses,
@@ -39931,7 +39931,7 @@ Plin. Col. Inungere, o, is, unxi, unctum, act. Varr. Perungere, act.
 Plin. : Bassiner les genoux avec du vinaigre chaud, une blessure avec
 du vinaigre, Genua calido aceto fovere. Cels. Vulnus aceto diluere.
 Petr. — le visage, la peau avec de l'eau froide, Fovere os frigida
-aqua. Cels. Cutem frigida. Plin. Il faudra — l'œil avec de la poix
+aqua. Cels. Cutem frigida. Plin. Il faudra — l'oeil avec de la poix
 liquide, Circumliniendus erit oculus pice liquida. Col. Action de —,
 Fotus, us, m. Plin. Perfusio, onis, f. Cels. Inunctio, f. Cels.
 Perunctio, f. Plin. || 3° Qqf. Humecter, arroser (légèrement). Voy.
@@ -40107,7 +40107,7 @@ Lintrarius, ii, m. Ulp.
 BATELIÈRE, s. f. Femme dont le métier est de conduire un bateau.
 *(Mulier) quae lintrem agitat.
 
-BÂTER, v. act. Mettre un bât à : Bâter un bœuf, un âne, Bovi, Asino
+BÂTER, v. act. Mettre un bât à : Bâter un boeuf, un âne, Bovi, Asino
 clitellas imponere, o, is, posui, positum. Cic. Ph. Être bâté,
 Clitellas portare, o, as, avi, atum. Ph. || Fig. Un âne bâté, Asinus
 germanus. Cic.
@@ -40229,7 +40229,7 @@ BATTELLEMENT, s. m. C. AVANT-TOIT.
 BATTEMENT, s. m.
 1° Action de battre : Battement de mains, Plausus,
 us, m. Cic. — de rames, Remorum pulsus (us), m. Cic. Caes. — d'ailes,
-Pennarum jactatus (us), m. Ov. — du cœur, Cordis palpitatio (onis), f.
+Pennarum jactatus (us), m. Ov. — du coeur, Cordis palpitatio (onis), f.
 Plin. — du pouls, des artères, Arteriarum pulsus. Plin. || 2° T. de
 musique. Temps frappé, mesure. Percussio, onis, f. Cic. Quint. Ictus,
 us, m. Quint.
@@ -40370,10 +40370,10 @@ atus sum, pass. Virg. : Les tambours battirent, Tympana sonuerunt (de
 sonare, o, as, sonitum, n.). Caes. Voy. TAMBOUR. || 5° Être agité,
 être en mouvement. Palpitare, o, as, avi, atum, n. Cic. Emicare, o,
 as, micui, s. sup., n. Vell. Salire, io, is, salui, saltum, n. Plaut.
-: Le cœur bat, Cor palpitat. Cic. Emicat. Vell. Mon cœur se mit à
+: Le coeur bat, Cor palpitat. Cic. Emicat. Vell. Mon coeur se mit à
 battre contre ma poitrine, Meum cor coepit in pectus emicare. Plaut.
 Les artères ne cessent de —, Arteriae non desinunt micare. Cic. ||
-Fig. Le cœur lui bat (= il a peur), Pectus illi trepidat (de
+Fig. Le coeur lui bat (= il a peur), Pectus illi trepidat (de
 trepidare, o, avi, atum, n.). Hor. || 6° BATTRE EN RETRAITE. Se
 retirer du combat. Se recipere (io, is, cepi, ceptum). Caes. Voy.
 RETRAITE.
@@ -40532,7 +40532,7 @@ est en bon état. Pulcher, chra, chrum. Sall. Bonus, a, um. Cic.
 Laetus. Cic. Commodus. Cic. Praeclarus. Cic. : République fort belle,
 Respublica pulcherrima. Sall. Bel air, Bonum caelum. Cato. Beaux
 fruits, Fructus laeti. Cic. Belle plaine, Opimus campus. Liv. —
-corpulence, Opimus corporis habitus. Cic. Beau bœuf, Pulcher bos.
+corpulence, Opimus corporis habitus. Cic. Beau boeuf, Pulcher bos.
 Fest. Belle santé, Valetudo bona. Cic. Commoda. Caes. Le bel âge, Bona
 aetas. Cic. Voy. JEUNESSE. || 4° Pur, serein, calme. Bonus, a, um.
 Cic. Serenus. Cic. : Le beau temps, Caeli serenitas (atis), f. Cic. Un
@@ -40622,7 +40622,7 @@ Hor. — quantité d'argenterie, Grande pondus argenti. Cic. — fortune,
 Divitiae maximae. Cic. Amplissimae fortunae. Cic. — somme d'argent,
 Pecunia ampla, grandis, maxima. Cic. Beaux honneurs, Maximi honores.
 Cic. Belles récompenses, Ampla praemia. Cic. Fruits plus beaux,
-Grandiores fetus. Cic. Beau bœuf, Pulcher bos. Fest. Livres de belle
+Grandiores fetus. Cic. Beau boeuf, Pulcher bos. Fest. Livres de belle
 grandeur, Grandes libri. Quint. Plaie de — taille, Luculenta plaga.
 Cic. Lettre d'une — longueur, Bene longae litterae. Cic. Il y a beau
 temps que..., Jam diu est cum (indic.). Plaut. || Locut. adv. BEL ET
@@ -40752,8 +40752,8 @@ ae, f. *Bellofortium, ii, ou *Bellumforte, is, n.
 
 BEAU-FRÈRE, s. m.
 1° Celui dont on a épousé le frère. Levir, iri, m.
-Dig. || 2° Celui dont on a épousé la sœur : Ton beau-frère, Tuae
-uxoris frater (tris), m. Cic. || 3° Celui qui a épousé notre sœur :
+Dig. || 2° Celui dont on a épousé la soeur : Ton beau-frère, Tuae
+uxoris frater (tris), m. Cic. || 3° Celui qui a épousé notre soeur :
 Mon beau-frère, Sororis meae vir (iri), m. Cic.
 
 BEAUGENCY, v. de France (Loiret). *Balgentiacum, i, n.
@@ -40828,7 +40828,7 @@ plume par le — à qqn (= le frustrer des espérances données), Spes
 alicujus frustrari. Pl.-j. || Qui a bec et ongles (= qui sait se
 défendre), Ad se defendendum promptus. D'apr. Cic. (Fam., III, 11). ||
 2° Fig. Langue, babil, caquet. Lingua, ae, f. Cic. : Qui a bon bec (=
-qui parle avec vivacité et malice), Dicax, gén. acis. Cic. Manœuvres
+qui parle avec vivacité et malice), Dicax, gén. acis. Cic. Manoeuvres
 qui ont le — bien affilé (= qui parlent avec facilité), Operarii,
 lingua celeri. Cic. Donner un coup de — à qqn, Aliquem mordere, eo,
 es, momordi, morsum. Ter. Se prendre de — avec qqn, ensemble (= se
@@ -40961,9 +40961,9 @@ ontem et onta), m. Plaut. Hor.
 
 BELLES-LETTRES, Voy. LETTRES.
 
-BELLE-SŒUR, s. f.
+BELLE-SOEUR, s. f.
 1° La femme de notre frère. Fratria, ae, f. Fest.
-Non. || 2° Celle dont on a épousé le frère ou la sœur. Glos, gloris,
+Non. || 2° Celle dont on a épousé le frère ou la soeur. Glos, gloris,
 f. Dig.
 
 BELLEVILLE, ville de France (Rhône). *Bella (ae) Villa (ae), f.
@@ -41009,7 +41009,7 @@ BÉNÉDICTION, s. f.
 1° Action de bénir. Benedictio, onis, f. Hier. ||
 2° Fig. Faveur du ciel. Beneficium, ii, n. Cic. Voy. FAVEUR : Par une
 bénédiction du ciel, Divinitus. Cic. Pays de — (= très fertile), Ager
-uberrimus maximeque fertilis. Cic. || 3° Vœux pour qqn. Gratia, ae, f.
+uberrimus maximeque fertilis. Cic. || 3° Voeux pour qqn. Gratia, ae, f.
 Cic. Laudes, um, f. pl. Cic. : Combler qqn de bénédictions, Agere
 alicui mirificas gratias. Cic. Laudes gratesque. Liv. Être en
 bénédiction auprès de qqn, Esse in laude et in gratia cum aliquo. Cic.
@@ -42220,7 +42220,7 @@ Biseau (d'un instrument à vent), Lingua, ae, f. Plin. Ligula, f. Plin.
 
 BISET, s. m. Espèce de pigeon. Columba (ae) agrestis (is), f. Varr.
 
-BISON, s. m. Sorte de bœuf sauvage. Bison, ontis, m. Plin.
+BISON, s. m. Sorte de boeuf sauvage. Bison, ontis, m. Plin.
 
 BISSAC, s. m. Sorte de double sac. Bisaccium, ii, n. Petr. Voy.
 BESACE.
@@ -42456,10 +42456,10 @@ Mart. || 4° Vêtements blancs. Candida (ae) vestis (is), f.
 Liv. Albae (arum) vestes (ium), f. pl. Ov. Alba, orum, n. pl. Ov. :
 Vêtu de blanc, Albatus, a, um. Cic. Candidatus. Plaut. Suet. Candide
 vestitus. Plaut. || 5° Partie blanche d'une ch. Album, i, n. Cels.
-Candidum, n. Plin. : Le blanc de l'œil, Album oculi ou oculorum, n.
-Cels. — d'œuf, Ovi album, n. Cels. Albumen (minis), n. Plin.
+Candidum, n. Plin. : Le blanc de l'oeil, Album oculi ou oculorum, n.
+Cels. — d'oeuf, Ovi album, n. Cels. Albumen (minis), n. Plin.
 Albamentum (i), n. Veg. Albor (oris), m. Pall. Candor, m. Plin.
-Candidum (i), n. Plin. : Des blancs d'œufs, Ovorum albamenta (orum),
+Candidum (i), n. Plin. : Des blancs d'oeufs, Ovorum albamenta (orum),
 n. pl. Apic. || 6° But peint en blanc, cible. Scopus, i, m. Suet. :
 Tirer au blanc (= viser le but), Voy. BUT. || 7° Espace laissé libre
 dans un écrit. Vacans (entis) locus (i), m. Quint. : Un blanc doit
@@ -42933,14 +42933,14 @@ BOCAL, s. m. Sorte de vase. Ampulla, ae, f. Cic.
 
 BOÈCE, écrivain latin (Ve et VIe s. ap. J.-C.). Boetius, ii, m. Symm.
 
-BŒUF, s. m.
+BOEUF, s. m.
 1° Nom d'un genre de ruminants. Bos, bovis (gén. pl. boum;
-dat. et abl. pl. bobus et mieux bubus), m. Cic. : Bœuf gras, Bos
+dat. et abl. pl. bobus et mieux bubus), m. Cic. : Boeuf gras, Bos
 altilis. Varr. Jeune —, Buculus, i, m. Col. De —, Relatif au —,
-Bubulus, a, um. Col. Viande de —, Voy. 2°. Troupeau de bœufs, Bubulum
+Bubulus, a, um. Col. Viande de —, Voy. 2°. Troupeau de boeufs, Bubulum
 armentum. Col. Étable à —, Bubile, is, n. Varr. Col. Marché aux —,
-Forum boarium. Liv. || 2° Viande de bœuf. Bubula (ae) caro (carnis),
-f. Plin., et simpl. Bubula, ae, f. Plaut. Cels. : Rôti de bœuf, Assa
+Forum boarium. Liv. || 2° Viande de boeuf. Bubula (ae) caro (carnis),
+f. Plin., et simpl. Bubula, ae, f. Plaut. Cels. : Rôti de boeuf, Assa
 bubula. Plaut.
 
 1. BOHÊME (LA), contrée de l'Europe. Boiohemum, i, n. Vell. Boiemum, n.
@@ -42965,7 +42965,7 @@ bien employé, dans ce sens, qu'au sup. et aux formes qui en dérivent),
 act. Cic. Plin. Qqf. Sorbere, eo, es, bui, s. sup., act. Plin.
 Haurire, io, is, hausi, haustum, act. Plin. : On boit, On buvait,
 Bibitur, Bibebatur, impers. pass. Cic. Boire de l'eau, Bibere aquam.
-Cic. — un œuf cru, Crudum ovum sorbere. Plin. — une coupe, Poculum
+Cic. — un oeuf cru, Crudum ovum sorbere. Plin. — une coupe, Poculum
 bibere. Plaut. Devant —, Qui boira, Potaturus, a, um. Ter. Suet.
 Poturus. Plin. Sang de taureau qui a été bu, Sanguis tauri potus. Cic.
 Amandes bues dans de l'eau, Amygdalae ex aqua potae. Plin. Tonneaux
@@ -42981,7 +42981,7 @@ sup. Ter. — d'un trait, (Aliquid) uno potu haurire. Plin. — en entier,
 Ebibere, act. Ter. Exhaurire, act. Cic. Exsorbere, act. Cic. Epotare
 (n'est guère usité qu'au part. epotus), act. Cic. Bon à —, Voy.
 POTABLE. Vase à —, qui sert pour —, Vas potorium. Plin. — à la santé
-de qqn, Voy. SANTÉ. Donner à — aux bœufs, Bobus potatum dare. Col.
+de qqn, Voy. SANTÉ. Donner à — aux boeufs, Bobus potatum dare. Col.
 Donner peu à — aux chevaux, Exiguum potum equis impertiri. Plin.
 Donne-moi à — ou, ellipt., À boire ! Bibere da. Plaut. Servir ou
 Verser à —, à — à Jupiter, Ministrare pocula. Cic. Ministrare bibere
@@ -43350,8 +43350,8 @@ ad nullam rem utilis. Cic. N'être — à rien, Esse nulli rei. Gell. ||
 Rectus. Cic. Probus. Cic. Justus. Cic. : Bon conseil, Bonum consilium.
 Donner un — conseil, Bene monere. Ter. Bonne nature, Bona natura. Ter.
 Bon sens, Bona mens. Liv. Les bons penchants, Recta, orum, n. pl. Cic.
-Bonnes mœurs, Boni mores. Cic. Femme de — mœurs, Mulier morata recte.
-Plaut. Les mœurs du bon temps (= de l'ancien temps), Pristini mores.
+Bonnes moeurs, Boni mores. Cic. Femme de — moeurs, Mulier morata recte.
+Plaut. Les moeurs du bon temps (= de l'ancien temps), Pristini mores.
 Plaut. La cause la moins bonne, Inferior causa. Cic. Pour de bonnes
 raisons, Justis de causis. Cic. De bonne foi, Bona fide. Cic. || 10°
 Bienveillant, obligeant, indulgent, affectueux, facile à vivre. Bonus,
@@ -43361,7 +43361,7 @@ Facilis. Cic. Mansuetus, a, um. Cic. : Bon pour ses voisins, Bonus
 vicinis (au dat.). Cato. — à l'égard de, envers, pour qqn, Comis erga
 aliquem. Cic. In aliquem. Hor. Alicui. Plaut. Tac. Erga aliquem
 humanus. Cic. In aliquem mitis. Liv. — envers un ennemi, In hostem
-lenis. Cic. — avec sa sœur, — frère, Pius adversus sororem. Liv. —
+lenis. Cic. — avec sa soeur, — frère, Pius adversus sororem. Liv. —
 pour ses parents, — fils, Pius in parentes. Cic. Homme parfaitement —,
 Mitissimus homo. Cic. Pour que je parusse extrêmement —, Ut
 mansuetissimus viderer. Cic. Crois-tu qu'il y ait un homme meilleur
@@ -43449,7 +43449,7 @@ Col. || 3° Tampon servant à boucher. Obturamentum, i, n. Plin.
 BONDIR, v. n.
 1° Faire un bond, des bonds (en parl. des ch.).
 Resilire, io, is, lui et rar. lii, sultum, n. Ov. : La balle bondit,
-Pila exsultat (de exsultare, o, avi, atum, n.). Sen. Mon cœur — contre
+Pila exsultat (de exsultare, o, avi, atum, n.). Sen. Mon coeur — contre
 ma poitrine, Cor coepit in pectus emicare (o, as, cui, catum, n.).
 Plaut. || 2° Sauter (en parl. de l'homme, des animaux). Salire, io,
 is, livi et lii ou lui, saltum, n. Cic. : Troupeaux qui bondissent,
@@ -43588,7 +43588,7 @@ Cic. Comitas, f. Cic. Facilitas, f. Cic. : La même bonté s'applique à
 tout le monde, Eadem bonitas ad multitudinem pertinet. Cic. Profiter
 de la — des dieux, Deorum bonitate uti. Cic. Tromper la — de qqn,
 Liberalitatem alicujus decipere. Cic. S'attacher qqn par sa —,
-Comprehendere aliquem humanitate. Cic. Cœur accessible à la —,
+Comprehendere aliquem humanitate. Cic. Coeur accessible à la —,
 Obnoxius gratiae animus. Quint. Qui révèle de la —, Facilitatem
 significans. Cic. Trop grande —, Trop de —, Excès de —, Nimia
 benignitas. Cic. Se ruiner par (trop de) —, Rem perdere per comitatem.
@@ -43708,7 +43708,7 @@ Sen. Boreus et Borius, a, um. Ov.
 BORÉE, s. m. Nom d'un dieu; vent du nord. Boreas, ae (acc. am et an),
 m. Ov. Plin. Virg.
 
-BORGNE, adj. À qui il manque un œil. Luscus, a, um. Cic. Luscinus.
+BORGNE, adj. À qui il manque un oeil. Luscus, a, um. Cic. Luscinus.
 Plin. Orbus lumine altero. Plin. : Il devient borgne, Altero oculo
 capitur (de capi, ior, eris, captus sum, pass.). Liv. || S. m. Un
 borgne, Unoculus, i, m. Plaut.
@@ -43831,7 +43831,7 @@ Traduct. diverses : Le châtiment se borne là, Poena ibi consistit (de
 consistere, o, stiti, s. sup., n.). Liv. Se borner à boire de l'eau
 (par régime), Intra aquam manere, eo, es, mansi, mansum, n. Cels. Il
 s'est borné à parler, il n'a rien montré, Dixit tantum, nihil
-ostendit. Cic. Se borner à des enquêtes sur les mœurs, Tantum de
+ostendit. Cic. Se borner à des enquêtes sur les moeurs, Tantum de
 moribus quaerere. Cic. Je me bornerai à cette recommandation, Unum est
 quod praecipiam. Quint. Je me borne à expliquer ceci, à cette
 explication, Unum hoc definio. Cic. L'armée se bornait à une légion,
@@ -44006,7 +44006,7 @@ semper erant illa. Cic. Ils ont toujours à la —, Solent dictitare...
 Liv. Les hommes les plus savants ont toujours ceci (cette maxime) à la
 —, que..., Est hoc usurpatum a doctissimis (prop. infin.). Cic. Avoir
 toujours à la — le nom de qqn, Aliquem semper in ore habere. Liv.
-Avoir à la — et non dans le cœur, Non in pectore sed in labris habere.
+Avoir à la — et non dans le coeur, Non in pectore sed in labris habere.
 Lact. Écris ce qui te viendra à la —, Quod in buccam venerit,
 scribito. Cic. Nous disons tout ce qui nous vient à la —, Garrimus
 quidquid in buccam (s.-e. venit). Cic. Oseras-tu ouvrir la —, Hiscere
@@ -44335,7 +44335,7 @@ temps, Infervefacito paulisper. Cato. || 2° Être cuit dans un liquide
 bouillant. Infervere, eo, es, ferbui, s. sup., n. Cels. Infervescere,
 o, is, ferbui, s. sup., n. Hor. Plin. : Quand [les baies] auront
 longtemps bouilli, Ubi (baccae) diu ferbuerint. Pall. Bouillir dans de
-l'huile, Ex oleo infervescere. Cels. — dans un mélange d'urine de bœuf
+l'huile, Ex oleo infervescere. Cels. — dans un mélange d'urine de boeuf
 et d'écume d'huile, Urina bubula et amurca mixta confervere. Pall. ||
 Ajoutez de l'huile, puis faites bouillir, Addito oleum, postea
 fervefacito (de fervefacere, io, is, feci, factum, act.). Cato. Faites
@@ -44697,7 +44697,7 @@ Crassedo, inis, f. Isid. || 2° Ce qui sert à rembourrer. Tomentum, i,
 n. Varr. || 3° Duvet des bourgeons. Floccus, i, m. Plin.
 
 BOURREAU, s. m.
-1° Exécuteur des hautes œuvres. (Celui qui met à mort)
+1° Exécuteur des hautes oeuvres. (Celui qui met à mort)
 Carnifex, ficis, m. Cic. (Celui qui torture) Tortor, oris, m. Cic. :
 Qui sert de bourreau au préteur, — de Verrès, Carnifex praetoris. Cic.
 Verris. Cic. Faire le métier de —, Carnificinam facere. Plaut. Livrer
@@ -44799,7 +44799,7 @@ atum, act. Cic. Virg. Ov. || 2° Pousser en tous sens. Vexare, o, as,
 avi, atum, act. Suet. : Bousculé dans la foule, Vexatus in turba.
 Suet.
 
-BOUSE, s. f. Fiente de bœuf ou de vache. Fimus (i) bubulus (i), m.
+BOUSE, s. f. Fiente de boeuf ou de vache. Fimus (i) bubulus (i), m.
 Liv.
 
 BOUSSAC, v. de France (Creuse). *Bussacium, ii, n.
@@ -44842,7 +44842,7 @@ Falsum est id totum. Cic. Livres à lire d'un — à l'autre, Libri
 perlegendi. Plin. Relire un volume d'un — à l'autre (jusqu'aux boutons
 du cylindre), Librum usque ad umbilicos revolvere. Sen.-rh. D'un — à
 l'autre du repas [chez les Romains], Ab ovo usque ad mala (= depuis
-l'œuf jusqu'aux pommes). Hor. Dards terminés par un — de fer, Jacula
+l'oeuf jusqu'aux pommes). Hor. Dards terminés par un — de fer, Jacula
 praefixa ferro. Liv. Attacher des sarments au — des cornes, Sarmenta
 cornibus (au dat.) praeligare, o, as, avi, atum. Liv. Brûler le —
 d'une ch., Brûler une ch. par le —, Rem praeurere, o, is, ussi, ustum.
@@ -44991,14 +44991,14 @@ f. Col. Mettre en terre une bouture, Taleam pangere. Col. Serere.
 Plin. Le myrte se plante de —, vient de —, Myrtus taleis seritur.
 Plin.
 
-BOUVERIE, s. f. Étable à bœufs. Bubile, is, n. Plaut. Col. Bovile, n.
+BOUVERIE, s. f. Étable à boeufs. Bubile, is, n. Plaut. Col. Bovile, n.
 Varr.
 
 BOUVIER, s. m.
-1° Conducteur de bœufs. Bubulcus, i, m. Cic. || 2°
+1° Conducteur de boeufs. Bubulcus, i, m. Cic. || 2°
 Constellation. Bootes, ae, m. Virg. Ov.
 
-BOUVILLON, s. m. Jeune bœuf. Buculus, i, m. Col.
+BOUVILLON, s. m. Jeune boeuf. Buculus, i, m. Col.
 
 BOUVINES, bourg de France (Nord). *Bovinae, arum, f. pl.
 
@@ -45007,7 +45007,7 @@ BOUVREUIL, s. m. Sorte d'oiseau. *Pyrrhula, ae, f.
 BOVILLES, v. du Latium. Bovilla, ae, f. Frontin. et Bovillae, arum, f.
 pl. Tac. : (Qui est) de Bovilles, Bovillanus, a, um. Cic.
 
-BOVINE, adj. fém. Des bœufs. Bubulus, a, um. Varr. Col. : La race
+BOVINE, adj. fém. Des boeufs. Bubulus, a, um. Varr. Col. : La race
 bovine, Bubulum pecus. Varr.
 
 BOYAU, s. m. C. INTESTIN.
@@ -45182,7 +45182,7 @@ avellere. Cic. Abstrahere. Cic. Tenir un enfant dans ses —, Puerum
 sinu gestare. Vell. Entre les — de qqn, In complexu alicujus. Cic. ||
 Fig. La république se jette dans tes bras, Confugit in sinum tuum
 respublica. Pl.-j. Se jeter à corps perdu dans les — de qqn, Totum se
-in aliquem profundere. Cic. Recevoir qqn à — et à cœur ouverts,
+in aliquem profundere. Cic. Recevoir qqn à — et à coeur ouverts,
 Aliquem suo sinu complexuque recipere. Cic. Entre les — de son frère,
 In fratris manibus et gremio. Cic. || 3° La personne qui travaille,
 qui agit. Dextra, ae, f. Sall. Manus, us, f. Tac. Opera, ae, f. Col. :
@@ -45535,7 +45535,7 @@ BRIGNAIS, bourg de France (Rhône). *Brignaesium et Prignesium, ii, n.
 BRIGNOLES, v. de France (Var). *Brinolium, ii, n. *Brinonia, ae, f.
 
 BRIGUE, s. f.
-1° Manœuvre détournée, Poursuite vive pour obtenir
+1° Manoeuvre détournée, Poursuite vive pour obtenir
 quelque chose. Ambitus, us, m. Cic. Ambitio, onis, f. Cic. Prensatio,
 f. Cic. Petitio, f. Cic. : Que dirai-je des brigues ? Quid de
 ambitionibus loquar ? Cic. Les citoyens sont assiégés par les — des
@@ -45787,7 +45787,7 @@ BRISEMENT, s. m.
 Choc des flots qui se brisent. Illisus, us (seul. à l'abl. sing.), m.
 Sil. : Le brisement des flots fait beaucoup de bruit sur le rivage, In
 littore se maximo cum sono fluctus illidit (de illidere, o, lisi,
-lisum). Quint. || 3° Fig. Blessure morale : Brisement de cœur, Voy.
+lisum). Quint. || 3° Fig. Blessure morale : Brisement de coeur, Voy.
 DOULEUR, BLESSURE.
 
 1. BRISER, v. act.
@@ -45849,8 +45849,8 @@ fregi, fractum, act. Cic. Infringere, o, is, fregi, fractum, act. Cic.
 tudi, tusum. Plaut. — de fatigue, Labore frangere. Cic. Obterere, o,
 is, trivi, tritum. Pl.-j. — le courage des ennemis, Animos hostium
 infringere. Liv. Brisé par le malheur, Malis fractus. Cic. La douleur
-brise mon cœur, Dolore divellor (pass. de divellere, o, is, velli,
-vulsum). Cic. Avoir le cœur brisé, Être —, Fracto ou Infracto animo
+brise mon coeur, Dolore divellor (pass. de divellere, o, is, velli,
+vulsum). Cic. Avoir le coeur brisé, Être —, Fracto ou Infracto animo
 esse. Cic.
 
 2. BRISER, v. n.
@@ -45882,9 +45882,9 @@ briser contre une âme ferme comme une vague contre un rocher,
 L'accusation se brise contre cela, Crimen ab hoc resilit (de resilire,
 io, silui, sultum, n.). Cic. Efforts qui se brisent, Contentiones quae
 franguntur. Cic. || 3° Ressentir un violent chagrin. Dirumpi, or,
-eris, ruptus sum, pass. Cic. : Mon cœur se brise de chagrin, Dolore
+eris, ruptus sum, pass. Cic. : Mon coeur se brise de chagrin, Dolore
 dirumpor. Cic. Divellor (eris, vulsus sum, divelli, pass.). Cic. [Mon
-cœur] se —, Finditur (de findi, or, fissus sum, pass.). Plaut.
+coeur] se —, Finditur (de findi, or, fissus sum, pass.). Plaut.
 
 BRISEUR, s. m. Celui qui brise. (En gén.) Is qui frangit ou rumpit
 (aliquid). D'apr. Cic. Ruptor (seul. au fig.), oris, m. Liv.
@@ -46000,8 +46000,8 @@ i, n. Plin. || 2° Objet en bronze. Aes, aeris, n. Cic. Virg. Tac. :
 Bronzes vivants, Aera spirantia. Virg. Il a fait de très beaux —,
 Fecit ex aere pulcherrima opera. Plin. — de Corinthe, Corinthia, orum,
 n. pl. Plin. || 3° Fig. Dureté, insensibilité : Il faudrait que je
-fusse de bronze, que j'eusse un cœur de —, Ferreus essem. Cic. Ô
-(toi), cœur de — ! O te ferreum ! Cic. Nous ne sommes pas de —, Non
+fusse de bronze, que j'eusse un coeur de —, Ferreus essem. Cic. Ô
+(toi), coeur de — ! O te ferreum ! Cic. Nous ne sommes pas de —, Non
 silice (de silex, m. = caillou) nati sumus. Cic. Voy. FER.
 
 BRONZÉ, ÉE, adj. De la couleur du bronze. Aeneus, a, um. Suet. Voy.
@@ -46652,7 +46652,7 @@ BUÉNOS-AYRES, v. de l'Amérique méridionale. *Bonus (i) Aer (eris), m.
 
 BUFFET, s. m. Espèce d'armoire. Abacus, i, m. Cic.
 
-BUFFLE, s. m. Espèce de bœuf. *Bos (bovis) bubalus (i), m. (Sm.).
+BUFFLE, s. m. Espèce de boeuf. *Bos (bovis) bubalus (i), m. (Sm.).
 
 BUGEY, anc. pays de France. *Beugesia, ae, f.
 
@@ -46834,7 +46834,7 @@ volebant. Nep. Marcher droit au —, Gnaviter permeare. Col. Jusqu'à ce
 qu'ils arrivent à leur —, Dum id, quod velint, consequantur. Cic.
 J'arriverai plus facilement à mon —, en..., Facilius, quod est
 propositum, consequar, si... Cic. Ayant atteint son —, Consecutus id
-quod animo proposuerat. Caes. Le — de mes vœux sera atteint, Prospere
+quod animo proposuerat. Caes. Le — de mes voeux sera atteint, Prospere
 cedent quae pergo. Tac. Afin d'arriver un jour au — de ses désirs, Ut
 ad id aliquando, quod cupiebat, perveniret. Cic. Ce qui mène au — que
 tu veux atteindre, Illud, quod eo, quo intendis, deducit. Cic.
@@ -47402,7 +47402,7 @@ extra numerum. Cic. Marquer avec le pied la — des sons de la voix,
 Sonum vocis pulsu pedum moderari (dép.). Liv. Se mouvoir au bruit des
 pieds qui marquent la —, Ad ictus modulantium pedum moveri. Plin. ||
 2° T. de musique. Battement de deux sons rapprochés : Les cadences du
-rossignol, Vibrans sonus lusciniæ. Plin. || 3° Harmonie d'un vers.
+rossignol, Vibrans sonus lusciniae. Plin. || 3° Harmonie d'un vers.
 Numerus, i, m. Cic. Modus, m. Cic. : La cadence du style oratoire,
 Modus oratorius. Cic. Observer la —, Modum et numerum servare. Cic.
 Conformément à la —, En —, Ad numerum. Cic. Fin de période qui a une —
@@ -48149,8 +48149,8 @@ Liv. Conquiescit. Liv. Le tumulte se —, Tumultus conticescit (de
 conticescere, o, ticui, s. sup., n.). Liv. Les fièvres se calment,
 Febres decedunt (de decedere, o, cessi, cessum, n.). Nep. La douleur
 s'est calmée, Dolor remisit (neut.). Cic. Se remisit. Cels. Puisque la
-douleur qui gonflait son cœur s'était —, Cum tumor animi resedisset
-(de residere, o, is, sessum, n.). Cic. Les esprits, Les cœurs se
+douleur qui gonflait son coeur s'était —, Cum tumor animi resedisset
+(de residere, o, is, sessum, n.). Cic. Les esprits, Les coeurs se
 calment, Mentes, Animi residunt. Caes. Liv. La première terreur s'est
 calmée, Primus terror consedit. Liv. L'ardeur de l'orateur se calme,
 Subsidit impetus dicendi. Quint. La fougue se —, Residit impetus.
@@ -48234,7 +48234,7 @@ Cic.
 CALUS, s. m.
 1° Soudure naturelle d'un os rompu. Callus, i, m. Cels.
 || 2° Durillon. Callum, i, n. Cic. Qqf. Callus, i, m. Cels. || 3° Fig.
-Endurcissement d'esprit et de cœur. Callum, i, n. Cic. Sen. : Se faire
+Endurcissement d'esprit et de coeur. Callum, i, n. Cic. Sen. : Se faire
 un calus à force de patience, Longa patientia occallescere, o, is,
 lui, s. sup., n. Pl.-j. Par le travail on se fait un — contre la
 douleur, Labor callum dolori obducit. Cic.
@@ -48625,7 +48625,7 @@ CANDÉLABRE, s. m. Grand chandelier. Candelabrum, i, n. Cic. : Plateau
 d'un candélabre, Superficies candelabri. Plin.
 
 CANDEUR, s. f.
-1° Pureté d'âme, de mœurs. Integritas, atis, f. Cic.
+1° Pureté d'âme, de moeurs. Integritas, atis, f. Cic.
 Sanctitas, f. Cic. Castitas, f. Cic. || 2° Naïveté, ingénuité.
 Simplicitas, atis, f. Cic. : Candeur du premier âge, Simplicitas
 puerilis. Vell. || 3° Franchise, loyauté. Veritas, atis, f. Cic.
@@ -48657,7 +48657,7 @@ Faire échouer la — de qqn, Aliquem de honore dejicere. Cic. Échouer
 dans sa —, Suffragiis praeteriri. Cic.
 
 CANDIDE, adj.
-1° Qui est de mœurs pures. Purus, a, um. Cic. Integer,
+1° Qui est de moeurs pures. Purus, a, um. Cic. Integer,
 gra, grum. Cic. Castus, a, um. Cic. Sanctus. Cic. || 2° Naïf, ingénu.
 Simplex, gén. plicis. Cic. || 3° Franc, loyal. Verus, a, um. Cic.
 Apertus. Cic. Candidus. Hor. Ingenuus. Cic.
@@ -97337,7 +97337,7 @@ A veritate deflectere. Cic. desciscere. Cic. Ne pas s'— d'une ligne de
 qq. ch., Transversum unguem non discedere ab re. Cic.
 
 ECBATANE, capit. de la Médie. Ecbatana, ae, f. Lucil. Ecbatana, orum,
-n. pl. Tac. Ecbatanæ, arum, f. pl. Apul.
+n. pl. Tac. Ecbatanae, arum, f. pl. Apul.
 
 ECCHYMOSE, s. f. Meurtrissure. Vibex, icis, f. Plaut. Cato. Plin. :
 Des ecchymoses, Insignita, orum, n. pl. Plin.
@@ -115193,7 +115193,7 @@ Audire, io, is, ivi et ii, itum, act. Cic. Exaudire, act. Virg. Liv. :
 Exaucer qqn, les prières de qqn, Audire aliquem orantem. Ov. preces
 alicujus. Cic. Les dieux t'exauceront, Dii tibi obtemperabunt. Ter.
 Prières exaucées, Auditae preces. Liv. Refuser d'exaucer des prières,
-Preces adspernari, dép. Cic. aversari, dép. Liv. Voy. PRIÈRE, VŒU.
+Preces adspernari, dép. Cic. aversari, dép. Liv. Voy. PRIÈRE, VOEU.
 
 EXCAVATION, s. f.
 1° Action de creuser. Fossio, onis, f. Cic. Col. ||
@@ -131406,7 +131406,7 @@ GESSE, s. f. Sorte de plante. Cicera, ae, f. Col.
 GESTATION, s. f.
 1° État de celui qui se fait porter. Gestatio, onis,
 f. Cels. || 2° État de celle qui porte son fruit. Praegnatio, onis, f.
-Varr. Fœtura, ae, f. Varr. : Le temps de la gestation, Partûs gerendi
+Varr. Foetura, ae, f. Varr. : Le temps de la gestation, Partûs gerendi
 tempus. Plin. Qui est en état de —, Praegnans, gén. antis. Varr. Cic.
 La — chez la jument est de 12 mois, Equa ventrem fert duodecim menses.
 Varr.
@@ -145033,8 +145033,8 @@ telle maladie, Pecus quae tali morbo correpta est (pass. de corripere,
 io, is, ripui). Col. || 5° Fig. Dépraver. Corrumpere (voy. 1°), act.
 Cic. Inficere (voy. 1°), act. Cic. Inquinare, act. Varr. Infestare, act.
 Col. : Un seul enfant infecte tous les autres, Unus puer inquinat
-gregem puerorum. Varr. Infecter les mœurs, Mores pervertere (voy. 3°).
-Nep. Infecté de mauvaises mœurs, Malis moribus imbutus (pass. de
+gregem puerorum. Varr. Infecter les moeurs, Mores pervertere (voy. 3°).
+Nep. Infecté de mauvaises moeurs, Malis moribus imbutus (pass. de
 imbuere, o, is, ui). Sall. Nous sommes infectés de préjugés, Inficimur
 opinionum pravitate. Cic. Voy. CORROMPRE 2°.
 
@@ -145276,7 +145276,7 @@ Inflexibilis, m. f., e, n. (rare). Pl.-j. Durus, a, um. Cic. Ferreus.
 Cic. Rigidus. Liv. Sen. Obstinatus. Liv. : Inflexible aux prières,
 Inexorabilis, m. f., e, n. Cic. Implacabilis, e. Cic. Opiniâtreté —,
 Inflexibilis obstinatio. Pl.-j. Vertu —, Virtus dura. Cic. L'âme — de
-Caton, Animus Catonis atrox (gén. ocis). Hor. Quel cœur fut assez —
+Caton, Animus Catonis atrox (gén. ocis). Hor. Quel coeur fut assez —
 pour n'être pas touché...? Quis tam fuit durus ou ferreus ou inhumanus,
 qui non commoveretur? Cic. Qui est d'une rigueur — à l'égard de son
 fils, Acerbe severus in filium. Cic. La colère (du peuple) fut —,
@@ -145400,7 +145400,7 @@ pependi, s. sup., n.). Liv. Influer sur les résolutions des hommes,
 Ad mutandos animos momentum habere (eo, es, bui, bitum). Liv. La
 maladie influe sur l'esprit, Corporis aegritudo animum urget (de
 urgere, eo, ursi, s. sup.). Curt. La mémoire — d'une manière utile
-même sur les mœurs, Memoria usque ad mores proficit (de proficere, io,
+même sur les moeurs, Memoria usque ad mores proficit (de proficere, io,
 feci, fectum, n.). Quint. Influer d'une manière nuisible sur qq. ch.,
 C. NUIRE. N'— en rien sur qq. ch., Alicujus rei ou In aliqua re
 nullum momentum facere (io, is, feci, factum). Liv.
@@ -145444,7 +145444,7 @@ Cic. : Informer contre qqn, De aliquo quaerere. Cic. In aliquem
 inquirere. Cic. — d'un fait, sur un fait, Quaerere de re. Cic. rem.
 Liv. Inquirere de re. Liv. De re quaestionem habere (eo, es, bui,
 bitum). Liv. — sur les actes de qqn, De actis alicujus cognoscere.
-Cic. — des vie et mœurs de qqn, In aliquem quid agat, quemadmodum
+Cic. — des vie et moeurs de qqn, In aliquem quid agat, quemadmodum
 vivat, inquirere. Cic. Demander l'autorisation d'— contre qqn,
 Postulare inquisitionem in aliquem. Pl.-j. Permettre à qqn d'— contre...,
 Dare inquisitionem alicui. Pl.-j. Voy. ENQUÊTE. || 2° Act. Avertir,
@@ -145788,7 +145788,7 @@ Quint. Initie-nous à ta bonne idée, Fac nos participes tuae
 sapientiae. Plaut.
 
 INJECTÉ, ÉE, part. passé d'INJECTER, Voy. ce v. || Adj. T. de
-médecine : Œil injecté (de sang), Oculus sanguinolentus. M.-Emp.
+médecine : Oeil injecté (de sang), Oculus sanguinolentus. M.-Emp.
 C.-Aur.
 
 INJECTER, v. act. Introduire par jet un liquide dans une cavité du
@@ -146214,7 +146214,7 @@ decernatur. Cic. On s'— sur le sort de la ville, Urbi timetur. Sen.-tr.
 S'inquiéter pour qqn, pour qq. ch., Voy. CRAINDRE 2°. Qui ne s'inquiète
 pas de la guerre, De bello securus. Liv. Qui n'a pas à s'inquiéter
 d'une ch., Tutus ab re. Cic. ad rem. Liv. || 2° Se mettre en peine,
-avoir à cœur de. Curare, act. Cic. Curae habere (eo, es, bui, bitum),
+avoir à coeur de. Curare, act. Cic. Curae habere (eo, es, bui, bitum),
 act. Sall. Quint. : S'inquiéter des intérêts de qqn, De re alicujus
 laborare. Cic. Je m'inquiète uniquement de ton salut, Nihil laboro,
 nisi ut salvus sis. Cic. Ils ne s'inquiètent que de l'âme, Praeter
@@ -146513,7 +146513,7 @@ tetigi, tactum). Liv. Se montrer — à l'infortune, Miserae fortunae
 adversus lacrimas. Liv. Je suis — aux larmes, Nil (et mieux Nihil)
 moveor lacrimis. Prop. Être — aux prières, Preces fastidire (io, is, ivi
 et ii, itum). Liv. || 7° Qui n'est perçu que difficilement ou n'est pas
-perçu du tout par les sens : [Ce] qui est insensible et à l'œil et à
+perçu du tout par les sens : [Ce] qui est insensible et à l'oeil et à
 l'oreille, Quod neque oculis neque auribus percipi potest. Cic.
 Vieillir d'une manière —, Sensim ou Paulatim senescere. Se produire
 d'une manière —, Être —, Non apparere (eo, es, rui, ritum), n. Cic.
@@ -147490,7 +147490,7 @@ dat.). C.-Aur.
 INSUFFLER, v. act. Introduire à l'aide du souffle. Inflare, act. Cato.
 Inspirare, act. Cels. Col. : Insuffler avec la bouche de l'eau dans le
 bec d'un ramier, Ex ore in os palumbi inflare aquam. Cato. — qq. ch.
-dans l'œil à l'aide d'un chalumeau, Inspirare aliquid per fistulam
+dans l'oeil à l'aide d'un chalumeau, Inspirare aliquid per fistulam
 oculo (au dat.). Col.
 
 INSULAIRE, adj. Qui habite une île. Insulanus, a, um. Serv. : Les
@@ -147616,7 +147616,7 @@ Integritas, atis, f. Macr. : Qui est dans son intégrité, dans toute son
 — (pr. et fig.), Integer, gra, grum. Plaut. Caes. Cic. Liv. Illibatus,
 a, um. Cic. Liv. Conserver l'— d'une ch., Rem integram servare. Cic.
 Liv. || 2° État d'une ch. saine et sans altération. Integritas, atis,
-f. Cic. Col. : Les œufs restent dans toute leur intégrité, Ova
+f. Cic. Col. : Les oeufs restent dans toute leur intégrité, Ova
 illibatam servant integritatem. Col. La saveur persiste dans toute son
 —, Integer permanet sapor. Col. || 3° Qualité d'une personne intègre.
 (En gén.) Integritas, atis, f. Cic. Probitas, f. Cic. Sanctitas, f.
@@ -147961,7 +147961,7 @@ intercludere. Caes. Un mur intercepte le passage, Murus iter
 intercipit (voy. 1°). Plin. Trouvant tous les passages interceptés,
 Omni itinere interclusus (a, um). Caes. Intercepter la lumière du
 soleil, Soli officere. Cic. Solem arcere (eo, es, cui, s. sup.). Col.
-Cette manœuvre intercepta à une grande partie de l'infanterie la vue
+Cette manoeuvre intercepta à une grande partie de l'infanterie la vue
 de l'armée, Id factum magnae parti peditum conspectum exercitus
 intersaepsit (de intersaepire, io, is, saepsi, saeptum). Liv.
 Intercepter la voix, Vocem includere ou intercludere. Cic. — la
@@ -149150,7 +149150,7 @@ INTRÉPIDE, adj.
 danger. Impavidus, a, um. Hor. Liv. Intrepidus. Ov. Liv. Sen. Pl.-j.
 Interritus. Virg. Tac. Impavidus adversus (et l'acc.). Tac.
 Fidens, gén. entis. Virg. Fortis, m. f., e, n. Cic. : Âme intrépide,
-Impavidus animus. Hor. Cœur —, Intrepidum pectus. Ov. Soldat —,
+Impavidus animus. Hor. Coeur —, Intrepidum pectus. Ov. Soldat —,
 Miles interritus. Tac. Rester —, Intrepidum manere. Liv. Se montrer
 —, Fortem se praebere. Cic. || 2° Fig. Qui ne se laisse pas rebuter.
 Acer, cris, cre. Cic. Hor. : Solliciteur intrépide, Flagitator acer.
@@ -149178,7 +149178,7 @@ INTRIGUE, s. f.
 d'intrigue, Se tirer d'—, Se explicare. Cic. Se expedire (io, is, ivi
 et ii, itum). Cic. Qui est hors d'—, Ab omni molestia solutus (a,
 um) ou liber (era, erum). Cic. || 2° Ensemble des incidents qui forment
-le nœud d'une pièce de théâtre. Nodus, i, m. Hor. || 3° Menée ayant
+le noeud d'une pièce de théâtre. Nodus, i, m. Hor. || 3° Menée ayant
 pour objet de faire réussir ou de faire manquer une affaire. (En gén.)
 Clandestinum (i) consilium (ii), n. Cic. (Artifice) Artificium, ii, n.
 Caes. ap. Cic. Ars, artis, f. Liv. (Fourberie) Fallacia, ae, f. Ter.
@@ -149302,7 +149302,7 @@ partout (— l'employer en toute occasion), Omnibus locis (au dat.) hoc
 verbum infulcire (io, is, fulsi, fultum). Sen. — de force des mots
 grecs, Graeca verba inculcare. Cic. || 7° Fig. Faire adopter, établir.
 Introducere (voy. 1°), act. Cic. Inducere (voy. 1°), act. Cic. :
-Introduire qq. ch. dans les mœurs, Inducere aliquid in mores. Cic. —
+Introduire qq. ch. dans les moeurs, Inducere aliquid in mores. Cic. —
 des innovations dans les lois, Novare aliquid in legibus. Cic. Épicure
 a introduit ce système, Hanc rationem Epicurus induxit. Cic.
 Introduire une coutume, Introducere consuetudinem. Cic. — de nombreux
@@ -150007,7 +150007,7 @@ Cic. : Levée d'impôts irrégulière, Illicita exactio. Tac.
 Candidature —, Extraordinaria petitio. Cic. || 6° Capricieux.
 Inconstans, gén. antis. Cic. Sen. Inaequalis, m. f., e, n. Hor. Sen.
 Mutabilis, e. Virg. Liv. Varius, a, um. Sall. || 7° Déréglé.
-Incompositus, a, um. Quint. : Qui a des mœurs irrégulières, Moribus
+Incompositus, a, um. Quint. : Qui a des moeurs irrégulières, Moribus
 incompositus. Quint. Vie irrégulière, Vita devia. Cic. vitiosa. Cic.
 
 IRRÉGULIÈREMENT, adv.
@@ -150061,9 +150061,9 @@ quemque. Quint. || Vie, conduite irréprochable, Vita integerrima.
 Cic. castissima. Cic. innocens. Plin. Innocentia, ae, f. Cic. Vitae
 integritas (atis), f. Sall. sanctitas, f. Cic. honestas, f. Cic.
 Avoir une conduite —, Sanctissime se gerere. Cic. Mener une vie —,
-Vivere sanctissime ou integre ou caste. Cic. Mœurs irréprochables,
+Vivere sanctissime ou integre ou caste. Cic. Moeurs irréprochables,
 Mores emendati. Cic. sanctissimi. Pl.-j. [Homme] dont la vie, la
-conduite est irréprochable, dont les mœurs sont irréprochables,
+conduite est irréprochable, dont les moeurs sont irréprochables,
 Sanctissimus. Cic. Integerrimus. Cic. Probité irréprochable,
 Spectata integritas. Cic. Dame d'une vertu —, Spectatae pudicitiae
 matrona. Liv. Langage —, Oratio proba. Cic. Ces deux époques sont
@@ -150188,7 +150188,7 @@ de voir que le roi était cité pour plaider sa cause, Indignari regem
 ad dicendam causam evocari. Caes. Parce qu'ils étaient irrités de ce
 qu'on leur avait enlevé leur butin, Ob iram praedae amissae. Liv.
 Ils sont — de céder le pas aux hommes d'expérience, Indignantur
-cedere peritis. Quint. || Bœuf irrité, Bos iratus. Petr. Chien —,
+cedere peritis. Quint. || Boeuf irrité, Bos iratus. Petr. Chien —,
 Canis irritatus. Plaut. Abeilles irritées, Exasperatae apes. Col. ||
 Fig. Regards irrités, Infesti oculi. Cic. Flots —, Irati fluctus.
 Petr. Pl.-j.
@@ -150598,7 +150598,7 @@ yeux, Oculos remi respergunt (de respergere, o, spersi, spersum —
 éclabousser). Cic. Faire — les larmes, Lacrimas elicere (io, is,
 licui, licitum). Plaut. Vell. Faire — le sang, Sanguinem venis
 emittere (o, is, misi, missum). Plin. || [Il lui a frappé la tête si
-violemment] que l'œil en a jailli, Ut ei oculus effunderetur (de
+violemment] que l'oeil en a jailli, Ut ei oculus effunderetur (de
 effundi, or, eris, fusus sum, pass.). Ulp. Faire jaillir la cervelle
 à qqn (en le frappant), Cerebrum alicui excutere (io, is, cussi,
 cussum). Plaut. || Des feux jaillissent du sommet de l'Etna, Ignes ex
@@ -150664,7 +150664,7 @@ acis. Col. : Qui est jaloux de son droit, Sui juris retinens (gén.
 entis). Cic. tenax. Col. Qui est — de mon estime, Existimationis
 meae studiosus (a, um). Cic. Cette autorité dont vous êtes si —,
 Istud imperium quod amplexi tenetis (de tenere, eo, es, tenui,
-tentum). Liv. || 2° Qui a à cœur de, qui est très désireux de.
+tentum). Liv. || 2° Qui a à coeur de, qui est très désireux de.
 Cupidus, a, um. Cic. Avidus. Cic. : Jaloux de mener à fin ses
 entreprises, Patrandi incepta cupidus. Sall. — de vaincre, Victoriae
 avidus. Cic. — d'affermir son trône, Regni firmandi memor (gén.
@@ -150682,7 +150682,7 @@ qui ea habent quae nos habere cupimus. Cic. Être — des honneurs rendus
 de qqn, des avantages de qqn, Obtrectare alicui. Suet. commodis
 alicujus. Suet. Cela fait des —, Res habet obtrectationem. Cic. Être
 — de son ombre, Suas umbras aemulari, dép. (prov.). Prop. Être — (l'un
-de l'autre), C. SE JALOUSER. || En parl. des ch. Regarder d'un œil
+de l'autre), C. SE JALOUSER. || En parl. des ch. Regarder d'un oeil
 jaloux, C. JALOUSER. Silence —, Invida taciturnitas. Hor. || 4° Qui
 craint l'infidélité ou la rivalité en amour. Zelotypus, a, um. Juv.
 Petr. : Femme dont qqn est jaloux, Mulier alicui suspecta. Ter. Il
@@ -150899,15 +150899,15 @@ JAUNÂTRE, adj. Qui tire sur le jaune. Subflavus, a, um. Suet.
 etc. (En parl. de l'or, des blés mûrs, du miel, d'un cours d'eau)
 Flavus, a, um. Virg. Hor. (En parl. de l'or, du sable, de la cire,
 des lions) Fulvus. Virg. Plin. (En parl. de l'aurore, du jaune
-d'œuf) Luteus. Plaut. Virg. Col. (Qui est couleur de safran)
+d'oeuf) Luteus. Plaut. Virg. Col. (Qui est couleur de safran)
 Croceus. Virg. Ov. (En parl. du soufre, de la bile, et, en m. part,
 du teint, des dents) Luridus. Hor. Sen. Plin. : Rendre jaune, C.
 JAUNIR (act.). Devenir —, C. JAUNIR (neut.).
 
 2. JAUNE, s. m.
 1° La couleur jaune. Luteum, i, n. Plin. || 2° Partie
-intérieure de l'œuf. Vitellus, i, m. Cic. Hor. Luteum, i, n. Plin. :
-Les jaunes de cinq œufs de pigeon, Lutea ex ovis quinque
+intérieure de l'oeuf. Vitellus, i, m. Cic. Hor. Luteum, i, n. Plin. :
+Les jaunes de cinq oeufs de pigeon, Lutea ex ovis quinque
 columbarum. Plin.
 
 1. JAUNIR, v. act. Rendre jaune : Jaunir qq. ch., *Aliquid flavum ou
@@ -151117,7 +151117,7 @@ venin (fig.), Virus acerbitatis suae evomere (o, is, mui, mitum).
 Cic. — un cri, Clamorem edere. Cic. reddere. Liv. — des menaces,
 Minas jactare. Cic. || 12° Produire. Emittere (voy. 1°), act. Cic.
 Mittere, act. Col. Plin. Edere (voy. 11°), act. Col. : Quand les
-poissons ont jeté leurs œufs, Cum pisces ova genuerunt (de gignere,
+poissons ont jeté leurs oeufs, Cum pisces ova genuerunt (de gignere,
 o, is, genitum). Cic. Jeter un essaim, C. ESSAIMER. — des racines,
 Radices emittere. Col. mittere. Col. La vigne ne jette que du bois,
 Vitis in materiam effunditur (voy. 1°), pass. Col. La vigne — çà et
@@ -151411,7 +151411,7 @@ natu. Cic. Plus — d'un mois, D'un mois plus —, Minor uno mense. Hor.
 Junior mense. Hor. Voy. ÂGÉ. || 6° En parl. des animaux. Qui n'a pas
 encore atteint toute sa croissance. Tener, era, erum. Cic. S'expr. qqf.
 par un diminutif : Jeune cheval, Equus tener. Cic. Equuleus, i, m.
-Varr. Cic. Equulus, m. Varr. — jument, Equula, ae, f. Varr. — bœuf,
+Varr. Cic. Equulus, m. Varr. — jument, Equula, ae, f. Varr. — boeuf,
 Bos tener. Pall. — taureau, Juvencus, i, m. Varr. Virg. — vache,
 Juvenca, ae, f. Varr. Virg. Une — brebis, Juvenis ovis. Col. Agna,
 ae, f. Varr. Hor. — chien, Catellus, i, m. Plaut. Cic. Catulus, m.
@@ -151488,7 +151488,7 @@ Joie sans mélange, Sincerum gaudium. Liv. — douloureuse, Laetitia
 misera. Tac. La — causée par cette victoire, Hujus victoriae
 laetitia. Just. La — d'avoir franchi le défilé, Gaudium saltus
 superati. Liv. La — de faire du butin, Praedandi dulcedo (dinis), f.
-Liv. La — de voir l'œuvre achevée, Alacritas perfecti operis. Liv. La
+Liv. La — de voir l'oeuvre achevée, Alacritas perfecti operis. Liv. La
 malveillance est la — du mal d'autrui, Malevolentia est voluptas ex
 malo alterius. Cic. Donner, Causer de la — à qqn, Alicui laetitiam
 dare. Cic. afferre. Cic. Aliquem in laetitiam evocare. Sen. Alicui
@@ -151496,7 +151496,7 @@ esse laetitiae. Sall. gaudio. Plaut. Donner à qqn tant de —, Aliquem
 tanto gaudio afficere. Nep. La victoire leur avait donné tant de —,
 Victoria tantae eis laetitiae fuerat. Nep. Donner à qqn une fausse
 —, Aliquem in laetitiam frustra conjicere. Ter. Faire naître la — dans
-tous les cœurs, Excitare animos omnium ad laetitiam. Caes. Qui cause de
+tous les coeurs, Excitare animos omnium ad laetitiam. Caes. Qui cause de
 la —, Laetabilis, m. f., e, n. Cic. Ov. Remplir, Combler, Transporter
 qqn de —, Aliquem laetitia perfundere. Cic. efferre. Cic. La nouvelle
 que tu m'annonces me comble de —, Voluptatem magnam nuntias. Ter. Son
@@ -151522,7 +151522,7 @@ elatio (onis), f. Cic. Au milieu des transports de — des citoyens,
 Summa cum laetitia civium. Cic. Transporté de —, Gaudio alacer. Ph. et
 simpl. Alacer, cris, cre. Cic. Se livrer aux transports d'une —
 excessive, Voluptate nimia gestire, n. Cic. S'abandonner à la —,
-Gaudio indulgere, n. Pl.-j. Se donner à cœur —, à cœur — de qq. ch.,
+Gaudio indulgere, n. Pl.-j. Se donner à coeur —, à coeur — de qq. ch.,
 Aliqua re animum suum explere (eo, es, plevi, pletum). Ter. Être
 comblé, transporté de —, Gaudio compleri, pass. Cic. Maximo gaudio
 cumulari, pass. Cic. Laetitia efferri, pass., ou se efferre. Cic.
@@ -151615,7 +151615,7 @@ palais, Continuare domo palatium et hortos. Tac. Voy. COMMUNIQUER 5°.
 || 5° Être contigu à. Voy. CONTIGU. || 6° Associer, unir (des pers.).
 Conjungere (voy. 1°), act. Cic. : Des goûts communs me joignent à toi,
 Me tibi studia communia conjungunt. Cic. Il lui est joint par les
-nœuds du sang, Est cum illo vinculis propinquitatis conjunctus. Cic.
+noeuds du sang, Est cum illo vinculis propinquitatis conjunctus. Cic.
 La nature nous a joints, Inter nos natura conjuncti sumus. Cic. Voy.
 UNIR. || 7° Se réunir à. Convenire, io, is, veni, ventum, n. Caes. :
 Joindre les enseignes, Ad signa convenire. Caes. || 8° Atteindre,
@@ -151657,7 +151657,7 @@ maux se joint cet autre (mal), Ad mala hoc mihi accedit. Ter. À cela
 vient se joindre un autre outrage, Addita est alia insuper ignominia.
 Liv. À la vieillesse de Claudius se joignait cette circonstance qu'il
 était aveugle, Ad Claudii senectutem, accedebat etiam ut caecus esset.
-Cic. À de telles manières se joignent des mœurs à l'avenant, Hunc
+Cic. À de telles manières se joignent des moeurs à l'avenant, Hunc
 habitum convenientes mores sequuntur (de sequi, or, secutus sum,
 dép.). Liv. || 3° Réfl. En parl. des pers. S'unir, s'associer. Se
 conjungere, o, is, junxi, junctum (à qqn, avec qqn, alicui ou cum
@@ -151949,7 +151949,7 @@ Quint. — de farces, C. FARCEUR.
 JOUFFLU, UE, adj. Qui a de grosses joues. Bucculentus, a, um. Plaut.
 
 JOUG, s. m.
-1° Pièce de bois pour atteler les bœufs. Jugum, i, n. Cic.
+1° Pièce de bois pour atteler les boeufs. Jugum, i, n. Cic.
 : Faire porter le joug, Mettre le — aux animaux, Jugum imponere
 bestiis. Cic. Mis sous le —, Subactus, a, um. Col. Recevoir le —,
 Subire jugum. Plin. Ôter le — aux taureaux, Jugum solvere tauris. Virg.
@@ -152726,10 +152726,10 @@ JUMEAU, ELLE, adj.
 Geminus, a, um. Liv. : Des frères jumeaux ou Deux frères —, Fratres
 gemini. Cic. Deux enfants —, et s. m. Deux —, Gemini, orum, m. pl. Cic.
 Plin. [Livie] mit au monde deux fils —, Duos virilis sexus simul enixa
-est. Liv. Sœur jumelle, Soror gemina germana. Plaut. Mon frère jumeau,
+est. Liv. Soeur jumelle, Soror gemina germana. Plaut. Mon frère jumeau,
 Geminus germanus meus. Plaut. Trois frères, fils, enfants jumeaux,
 Trigemini fratres. Liv. filii. Plaut. Trigemini, orum, m. pl. Col. ||
-Fig. [La mémoire] est en quelque sorte la sœur jumelle de la
+Fig. [La mémoire] est en quelque sorte la soeur jumelle de la
 littérature, Est gemina litteraturae quodammodo. Cic. || 2° En parl. de
 fruits joints ensemble. Gemellus, a, um. Plin. : Fruits jumeaux (qui
 sont sur le même pédoncule), Gemella poma. Plin.
@@ -152959,7 +152959,7 @@ Cic. On méprise — à la vertu, Ipsa virtus contemnitur. Cic. Tous — au
 dernier, Omnes ad postremum, et pl. souv. ad unum. Cic. Ce mal gagna —
 aux animaux, Hoc malum usque ad bestias pervenit. Cic. Élever — à 120
 tours, Turres admodum centum viginti excitare. Caes. Réunir — à 2000
-bœufs, Ad duo millia boum efficere. Liv.
+boeufs, Ad duo millia boum efficere. Liv.
 
 1. JUSQU'À QUAND et JUSQUES À QUAND, loc. conjonct. Jusqu'à quel moment,
 jusqu'à quelle époque : Jusqu'à quand, Jusques à quand abuseras-tu de
@@ -153306,7 +153306,7 @@ KYSTE, s. m. Sorte de tumeur. Voy. TUMEUR.
 
 1. LÀ, adv.
 1° Dans ce lieu-là, dans ce pays-là, à cet endroit-là de
-l'œuvre dont il s'agit (sans mouv. vers). (En gén.) Ibi. Cic. In eo
+l'oeuvre dont il s'agit (sans mouv. vers). (En gén.) Ibi. Cic. In eo
 loco. Cic. (Surt. avec relation à la 3e pers.) Illic. Caes. Sall. In
 illo loco. Cic. (Avec relation à la 2e pers.) Istic. Cic. In isto loco.
 Cic. : Il n'est personne qui n'aime mieux être partout ailleurs que là
@@ -153328,7 +153328,7 @@ là, Non poterat ibi esse quaestio. Quint. Là, où il n'en est pas
 besoin, ils ont de la honte, Illic, ubi nihil opus est, verentur. Ter.
 Laisser là les autres arguments (— y renoncer, les négliger), Cetera
 argumenta omittere. Cic. || 2° Dans ce lieu-là, dans ce pays-là, à
-cet endroit-là de l'œuvre dont il s'agit (avec mouv. vers). (En gén.)
+cet endroit-là de l'oeuvre dont il s'agit (avec mouv. vers). (En gén.)
 Eo. Caes. In eum locum. Cic. (Surt. avec relation à la 3e pers.) Illuc.
 Cic. Illo. Cic. In illum locum. Cic. (Avec relation à la 2e pers.)
 Istuc. Plaut. Isto. Cic. In istum locum. Cic. : Il envoya là 16000
@@ -153438,7 +153438,7 @@ primum, iterum, tertio. Varr., et mieux Terram proscindere (o, is,
 scidi, scissum). Varr. Col. iterare. Col. tertiare. Col. Il faut donner
 un second — à la houe, Locus fossione iterandus (est). Col. Recevoir un
 premier, un second, un troisième —, Proscindi, iterari, tertiari,
-pass. Col. Bœuf de —, Bos arator. Suet. Dig. aratorius. Dig.
+pass. Col. Boeuf de —, Bos arator. Suet. Dig. aratorius. Dig.
 
 LABOURABLE, adj. Propre à être labouré. Arabilis, m. f., e, n. (tr.
 rare). Plin. : Terre labourable, Arvum, i, n. Sall. Cic.
@@ -153459,9 +153459,9 @@ LABOURER, v. act. et n.
 ou la houe. (Avec la charrue) Arare, act. et n. Cic. Virg. Exarare,
 act. Col. (Avec un instrument qcq.) Subigere, o, is, egi, actum, act.
 Cato. Cic. Col. Vertere, o, is, verti, versum, act. Col. Convertere,
-act. Col. : [Ce] qu'un attelage de bœufs pourrait labourer en un jour,
+act. Col. : [Ce] qu'un attelage de boeufs pourrait labourer en un jour,
 Quod juncti boves uno die exarare possint. Varr. — un champ avec un
-bœuf, Agrum bove vertere. Prop. — avec des charrues, Aratris subigere.
+boeuf, Agrum bove vertere. Prop. — avec des charrues, Aratris subigere.
 Cic. — à la bêche, à la houe, Voy. BÊCHER, HOUER. — profondément, Pleno
 aratro sulcare (— à pleine charrue). Col. — légèrement, Tenui sulco
 arare. Plin. — à quatre pieds de profondeur, In quatuor pedes vertere.
@@ -153483,7 +153483,7 @@ LABOUREUR, s. m.
 1° Celui dont l'état est de labourer, de cultiver la
 terre. Arator, oris, m. Cic. Col. : [Ceux] qui sont laboureurs en
 Sicile, Qui arant in Sicilia. Cic. Voy. AGRICULTEUR. || 2° L'homme qui
-est occupé à tracer le sillon. Bubulcus, i, m. (— conducteur de bœufs).
+est occupé à tracer le sillon. Bubulcus, i, m. (— conducteur de boeufs).
 Varr. Col.
 
 LABYRINTHE, s. m.
@@ -158860,7 +158860,7 @@ LONDRES, capit. de l'Angleterre. Londinium, ii, n. Tac. : (Qui est) de Londres, 
 
 1. LONG, ONGUE, adj.
 1° Étendu dans le sens de la longueur, opposé à Large. Longus, a, um. Cic. Liv. In longitudinem porrectus. Liv. : Vaisseau long (= vaisseau de guerre), Longa navis. Liv.
-|| 2° Qui a une grande étendue d'une extrémité à l'autre, considérable en son genre, opposé à Court. Longus, a, um. Cic. : Long de 100, de 10, de 6, de 4 pieds, Longus centum pedes. Liv. pedibus decem. Veg. pedum sex. Col. in quatuor pedes. Col. — d'environ 3 doigts, Longus ad tres digitos. Plin. Voy. LONG (subst.). Route longue, très —, Via longa. Cic. perlonga. Cic. Faire un long trajet, Magnum spatium emetiri, dép. Liv. Chemin un peu —, Longulum iter. Cic. Route moins longue, Via brevior (de brevis = court). Nep. Se rendre dans la Gaule en prenant le chemin le plus long, et simpl. en prenant le plus —, son plus —, *Ire qua longius iter est in Galliam. D'apr. Caes. (B. G., 1, 10). Épée très longue, Praelongus gladius. Liv. Très long fouet (de la vigne), Flagellum productissimum (de productus). Col. Longue queue, Cauda prolixa. Varr. Scarabée à longues pattes, Scarabaeus longipes (gén. edis). Plin. Bœufs aux — cornes, Boves proceris cornibus. Col. Chevelure longue, plus —, Capillus promissus. Caes. prolixus. Ter. Promissa coma. Varr. ap. Non. Submissior capillus. Suet. Voy. CHEVEU 2°, CHEVELU 2°. Barbe —, Barba immissa. Sisen. ap. Non. Barbe plus —, très —, Barba major. Cic. maxima. Cic. Voy. BARBE 1°.
+|| 2° Qui a une grande étendue d'une extrémité à l'autre, considérable en son genre, opposé à Court. Longus, a, um. Cic. : Long de 100, de 10, de 6, de 4 pieds, Longus centum pedes. Liv. pedibus decem. Veg. pedum sex. Col. in quatuor pedes. Col. — d'environ 3 doigts, Longus ad tres digitos. Plin. Voy. LONG (subst.). Route longue, très —, Via longa. Cic. perlonga. Cic. Faire un long trajet, Magnum spatium emetiri, dép. Liv. Chemin un peu —, Longulum iter. Cic. Route moins longue, Via brevior (de brevis = court). Nep. Se rendre dans la Gaule en prenant le chemin le plus long, et simpl. en prenant le plus —, son plus —, *Ire qua longius iter est in Galliam. D'apr. Caes. (B. G., 1, 10). Épée très longue, Praelongus gladius. Liv. Très long fouet (de la vigne), Flagellum productissimum (de productus). Col. Longue queue, Cauda prolixa. Varr. Scarabée à longues pattes, Scarabaeus longipes (gén. edis). Plin. Boeufs aux — cornes, Boves proceris cornibus. Col. Chevelure longue, plus —, Capillus promissus. Caes. prolixus. Ter. Promissa coma. Varr. ap. Non. Submissior capillus. Suet. Voy. CHEVEU 2°, CHEVELU 2°. Barbe —, Barba immissa. Sisen. ap. Non. Barbe plus —, très —, Barba major. Cic. maxima. Cic. Voy. BARBE 1°.
 || [Artaxerxès] Longue-Main, Longimanus, i, m. Hier.
 || Fig. Action préparée de longue main, Multo ante praecogitatum facinus. Liv. Ignores-tu que les rois ont le bras long ? An nescis longas regibus esse manus ? Ov.
 || 3° Qui porte loin : Avoir la vue longue, Videre longe. Cic. Vue qui n'est pas —, Voy. COURT 4°.
@@ -159044,7 +159044,7 @@ LOUCHET, s. m. C. BÊCHE.
 LOUDUN, v. de France (Vienne). *Juliodunum et Losdunum, i, n.
 
 1. LOUER, v. act.
-1° Donner à louage. Locare, act. Cic. Elocare, act. Cic. Col. Ablocare, s. parf., act. Suet. Oblocare, s. parf. ni sup., act. Just. : Louer qq. ch. à qqn, Aliquid locare alicui. Suet. — sa maison pour le reste de l'année, Domum in reliquam partem anni ablocare. Suet. — qq. ch. trois sesterces, Locare aliquid tribus nummis (à l'abl.). Plaut. Voy. AFFERMER 1°, LOCATION 1°. — en garni, Voy. GARNI 2°. — des bœufs, Elocare boves. Col. — ses bras, son service, Voy. SE LOUER 1°.
+1° Donner à louage. Locare, act. Cic. Elocare, act. Cic. Col. Ablocare, s. parf., act. Suet. Oblocare, s. parf. ni sup., act. Just. : Louer qq. ch. à qqn, Aliquid locare alicui. Suet. — sa maison pour le reste de l'année, Domum in reliquam partem anni ablocare. Suet. — qq. ch. trois sesterces, Locare aliquid tribus nummis (à l'abl.). Plaut. Voy. AFFERMER 1°, LOCATION 1°. — en garni, Voy. GARNI 2°. — des boeufs, Elocare boves. Col. — ses bras, son service, Voy. SE LOUER 1°.
 || 2° Prendre à louage. Conducere, o, is, duxi, ductum, act. Cic. : Louer qq. ch. à qqn, Aliquid conducere ab aliquo. Cic. — une maison pour moi, Conducere aedes mihi. Plaut. Cic. — une habitation pour un an, Conducere habitationem in annum. Dig. Voy. AFFERMER 2°. — des ouvriers, Operas conducere. Col. — qqn pour un sesterce, Conducere aliquem nummo (à l'abl.). Plaut.
 
 116. SE LOUER, v.
@@ -159088,7 +159088,7 @@ LOURD, E, adj.
 1° Qui est d'un poids considérable. Gravis, m. f., e, n. Cic. Ponderosus, a, um. Varr. Plin. : Excessivement lourd, Praegravis, m. f., e, n. Plin. Pierres très lourdes, Ponderosissimi lapides. Plin. Saxa magni ponderis. Caes. Le sel devient lourd à un point presque incroyable, Sal vix credibili pondere ingravescit (de ingravescere, o, s. parf. ni sup., n.). Plin.
 || Fig. Lourde chute, Gravis casus. Hor. Ph. Liv. Faire une — chute, Graviter cadere. Ov.
 || 2° Difficile à porter, à transporter, à supporter. Gravis, m. f., e, n. Cic. : Manteau lourd, Grave amiculum. Cic. Une tour si lourde, Turris tanti oneris. Caes.
-|| 3° Fig. Rude à faire, plein de difficulté, pénible. Gravis, m. f., e, n. Cic. Operosus, a, um. Cic. Arduus. Cic. : Guerre lourde, Grave bellum. Cic. Œuvre — et pénible, Spissum opus et operosum. Cic. — entreprise, Opus arduum. Cic. Tâche —, Opus grave. Cic. Magnae molis opus. Liv. Ta renommée t'impose de lourdes obligations, Onerat te fama. Cic.
+|| 3° Fig. Rude à faire, plein de difficulté, pénible. Gravis, m. f., e, n. Cic. Operosus, a, um. Cic. Arduus. Cic. : Guerre lourde, Grave bellum. Cic. Oeuvre — et pénible, Spissum opus et operosum. Cic. — entreprise, Opus arduum. Cic. Tâche —, Opus grave. Cic. Magnae molis opus. Liv. Ta renommée t'impose de lourdes obligations, Onerat te fama. Cic.
 || 4° Trop coûteux. Gravis, m. f., e, n. Sall. Sumptuosus, a, um. Cic. : Payer des intérêts très lourds, Expendere usuras gravissimas. Dig. Contribution, Charge très lourde, Vectigal pergrande. Cic. Onus maximum. Cic. Guerre — pour les Romains, Bellum sumptuosum Romanis (au dat.). Liv. Voy. COÛTEUX 2°.
 || 5° Indigeste. Stomacho gravis (m. f., e, n.). Plin., et qqf. abs. Gravis, e. Cic. Voy. INDIGESTE 1°.
 || 6° Appesanti ; qui appesantit. Gravis, m. f., e, n. Hor. Plin. : Avoir la tête lourde, Praegravato capite esse. Col. Odeur qui, Ers qui rend la tête —, Odor aggravans caput. Plin. Ervum capiti onerosum. Plin. Chaleur —, Gravis aestus. Hor. Sommeil lourd, Gravis somnus. Ov. Voy. APPESANTIR 2°.
@@ -186228,7 +186228,7 @@ l'intelligence très ouverte, Acriter intelligens (gén. entis). Cic.
 Homme ouvert, Homo apertus. Cic. Rendre qqn confiant et — pour soi
 seul, Aliquem sibi uni incautum intectumque efficere. Tac. || 7°
 Franc, sincère. Apertus, a, um. Cic. : Caractère ouvert, Apertum
-pectus. Cic. À cœur —, Ex animo. Cic. Parler ensemble à cœur —,
+pectus. Cic. À coeur —, Ex animo. Cic. Parler ensemble à coeur —,
 Simplicissime inter se loqui. Tac. Voy. FRANC 3°. || 8° Qui exprime
 la franchise : Air, Visage ouvert, Ingenuus (i) vultus (us), m.
 Juv.
@@ -186282,7 +186282,7 @@ Première proposition relative à une affaire. Mentio, onis, f. Cic.
 facere de puella. Plaut. Voy. PROPOSITION, PROPOSER. || 7° Aveu,
 confidence. Confessio, onis, f. Cic. : Faire ouverture de qq. ch. à
 qqn, Voy. CONFIDENCE 2°. || 8° Franchise, sincérité : Ouverture de
-cœur, Apertum (i) pectus (toris), n. Cic. Voy. FRANCHISE 1°. || 9°
+coeur, Apertum (i) pectus (toris), n. Cic. Voy. FRANCHISE 1°. || 9°
 Facilité à apprendre, à saisir, à inventer. (À apprendre) Animus
 (i) ad discendum apertus (i), m. Quint. (À inventer sur-le-champ)
 Ingenium (ii) promptum (i), n. Quint. Voy. PÉNÉTRATION.
@@ -186300,7 +186300,7 @@ SE METTRE 4°. Surprendre qqn pendant qu'il est à l'—, Aliquem in
 ipso opere deprehendere. Flor. Il travaillait avec ardeur à ce qui
 était surtout son —, Quod sui maxime operis erat, impigre agebat.
 Liv. [Ce] que tu te donnes de peine pour faire ton —, Quod in opere
-faciendo operae consumis. Ter. Qui a du cœur à l'—, In operibus
+faciendo operae consumis. Ter. Qui a du coeur à l'—, In operibus
 administrandis sedulus ac fortis. Col. Homme, Bête de somme qui fait
 beaucoup d'—, Homo magni laboris ou summae industriae. Cic.
 Jumentum multi laboris. Caes. Qui s'est fatigué à faire son —,
@@ -186317,9 +186317,9 @@ Liv. || 3° Ce qui est produit par l'artisan ou l'artiste. Opus,
 eris, n. Cic. : Ouvrage d'artisan (qui travaille le fer, la pierre,
 le bois), Opus fabrile. Dig. — manuel, Opus manuum (= des mains).
 Ov. Les ouvrages publics, Publica opera. Liv. Ouvrage de ciselure,
-Opus caelatum. A.-b.-Af. Vêtement qui est l'— de [mes] sœurs,
+Opus caelatum. A.-b.-Af. Vêtement qui est l'— de [mes] soeurs,
 Vestis, sororum opus. Curt. Digue qui est un magnifique —, Moles
-exstructa opere magnifico. Cic. Voy. CHEF-D'ŒUVRE. || 4° Production
+exstructa opere magnifico. Cic. Voy. CHEF-D'OEUVRE. || 4° Production
 littéraire. Opus, eris, n. Cic. Scriptum, i, n. Cic. Liber, bri, m.
 Cic. Volumen, minis, n. Cic. : Un petit ouvrage, Opusculum, i, n.
 Cic. Ouvrages historiques, Rerum gestarum monumenta (orum), n. pl.
@@ -186328,7 +186328,7 @@ géographie, Opus geographicum. Capel. J'ai un — sur le métier,
 Opus in manibus habeo. Cic. Écrire un — en grec, Librum Graece
 conficere. Cic. Voy. LIVRE 2°. — accompli de tout point, Opus
 perfectum omnibus suis numeris et partibus. Cic. Voy.
-CHEF-D'ŒUVRE. || 5° Ce qui sert à fortifier une place. Opus, eris,
+CHEF-D'OEUVRE. || 5° Ce qui sert à fortifier une place. Opus, eris,
 n. Caes. Munitio, onis, f. Cic. Munimentum, i, n. Caes. : Faire un
 ouvrage, Opus facere. Caes. Fortifier son camp par d'importants
 ouvrages, Castra magnis operibus munire. Caes. Empêcher les soldats
@@ -186421,7 +186421,7 @@ ita claudenda est res familiaris, ut eam benignitas aperire non
 possit, nec ita reseranda, ut pateat omnibus. Cic. Ouvrir à qqn sa
 bourse, Voy. BOURSE 2°. Donner à main ouverte, Effuse donare. Cic.
 Ouvrir son avis, Aperire sententiam suam. Cic. — à qqn le fond de
-son cœur, Sensus alicui aperire. Nep. || Ouvrir l'esprit des
+son coeur, Sensus alicui aperire. Nep. || Ouvrir l'esprit des
 enfants, Puerorum ingenia acuere (o, is, ui, utum). Quint. || 2°
 Faire que ce qui fermait une ch. ne la ferme plus : Ouvrir une
 serrure, un cadenas, Seram removere (eo, es, movi, motum). Varr.
@@ -186476,7 +186476,7 @@ paume de la main droite ouverte, Expansa dextrae manus palma. Suet.
 Extensior manus. Quint. Ouvrir la bouche, Os aperire. Virg.
 adaperire. Plin. diducere (voy. 2°). Plin. Saisir en ouvrant leur
 bouche, Oris hiatu capessere. Cic. Bouche toujours ouverte, Os
-semper hians. Plin. Ouvrir un œil, les yeux, Diducere oculum. Cels.
+semper hians. Plin. Ouvrir un oeil, les yeux, Diducere oculum. Cels.
 Oculos aperire. Cic. Yeux grands ouverts, Oculi hiantes. Plin.
 || Fig. Ils n'osaient pas ouvrir la bouche contre la tyrannie du
 dictateur, Adversus dictatoriam vim non audebant hiscere (o, is, s.
@@ -186596,7 +186596,7 @@ OVIDE, poète latin. Ovidius, ii, m. Quint.
 OVINE, adj. Qui est du genre de la brebis. Ovillus, a, um. Cato.
 Plin. Ovilis, m. f., e, n. Cato. Apul.
 
-OVIPARE, adj. Qui se reproduit par des œufs : Les quadrupèdes
+OVIPARE, adj. Qui se reproduit par des oeufs : Les quadrupèdes
 ovipares, Quadrupedes, qui ova pariunt. Plin. Les animaux —, et,
 S. m. Les —, Animantes (ium) ova gignentes (ium), m. f. pl. Plin.
 
@@ -186714,7 +186714,7 @@ Couvert de —, Voy. CHAUME 1°. Grenier à —, Palearium, ii, n. Col.
 || Fig. Un feu de paille, Flamma de stipula (prov.). Ov. Mettre qqn
 sur la —, à la —, Aliquem in egestatem deducere. Sen. Être sur la
 —, à la —, In summa inopia esse. Cic. || 2° Fétu. Festuca, ae, f.
-Plin. || Fig. Voir une paille dans l'œil de qqn, Festucam in oculo
+Plin. || Fig. Voir une paille dans l'oeil de qqn, Festucam in oculo
 alicujus videre. Vulg. || 3° Balle (d'avoine). Voy. BALLE. || 4°
 Défaut dans les pierreries. Capillamentum, i, n. Plin.
 
@@ -186782,8 +186782,8 @@ PAIRE, s. f.
 même espèce et qui vont ensemble. Par, aris, abl. e, n. Cic. Il
 s'expr. souv. par l'adj. Bini, ae, a (= deux ensemble). Plaut.
 Cic. Ov. Col. : Une paire de colombes, Par columbarum. Ov. Une — de
-bœufs, Bini boves. Plaut. Boum jugum (i), n. Plin. [Ce] qu'une — de
-bœufs peut labourer, Quod juncti boves exarare possunt. Varr. Une —
+boeufs, Bini boves. Plaut. Boum jugum (i), n. Plin. [Ce] qu'une — de
+boeufs peut labourer, Quod juncti boves exarare possunt. Varr. Une —
 de coupes, Bini scyphi. Cic. Plusieurs paires de coupes, Complura
 paria scyphorum. Cic. || Fig. Trois ou quatre paires d'amis, Tria
 aut quatuor paria amicorum. Cic. || 2° Chose composée de deux
@@ -187189,12 +187189,12 @@ PALPITANT, ANTE, adj. Qui palpite. Palpitans, gén. antis. Sen. :
 Demi-mort et tout palpitant, Semianimis palpitansque. Suet.
 
 PALPITATION, s. f. Agitation convulsive de qq. partie du corps.
-Palpitatio, onis, f. Plin. : Palpitation de cœur, Cordis
+Palpitatio, onis, f. Plin. : Palpitation de coeur, Cordis
 palpitatio. Plin.
 
 PALPITER, v. n. Avoir des palpitations. Palpitare, n. Cic. Suet.
 Salire, io, is, lui et tr. rar. lii, saltum, n. Plaut. Ov. Plin. :
-Le cœur palpite, Cor palpitat. Plin.
+Le coeur palpite, Cor palpitat. Plin.
 
 PALUDÉEN, adj. C. MARÉCAGEUX.
 
@@ -187737,9 +187737,9 @@ simulata. Caes. Honnêteté de —, Probitas fucata forensi specie. Cic.
 propulsatio (onis), f. D'apr. Cic. (Sull. 1).
 
 PARADER, v. n.
-1° Manœuvrer pour la montre : Faire parader un
+1° Manoeuvrer pour la montre : Faire parader un
 cheval, Voy. CARACOLER. || Parader (en parl. d'une troupe), C.
-MANŒUVRER 1°. || 2° Qqf. Se pavaner. Voy. ce m.
+MANOEUVRER 1°. || 2° Qqf. Se pavaner. Voy. ce m.
 
 PARADIGME, s. m. T. de grammaire. Modèle (de conjugaison, etc.).
 Paradigma, atis, n. Char.
@@ -188323,8 +188323,8 @@ fém. Cic. (Du côté paternel ou maternel) Cognatus, i, masc. Cic.
 Cognata, ae, fém. Cic. (Du côté paternel seulement) Agnatus, i,
 masc. Cic. Gaj. (De la même race et portant le même nom de
 famille) Gentilis, is, masc. Cic. (Frère) Consanguineus, i, masc.
-Cic. (Sœur) Consanguinea, ae, fém. Cat. (Frère et sœur, Frères et
-sœurs) Consanguinei, orum, m. pl. Cic. : Mes parents, Tes —, Mei,
+Cic. (Soeur) Consanguinea, ae, fém. Cat. (Frère et soeur, Frères et
+soeurs) Consanguinei, orum, m. pl. Cic. : Mes parents, Tes —, Mei,
 orum, m. pl. Cic. Tui, m. pl. Cic. Il est notre parent, Noster est.
 Ter. Une vestale sa parente, Vestalis, hujus propinqua. Cic. Ils
 sont tes proches parents, Tibi genere propinqui sunt. Sall.
@@ -188345,8 +188345,8 @@ PARENTÉ, s. f.
 parenté) Propinquitas, atis, f. Cic. (En ligne paternelle ou
 maternelle) Cognatio, onis, f. Cic. (En ligne paternelle seulement)
 Agnatio, f. Cic. (En ligne collatérale avec même nom de famille)
-Gentilitas, atis, f. Cic. (Entre frères ou sœurs, entre frères et
-sœurs) Consanguinitas, f. Dig. : Liens de parenté, Propinquitatis
+Gentilitas, atis, f. Cic. (Entre frères ou soeurs, entre frères et
+soeurs) Consanguinitas, f. Dig. : Liens de parenté, Propinquitatis
 vincula (orum), n. pl. Cic. Les liens de — et les alliances,
 Cognationes et affinitates. Cic. Avoir avec qqn des liens de —,
 Contingere aliquem propinquitate. Liv. N'ayant aucun lien de —
@@ -188677,7 +188677,7 @@ Cic. : Qu'est-ce qui parle ici ? Quis hic loquitur ? Ter. Parle,
 j'écoute, Loquere, audio. Ter. —, je te prie, Eloquere, obsecro.
 Ter. Parler franchement, Vera dicere. Ter. fateri (eor, eris,
 fassus sum), dép. Cic. À — franchement, Ut verum loquar. Cic. Pour
-te — à cœur ouvert, sans détour, Ut aperte tibi fabuler. Ter.
+te — à coeur ouvert, sans détour, Ut aperte tibi fabuler. Ter.
 Parle plus clairement, s'il te plaît, Dic, oro te, clarius. Cic.
 Parler haut (fig.), Voy. HAUT (adv.) 6°, 7°, 8°. — en maître,
 Imperare, n. Hor. Voilà qui est —, Nunc dicis aliquid quod ad rem
@@ -188955,7 +188955,7 @@ ou Ex et l'abl. Cic. : Choisi parmi les patriciens, Inter patres
 lectus. Liv. Cinq pontifes pris — les premiers citoyens, Quinque e
 principum numero pontifices. Cic. Il avait pris plusieurs de ces
 [villes], et — elles Byzance, Earum complures expugnarat, in his
-Byzantium. Nep. — les œufs, les uns sont blancs, les autres...,
+Byzantium. Nep. — les oeufs, les uns sont blancs, les autres...,
 Ovorum alia sunt candida, alia… Plin. Célèbre — ces nations, Per
 illas gentes celebratus. Tac. Voy. ENTRE 5°. Placer la mort — les
 maux, Mortem in malis ponere. Cic. Ranger — les dieux, In deos
@@ -189606,7 +189606,7 @@ in plura studia distrahere (voy. 1°). Cic. — l'esprit entre des
 tâches si multiples, Animum in tam multiplex officium diducere
 (voy. 1°). Quint. — l'inquiétude du peuple entre deux guerres,
 Curas hominum in duo bella distendere (o, is, tendi, tentum et
-tensum). Liv. [Mon] cœur est partagé entre l'espérance et la
+tensum). Liv. [Mon] coeur est partagé entre l'espérance et la
 crainte, Animus in spe atque in timore attentus est. Ter. La vertu
 et le vice ne peuvent se partager une âme, In eodem pectore nullum
 est honestorum turpiumque consortium. Quint. || 5° Donner une part
@@ -190278,7 +190278,7 @@ partir de là (= en supposant cela), Quo posito. Cic. || 5° Avoir son
 commencement. Proficisci (voy. 1°), dép. Cic. Oriri, ior, eris,
 ortus sum, oriturus, dép. Caes. Incipere, io, is, cepi, ceptum, n.
 Cic. Initium capere (io, is, cepi, captum). Caes. : Les nerfs, les
-veines et les artères partent du cœur, Nervi, venae et arteriae a
+veines et les artères partent du coeur, Nervi, venae et arteriae a
 corde proficiscuntur. Cic. [Cette contrée] part du Rhône, Initium a
 flumine Rhodano capit. Caes. Le Rhin — du pays des Lépontiens,
 Rhenus oritur ex Lepontiis. Caes. La Meuse — des Vosges, Mosa ex
@@ -190292,7 +190292,7 @@ faisons partir la narration du point où cela est nécessaire, Inde
 incipimus narrare, unde necesse est. Cic. || À partir de..., Voy.
 DATER 2°. || 6° Fig. Émaner, provenir. Proficisci (voy. 1°), dép.
 Cic. Oriri (voy. 5°), dép. Cic. Emanare, n. Cic. Manare, n. Cic. :
-Partir d'un bon cœur, d'une bonne conscience, Proficisci ab
+Partir d'un bon coeur, d'une bonne conscience, Proficisci ab
 optimo animo. Balb. ap. Cic. ex bona conscientia. Quint. — d'une
 âme libre, A libera mente fluere (voy. 3°), n. Cic. C'est du
 principe que tout part, Ex principio oriuntur omnia. Cic. Ce qui —
@@ -191068,7 +191068,7 @@ tetigi, tactum). Cic. Aliena cursim dicere (o, is, dixi, dictum). Cic. Narration
 passent pas légèrement sur ces propositions, Haec proposita non praetervolant (s. parf. ni sup.). Cic. Soit dit
 en passant (= incidemment), Obiter
 dictum sit. Plin. Il juge l'orateur au
-premier coup d'œil et en —, Uno
+premier coup d'oeil et en —, Uno
 adspectu et praeteriens de oratore judicat. Cic. N'écouter une ch. qu'en
 —, Brevi auditu rem transire. Tac.
 [Choses] que j'avais effleurées en —,
@@ -191123,10 +191123,10 @@ consuetudinem venire (io, is, veni,
 ventum), n. Cic. Venire in morem.
 Liv. In mores transire (voy. 1°), n.
 Quint. Ce qui est passé dans les
-mœurs, (Ea) quae in mores recepta
+moeurs, (Ea) quae in mores recepta
 sunt (de recipi, ior, eris, pass.).
 Quint. Faire passer cela dans nos
-mœurs, Hoc in nostros mores inducere (voy. 1°). Cic. Ce chapitre a
+moeurs, Hoc in nostros mores inducere (voy. 1°). Cic. Ce chapitre a
 passé dans toutes les lois, Hoc caput
 per omnes leges ambulavit. Plin. Passer en proverbe, In proverbium venire, n. Liv. Être passé en proverbe,
 Proverbii locum obtinere (eo, es, ui,
@@ -191174,7 +191174,7 @@ Il — pour n'avoir pas appris..., Existimatur non didicisse. Cic. Il passa
 pour avoir très bien parlé, Creditus est
 optime dixisse. Quint. Pisistrate passe
 pour avoir le premier mis en ordre
-les œuvres d'Homère, Pisistratus primus Homeri libros disposuisse dicitur. Cic. Ce que nous passons pour
+les oeuvres d'Homère, Pisistratus primus Homeri libros disposuisse dicitur. Cic. Ce que nous passons pour
 avoir fait nous-mêmes, Ea quae peperisse ipsi putamur. Cic. Passer pour
 n'avoir pas été dit, Pro non dicto haberi. Liv. Ils font — Mercure pour
 l'inventeur des arts, Mercurium inventorem artium ferunt (de ferre, fero,
@@ -191397,7 +191397,7 @@ Odor foliorum in vestes transit. Plin.
 Faire passer un mot du grec en
 latin, Vocem ex Graeco in Latinum
 transferre (voy. 3°). Quint. || Faire
-passer un sentiment dans le cœur du
+passer un sentiment dans le coeur du
 juge, Motum judici adhibere (eo, es,
 ui, bitum). Cic. [Les princes vicieux]
 font — leurs vices dans l'État, Vitia
@@ -191990,7 +191990,7 @@ une passion, A libidine continere animum. Sall. In libidine se continere.
 Cic. Dompter les passions, Libidines
 frangere. Cic. Triompher de ses —,
 Animum vincere. Cic. Éteindre, Supprimer une passion, Cupiditatem restinguere. Cic. resecare. Cic. Arracher
-de son cœur ses passions, Cupiditates
+de son coeur ses passions, Cupiditates
 tollere. Cic. radicitus extrahere. Cic.
 || 5° Amour vif pour qqn. Magnus (i)
 amor (oris), et abs. Amor, oris, m.
@@ -192043,7 +192043,7 @@ PARTIALITÉ, PARTIAL. Rechercher la
 vérité sans —, Verum exquirere sine
 invidia (= sans malveillance). Cic.
 Qui est sans —, Voy. IMPARTIAL, IMPARTIALITÉ. || 10° Qqf. Colère. Ira, ae,
-f. Cic. Voy. COLÈRE. || 11° Représentation vive des passions dans un ouvrage d'esprit, dans une œuvre d'art.
+f. Cic. Voy. COLÈRE. || 11° Représentation vive des passions dans un ouvrage d'esprit, dans une oeuvre d'art.
 Affectus, us, m. Quint. || 12° T. de
 philosophie. L'impression reçue par un
 sujet. Passio, onis, f. Prisc.
@@ -192663,9 +192663,9 @@ minutos comest (de comedere = manger). Varr. ap. Non. Voy. MANGER 1°.
 Chercher, Trouver, Saisir sa —, Voy.
 NOURRITURE 5°. Prendre sa —, Pasci,
 or, eris, pastus sum, pass. Liv. || 2°
-Herbe, Paille qu'on donne aux bœufs,
+Herbe, Paille qu'on donne aux boeufs,
 etc. pour leur nourriture. Pabulum,
-i, n. Cato. Plin. : Donner de la pâture aux bœufs, Bobus pabulum dare.
+i, n. Cato. Plin. : Donner de la pâture aux boeufs, Bobus pabulum dare.
 Cato. Mettre de la — devant les
 veaux, Objicere pabulum vitulis.
 Varr. || 3° Pâturage. Pascuum, i, n.
@@ -192709,7 +192709,7 @@ balle. Voy. 1 BALLE
 1° .
 
 PAUPIÈRE, s. f.
-1° La peau mobile qui sert à couvrir le globe de l'œil.
+1° La peau mobile qui sert à couvrir le globe de l'oeil.
 (Ordin.) Palpebra, ae, f. Cels. (Rar.)
 Gena, f. Enn. : Les paupières, Palpebrae, f. pl. Plin. Col. Fermer,
 Clore la paupière, Voy. FERMER 3°. ||
@@ -192878,7 +192878,7 @@ inepta (ae), f. V.-Max. : Des pauvretés, Ineptiae, arum, f. pl. Cic. Quint.
 Il y a bien des —, Multa insulsa sunt.
 Cic. Dire bien des —, Multa stulte
 ou insulse dicere. Cic. || 5° Ce qui est
-plat, mauvais dans une œuvre d'art :
+plat, mauvais dans une oeuvre d'art :
 Cela est une pauvreté, Illud frigidum
 est. Quint. Annales pleines de pauvretés, Annales pleni inficetiarum. Cat.
 
@@ -193675,7 +193675,7 @@ Ejus filia pinxit. Plin. || Qui est fait
 (Alicui rei) colorem inducere (o, is,
 duxi, ductum). Plin. (Rem) pingere
 (voy. 1°). Plin. expingere. Plin. :
-Peindre un œuf avec du vermillon,
+Peindre un oeuf avec du vermillon,
 Ovo purpurissum inducere. Plin. —
 les bûchers (sur lesquels on brûle
 les morts), Rogos pingere. Plin. —
@@ -194627,7 +194627,7 @@ Plaut. Qui s'est pendu, C. PENDU 2°.
 1° Être suspendu. Pendere, eo, es, pependi, s.
 sup., n. Cic. Dependere, s. parf. ni
 sup., n. Liv. Suet. : [Il rêva] qu'un
-œuf pendait à la sangle de son lit,
+oeuf pendait à la sangle de son lit,
 Ovum pendere ex fascia lecti sui. Cic.
 Des lampes pendent des lambris du
 plafond, Dependent lychni laquearibus. Virg. Vigne à laquelle — des
@@ -194855,7 +194855,7 @@ Sensim pernicies illapsa civium in
 animos. Cic. Le soupçon avait —
 dans les esprits, Insinuaverat suspicio animis (au dat.). Liv. Cette
 parole pénétra profondément dans
-le cœur de Jugurtha, Id verbum in
+le coeur de Jugurtha, Id verbum in
 pectus Jugurthae alte descendit. Sall.
 Petits arguments qui ne pénètrent
 pas jusqu'à l'entendement, Conclusiunculae ad sensus non permanantes.
@@ -194873,10 +194873,10 @@ Cic. L'odeur des feuilles — les étoffes, Odor foliorum transit in vestes.
 Plin. Le froid — le bronze, nos os,
 Frigus transit per aes. Lucr. permanat
 ad ossa. Lucr. Voy. PÉNÉTRER (neut.)
-3°. || Fig. : Une âme intelligente pénètre tous ces êtres, Quaedam animalis intelligentia per omnia ea permanat et transit. Cic. Rien ne — davantage, si facilement les cœurs, Nulla
+3°. || Fig. : Une âme intelligente pénètre tous ces êtres, Quaedam animalis intelligentia per omnia ea permanat et transit. Cic. Rien ne — davantage, si facilement les coeurs, Nulla
 res in animos magis penetrat. Cic. tam
 facile influit (de influere, o, fluxi,
-fluxum, n.). Cic. La compassion pénétra mon cœur, Miseratio me subiit
+fluxum, n.). Cic. La compassion pénétra mon coeur, Miseratio me subiit
 (de subire, eo, is, itum). Pl.-j. Le
 plaisir pénètre les sens, Voluptas ad
 sensus affluit ou illabitur (de illabi,
@@ -194899,7 +194899,7 @@ Chercher à — qqn, les dispositions
 de qqn, Tentare aliquem. Cic. sententiam alicujus. Ter. Chercher à —
 les desseins de qqn, Consilia alicujus speculari, dép. Sall. animo circumspicere. Caes. Chose qu'on a pénétrée, qu'on a — à fond, Res perspecta atque cognita. Cic. Res penitus
 perspecta planeque cognita. Cic. ||
-3° Fig. Remplir de qq. ch. le cœur ou
+3° Fig. Remplir de qq. ch. le coeur ou
 l'esprit. Imbuere, o, is, ui, utum, act.
 Cic. Liv. Perfundere, o, is, fudi, fusum, act. Cic. Liv. Inficere, io, is,
 feci, fectum, act. Cic. Afficere, act.
@@ -194923,7 +194923,7 @@ vestris tenetote (et la prop. infin.). Cic.
 || 4° Fig. Toucher profondément l'âme.
 Permovere, eo, es, movi, motum, act.
 Cic. Commovere, act. Cic. : Pénétrer
-le cœur des juges, Animos judicum
+le coeur des juges, Animos judicum
 movere. Quint. Voy. ÉMOUVOIR 3°.
 
 139. SE PÉNÉTRER, v. Pron.
@@ -194935,7 +194935,7 @@ Hor. Saporem recipere. Col. Voy.
 S'IMPRÉGNER 1°. Se — d'une teinture, Colorem bibere (o, is, bibi, s.
 sup.). Plin. perbibere. Sen. Se — des
 rayons du soleil, Solem combibere.
-Plin. || 2° Réfl. Fig. Remplir son cœur
+Plin. || 2° Réfl. Fig. Remplir son coeur
 ou son esprit de qq. pensée, de qq. sentiment. Se imbuere (o, is, ui, utum,
 abl.). Cic. Imbui (voy. 1°), pass.
 (abl.). Cic. Tac. Se inficere (io, is,
@@ -195649,7 +195649,7 @@ cui, citum). Cic.
 PERCEPTIBLE, adj. Qui peut être
 perçu par les sens. Qui (quae, quod)
 percipi potest. Cic. : Être perceptible
-à l'œil, Sub oculos ou In conspectum
+à l'oeil, Sub oculos ou In conspectum
 cadere (o, is, cecidi, casum), n. Cic.
 N'être — à aucun sens, Nullo sensu
 percipi posse. Cic.
@@ -195679,7 +195679,7 @@ Cic. Vitr. : Percer un navire (pour le
 couler), Perforare navem. Cic. — un
 arbre, un tronc d'arbre, Forare arborem. Col. Efforare truncum. Col. —
 la vigne avec une tarière, Terebra vitem pertundere. Cato. Pierre percée,
-Lapis perterebratus. Vitr. Œuf percé
+Lapis perterebratus. Vitr. Oeuf percé
 aux deux bouts, Ovum ex utroque suo
 vertice perforatum. C.-Aur. Oreilles
 qui ont été percées (pour recevoir
@@ -195714,7 +195714,7 @@ Cic. — les oreilles, Aures offendere
 (o, is, di, fensum). Quint. Crier à —
 les oreilles, Ingenti clamore obstrepere
 (o, is, pui, pitum), n. Quint. — le
-cœur, l'âme de qqn, Voy. DÉCHIRER
+coeur, l'âme de qqn, Voy. DÉCHIRER
 3°. || 4° Pratiquer en trouant. Forare,
 act. Col. Pertundere (voy. 1°), act.
 Vitr. : Percer beaucoup de trous,
@@ -195797,7 +195797,7 @@ eminet. Cic. Le désespoir — sur
 tous les visages, Eminet in omnium
 vultu desperatio. Liv. La tendresse
 paternelle — au milieu de l'accomplissement de la vengeance publique, Eminet patrius amor inter publicae poenae ministerium. Liv. Les
-mœurs de l'orateur percent à travers
+moeurs de l'orateur percent à travers
 son langage, Mores dicentis ex oratione perlucent (voy. 1°). Quint. Tu
 laisses percer ta cupidité, Avaritiam
 praefers (de praeferre, fero, tuli, latum).
@@ -195941,11 +195941,11 @@ is, trivi, tritum). Sall. || Perdre qqn
 d'honneur, de réputation, C. DÉSHONORER 1°, DIFFAMER. || Ils s'efforçaient de te perdre auprès de moi,
 dans mon esprit, Conabantur alienare
 a te voluntatem meam. Cic. || 2° Gâter
-l'esprit, corrompre les mœurs de. Perdere (voy. 1°), act. Ter. Cic. Pl.-j.
+l'esprit, corrompre les moeurs de. Perdere (voy. 1°), act. Ter. Cic. Pl.-j.
 Corrumpere, o, is, rupi, ruptum, act.
 Cic. Depravare, act. Cic. : Perdre qqn,
-Aliquem perdere. Ter. — les mœurs,
-Mores corrumpere. Cic. — les mœurs
+Aliquem perdere. Ter. — les moeurs,
+Mores corrumpere. Cic. — les moeurs
 de l'empire, Imperii mores perdere.
 Pl.-j. Voy. CORROMPRE 2°. || 3° Endommager fortement. Perdere (voy.
 1°), act. Cic. Corrumpere (voy. 2°),
@@ -196083,7 +196083,7 @@ is, dempsi, demptum). Cato. Ce nom
 [d'hostis] a perdu le sens d'étranger,
 Id nomen a peregrino recessit (de recedere, o, is, cessum, n.). Cic. La préposition in fait perdre au mot la signification qu'il a, Praepositio in privat
 verbum ea vi quam habet. Cic. —
-tout caractère humain, Omnem humanitatem exuere. Cic. — toute pudeur, Voy. PUDEUR. Dès que le cœur
+tout caractère humain, Omnem humanitatem exuere. Cic. — toute pudeur, Voy. PUDEUR. Dès que le coeur
 a perdu le respect, Ubi reverentia
 animo excessit. Curt. Perdre le sentiment de sa dignité, Dignitatis
 oblivisci (or, eris, litus sum), dép.
@@ -196148,10 +196148,10 @@ ou moral qu'on avait. Perdere (voy.
 Cic. : Perdre la main droite, Perdere
 dexteram manum. Plin. Il perd ses
 dents, Cadunt ei dentes. Sen. Voy.
-DENT 1°. Perdre un œil, Oculum
-amittere. Cic. Il perd un œil, Altero
+DENT 1°. Perdre un oeil, Oculum
+amittere. Cic. Il perd un oeil, Altero
 oculo capitur (de capi, ior, eris, captus sum, pass. = il est pris d'un
-œil). Liv. Perdre la vue, Amittere
+oeil). Liv. Perdre la vue, Amittere
 lumina oculorum, et simpl. Amittere
 lumina. Cic. Oculos perdere. Suet. Elle
 a perdu subitement la vue, Videre
@@ -196221,7 +196221,7 @@ personne de Valérius Flaccus, Multum in Valerio Flacco amisimus. Quint.
 Tu ne perds rien à ne plus entendre
 notre verbiage, Quod declamationibus
 nostris cares, damni nihil facis. Cic.
-Dans l'or on ne perd que la maind'œuvre, In auro, praeter manus pretium, nihil intertrimenti fit. Liv. Faire
+Dans l'or on ne perd que la maind'oeuvre, In auro, praeter manus pretium, nihil intertrimenti fit. Liv. Faire
 perdre aux courtiers le prix des
 choses qu'ils ont achetées (= ne
 pas le leur rembourser), Argentarios pretiis rerum coemptarum fraudare. Suet. Il avait perdu ce sacerdoce, Id sacerdotium amiserat. Vell.
@@ -196294,7 +196294,7 @@ perdre par ses propres aveux, Sua
 confessione indui (or, eris, dutus sum),
 pass. Cic. Laisser l'accusé se —,
 Pati reum ruere (o, is, ui, utum, uiturus), n. Liv. || 3° Faire naufrage. Voy.
-NAUFRAGE. || 4° Se ruiner. Rem disperdere (voy. 1°). Plaut. Voy. SE RUINER. || 5° Prendre des mœurs corrompues. Corrumpi, or, eris, ruptus sum,
+NAUFRAGE. || 4° Se ruiner. Rem disperdere (voy. 1°). Plaut. Voy. SE RUINER. || 5° Prendre des moeurs corrompues. Corrumpi, or, eris, ruptus sum,
 pass. Cic. Voy. SE CORROMPRE. || 6°
 Se déshonorer. Se dedecorare. Plaut.
 Ter. : Se perdre d'honneur, de réputation, Même traduct. De manière à ne
@@ -196499,7 +196499,7 @@ Quint. Honorer qqn comme un —,
 Aliquem patris loco colere. Cic. sicut
 alterum parentem observare. Cic. Tenir lieu de —, Parentis numero esse.
 Cic. Qui a un — connu, Patre certo
-natus, dép. Cic. — par le cœur et par
+natus, dép. Cic. — par le coeur et par
 la nature, Et animo et natura pater.
 Cic. — propre (par opp. à Père adoptif), Naturalis pater. Cic. Quint. Qui
 a encore son —, Patrimus, a, um.
@@ -197831,7 +197831,7 @@ audiunt, permovet. Cic. Je pouvais
 tirer meilleur parti de mon loisir que
 —, Mihi licebat majores ex otio fructus capere quam ceteris. Cic. [Cela]
 t'intéresse moins que —, Ad te minime omnium pertinet. Cic. || Cette
-parole pénétra dans le cœur de Jugurtha plus profondément que personne
+parole pénétra dans le coeur de Jugurtha plus profondément que personne
 ne se l'était imaginé, Hoc verbum in
 pectus Jugurthae altius, quam quisquam ratus erat, descendit. Sall. ||
 2° AVEC NÉGATION : Pas quelqu'un,
@@ -198123,7 +198123,7 @@ sauvé les autres pour notre propre
 —, Ceteros servavi, ut nos periremus
 (de perire, eo, is, ii et rar. ivi,
 itum, n.). Cic. || 2° Fig. Corruption de
-l'âme, des mœurs. Voy. CORRUPTION 3°.
+l'âme, des moeurs. Voy. CORRUPTION 3°.
 : Causer la perte de, C. CORROMPRE 2°,
 PERDRE 2°. || 3° Le mauvais emploi ou
 L'usage inutile qu'on fait d'une ch. :
@@ -198156,7 +198156,7 @@ Caes. Celui qui craint la — de qqn
 de ces objets, Is qui timet ne quid
 ex his deperdat (voy. 14° — perdre).
 Cic. Dans l'or, il n'y a d'autre — que
-celle de la main-d'œuvre, In auro
+celle de la main-d'oeuvre, In auro
 praeter manus pretium, nihil intertrimenti fit. Liv. Soit la — ou le gain,
 Seu jactura seu lucrum. Suet. Fol
 acharnement au gain ou à la —, Magna
@@ -198177,10 +198177,10 @@ Damna aleatoria. Cic. || 6° Privation
 de qq. partie de soi, de qq. faculté, de
 qq. avantage physique ou moral qu'on
 avait. Jactura, ae, f. V.-Max. : La
-perte de la main droite, d'un œil,
+perte de la main droite, d'un oeil,
 Jactura dextrae, oculi. V.-Max. La —
 de la main droite (de Mucius Scévola), Dextrae manus clades (is), f.
-Liv. Après la — de la vue, d'un œil,
+Liv. Après la — de la vue, d'un oeil,
 de la main droite, Amissis luminibus.
 Cic. Amisso oculo. V.-Max. Amissa
 dextra. V.-Max. Après la — de la
@@ -198354,7 +198354,7 @@ PERVERS, ERSE, adj. Méchant,
 dépravé. Improbus, a, um. Cic. Malus.
 Cic. Perversus. Sen. Pravus. Cic. :
 Naturellement pervers, Ad flagitia
-praeceps (gén. cipitis). Tac. Mœurs
+praeceps (gén. cipitis). Tac. Moeurs
 perverses, Mores mali. Sall. nocentissimi. Quint. Conseils pervers, Consilia perdita. Cic. || S. m. Un pervers, Improbus (i) homo (minis), m.
 Cic. Les —, Improbi, orum, m. pl.
 Cic. Mali, m. pl. Cic.
@@ -198377,7 +198377,7 @@ Cic. : Pervertir l'ordre, Ordinem pervertere. Cic. || 2° Dénaturer, altérer
 tortum, act. Quint. Depravare, act.
 Quint. || 3° Faire changer de bien en
 mal dans les ch. de la religion et de la
-morale : Pervertir les mœurs, Mores
+morale : Pervertir les moeurs, Mores
 pervertere. Nep. depravare. Cic. corrumpere (o, is, rupi, ruptum). Cic. —
 la plèbe, Plebem depravare. Liv.
 
@@ -198522,7 +198522,7 @@ caput. Ov. || 3° Causer un malaise
 sur l'estomac, et abs. qui —, Cibus
 qui onerat. Plin. || Fig. [Un ami à qui
 je puisse dire] tout ce qui me pèse,
-me — sur le cœur, Omnia quae me
+me — sur le coeur, Omnia quae me
 cura aliqua afficiunt (de afficere, io,
 feci, fectum). Cic. Les méchants ont
 toujours quelque souci qui leur —
@@ -198740,7 +198740,7 @@ Angustus, a, um. Cic. : Petite fenêtre,
 Angusta fenestra. Col. Petit sentier,
 Angusta semita. Liv. Voy. ÉTROIT 1°.
 || 7° Qui a peu de volume. Parvus, a,
-um. Cic. Exiguus. Cic. : Petite chèvre, Parva capra. Varr. Petit cœur,
+um. Cic. Exiguus. Cic. : Petite chèvre, Parva capra. Varr. Petit coeur,
 Exiguum cor. Cic. || 8° Qui est d'une
 contenance au-dessous de l'ordinaire.
 Parvus, a, um. Cic. Angustus. Cic. :
@@ -198835,7 +198835,7 @@ ci-dess. Les — (en gén.), Partus, us,
 m. sing. Cic. Partus, uum, m. pl. Cic.
 Suboles, is, f. sing. Col. Fetus, uum,
 m. pl. Cic. Progenies, ei, f. sing. Col.
-Les — des animaux, Nati ex bestiis. Cic. Les — sortis des œufs, Pulli
+Les — des animaux, Nati ex bestiis. Cic. Les — sortis des oeufs, Pulli
 ex ovis orti. Cic. Avoir des —, Subolem facere. Col. Le lion aura des —,
 Leo pariet (de parere, io, is, peperi,
 partum, pariturus). Quint. Avoir
@@ -198911,14 +198911,14 @@ pl. Cic. || 7° Conduite qui dénote la bassesse d'esprit : Regarder cette super
 Eam superstitionem animi imbecilli
 putare. Cic. C'est de la — à Démosthène d'avoir dit..., Leviculus sane
 Demosthenes, qui dicebat. Cic. || 8°
-Bassesse de cœur, d'âme. Humilitas,
+Bassesse de coeur, d'âme. Humilitas,
 atis, f. Cic. : [Il faut prendre soin
 de sa fortune] mais de manière à
 écarter tout soupçon de petitesse ou
 d'avarice, Sed ita ut illiberalitatis
 avaritiaeque absit suspicio. Cic. Avoir
 de la —, Humiliter ou Demisse sentire, n. Cic. || 9° Conduite qui dénote
-la bassesse de cœur, d'âme : Ne méditer aucune petitesse, Nihil humile
+la bassesse de coeur, d'âme : Ne méditer aucune petitesse, Nihil humile
 cogitare. Cic. Fais la dépense du tombeau sans —, Exstrue sepulcrum sine
 sordibus (de sordes, ium, f. pl. = lésine). Hor.
 
@@ -199099,7 +199099,7 @@ positif. (Dans une petite mesure)
 Paulum. Sall. (Dans une certaine mesure) Aliquantum. Plaut. : Une yeuse
 un peu penchée, Ilex paulum prona.
 Sall. Un — triste, Aliquantulum subtristis. Ter. « Tu es timide, je crois. »
-— « Un —, ma sœur ». « Credo,
+— « Un —, ma soeur ». « Credo,
 timida es. » — « Aliquantum, soror. »
 Plaut. || Qqf. on expr. Un peu par un
 diminutif : Un peu grand, Grandiusculus, a, um. Ter. Un — doux au goût,
@@ -199511,7 +199511,7 @@ Cic. Voy. CRAINTE
 1° .
 
 PEUREUX, EUSE, adj. Sujet à la
-peur. Timidus, a, um. Cic. : Bœuf,
+peur. Timidus, a, um. Cic. : Boeuf,
 Cheval peureux, Formidolosus bos.
 Col. equus. Sen.
 
@@ -199749,7 +199749,7 @@ PHILOLOGUE, s. m. Celui qui cultive la philologie. Grammaticus, i, m.
 PHILOMÈLE, fille de Pandion, qui fut
 changée en rossignol. Philomela, ae, f. Ov.
 
-PHILOPŒMEN, chef de la ligue
+PHILOPOEMEN, chef de la ligue
 achéenne. Philopoemen, enis, m. Liv.
 
 1. PHILOSOPHE, s. m.
@@ -200173,7 +200173,7 @@ Les pièces d'un procès, Litis instrumentum (i), n. sing. Quint. Des —
 justificatives, Probationes, um, f.
 pl. Tac. || 17° Opuscule. Opusculum,
 i, n. Cic. : Pièce de vers, Carmen,
-minis, n. Cic. || 18° Œuvre dramatique,
+minis, n. Cic. || 18° Oeuvre dramatique,
 tragédie, comédie. (En gén.) Fabula,
 ae, f. Ter. Cic. (Tragédie) Tragoedia, ae,
 f. Cic. (Comédie) Comoedia, ae, f. Ter.
@@ -200189,7 +200189,7 @@ Jouer une — à qqn, Voy. JOUER, act.
 une chose particulière désignée par le
 contexte : Aiguière qui est une belle
 pièce, Hydria praeclaro opere. Cic.
-Voy. CHEF-D'ŒUVRE 1°. Abattre sept
+Voy. CHEF-D'OEUVRE 1°. Abattre sept
 pièces (en parl. d'un chasseur), Fundere humi septem corpora (de corpus,
 n. = corps). Virg. Découper les —
 (dans un repas), Lacerare obsonium
@@ -200350,7 +200350,7 @@ Homines bestiarum more quadrupedes
 Valet de —, Pedisequus, i, m. Plaut.
 Cic. Gens de —, Voy. FANTASSIN. || Fig.
 [Aller dans une affaire] de bon pied,
-Voy. DE BON CŒUR, DE TOUT CŒUR 6°.
+Voy. DE BON COEUR, DE TOUT COEUR 6°.
 Aller du même — (= d'une marche
 égale et semblable), Ire pariter.
 Quint. Ne savoir sur quel — danser
@@ -200713,8 +200713,8 @@ Lapidaria navis. Petr. Mortier en
 pierre, Mortarium lapideum. Plin.
 Pain dur comme la —, Panis lapidosus. Hor. Changer en —, Devenir —,
 C. PÉTRIFIER, SE PÉTRIFIER. || Fig.
-Tu as un cœur de pierre, Saxeus es.
-Pl.-j. Il a un cœur de —, Animo duro
+Tu as un coeur de pierre, Saxeus es.
+Pl.-j. Il a un coeur de —, Animo duro
 est. Cic. Lapis est. Tib. || 2° Caillou,
 morceau de pierre. (En gén.) Lapis,
 idis, m. Cic. (Grosse pierre) Saxum,
@@ -201655,7 +201655,7 @@ fait —, Illius me miseret (= j'ai pitié
 de lui : voy. plus loin). Inspirer une
 grande —, Magnam misericordiam
 habere. Cic. La — entra dans mon
-cœur, Me subiit miseratio. Pl.-j. Se
+coeur, Me subiit miseratio. Pl.-j. Se
 laisser aller à la —, In misericordiam
 prolabi, dép. Liv. Éprouver de la —,
 Misericordiam capere. Cic. Être touché, saisi de —, Misericordia commoveri. Cic. Je le prends en —, Je
@@ -201676,7 +201676,7 @@ avoir — ni de toi ni des tiens, Neque
 me tui, neque tuorum misereri potest.
 Cic. Tu n'as pas — de mes épaules,
 Non te mei tergi miseret. Plaut. Montrer, Témoigner de la —, Misericordiam adhibere. Cic. Regarder qqn ou
-qq. ch. en —, d'un œil de —, C.
+qq. ch. en —, d'un oeil de —, C.
 AVOIR — DE (voy. ci-dessus ; voy.
 aussi 2°). Enclin à la —, C. PITOYABLE
 1°. Digne de —, C. PITOYABLE 2°.
@@ -201828,7 +201828,7 @@ ii, n. Cic. : Tenir toute la place, Locum explere (= remplir). Caes. Maison
 où il y a beaucoup de —, Domus (us)
 spatiosa (ae) et capax (acis). Pl.-j.
 Île où il n'y a pas de — pour un
-grand établissement, Magnae sedis insula haud capax. Curt. La — manquait pour faire manœuvrer la cavalerie, Spatium non erat agitandi
+grand établissement, Magnae sedis insula haud capax. Curt. La — manquait pour faire manoeuvrer la cavalerie, Spatium non erat agitandi
 (equos). Nep. Tout le monde leur fait
 — (= se retire devant eux), Eis
 omnes decedunt (de decedere, o, is,
@@ -201888,17 +201888,17 @@ Céder, Quitter la —, Locum cedere. Cic.
 Céder la —, Quitter la —, Faire —
 à des gens qui valent mieux, Locum
 melioribus dare. Ter. || Fig. Donner à
-qqn une place dans son cœur, dans son
+qqn une place dans son coeur, dans son
 amitié, Aliquem in amicitiam suam
 recipere. Cic. Occuper, Avoir une —
-dans le cœur, dans l'amitié de qqn,
+dans le coeur, dans l'amitié de qqn,
 Locum amicitiae apud aliquem tenere.
 Caes. Quelle — as-tu occupée dans
 l'amitié de César ? Quem locum apud
 Caesarem obtinuisti ? Cic. Tu as une
 — plus grande dans mon amitié, Propiore gradu amicitiae me contingis.
-Curt. Il a dans mon cœur une —
-égale à celle qu'il a dans le cœur de
+Curt. Il a dans mon coeur une —
+égale à celle qu'il a dans le coeur de
 son patron, Eodem apud me loco est,
 quo est apud suum patronum. Cic. Vois
 quelle —, quelle grande — tu as
@@ -201932,7 +201932,7 @@ quaeso, qui ego sum, esse te. Cic. Si tu
 à ta place, je donnerais..., Si ego in
 isto (= tuo) sim loco, dem. Plaut. Je
 ne voudrais pas être à la — de Florus, Ego nolo Florus esse. Hadr. ap.
-Spart. || La place de l'œil, du ventre,
+Spart. || La place de l'oeil, du ventre,
 Locus oculi. Plaut. ventris. Ov. La —
 des astres (= leur position), Siderum
 collocatio (onis), f. Cic. Arracher de
@@ -202068,7 +202068,7 @@ signa superstant (s. parf. ni sup., n.).
 Liv. Il était placé à table au-dessus
 du roi, Super regem cubabat (de cubare, o, as, bui, bitum, n.). Curt.
 Voy. METTRE
-1° . || Fig. Qui a le cœur
+1° . || Fig. Qui a le coeur
 bien placé (= qui a des sentiments
 honnêtes), Voy. HONNÊTE 2°.
 
@@ -202897,7 +202897,7 @@ moins grand représenté dans un tableau
 (ae), f. Être sur le même —, In aequo
 exstare. Plin. || Fig. Être au premier
 plan, au second —, etc., Voy. LIGNE 5°.
-|| 4° Disposition générale d'une œuvre
+|| 4° Disposition générale d'une oeuvre
 de littérature. Forma, ae, f. Liv. Vell.
 Ratio, onis, f. Cic. Institutum, i, n.
 Cic. Propositum, n. Cic. : Faire le plan
@@ -203477,7 +203477,7 @@ Abundans, gén. antis (re). Cic. Creber, bra, brum (re). Quint. : Vie
 pleine de plaisirs, d'avantages, Vita
 voluptatibus plena ou conferta ou affluens. Cic. bonis abundans. Cic. [Style]
 plein de métaphores, Translationibus
-creber. Quint. Mon cœur est — de
+creber. Quint. Mon coeur est — de
 joie, Mihi abundat pectus laetitia.
 Plaut. — de jours, Plenus annis.
 Pl.-j. — de colère, Irae plenus. Liv.
@@ -203761,7 +203761,7 @@ Palliolum rugat, n. Plaut. || 6° Lettre
 pliée, enveloppe d'une lettre : Sous un
 pli (= dans une lettre), Voy. LETTRE
 1°. || 7° Ride. Ruga, ae, f. Cic. Voy.
-RIDE. || 8° Enfoncement : Pli de terrain, Depressus (i) locus (i), m. Frontin. || Fig. Les plis du cœur, Voy.
+RIDE. || 8° Enfoncement : Pli de terrain, Depressus (i) locus (i), m. Frontin. || Fig. Les plis du coeur, Voy.
 REPLI. || 9° L'endroit où un membre se
 plie. Flexus, us, m. Plin.
 
@@ -204279,7 +204279,7 @@ pecuniae. Cic. ingenii. Cic. — d'embarras, Amplius (n.) negotii. Cic. —
 de force, Plus virium. Cic. — de joie,
 d'éloquence, Major laetitia. Cic. eloquentia. Cic. Beaucoup — d'ardeur,
 Multo major alacritas. Caes. Il n'avait
-pas — de cœur que de bonne foi, Ei
+pas — de coeur que de bonne foi, Ei
 non plus animi erat quam fidei. Liv.
 Un peu — de miel, Plusculum mellis.
 Col. Supporter l'adversité avec — de
@@ -204417,7 +204417,7 @@ vrai non —, Id falsum etiam est. Cic.
 
 8. NON PLUS QUE, loc. comparative.
 Pas plus que : N'être pas abattu par
-les peines du cœur non plus que par
+les peines du coeur non plus que par
 les fatigues du corps, Neque animi neque corporis laboribus defatigari. Cic.
 
 4. SANS PLUS, loc. adv. Sans rien ajouter : Il demande cela sans plus,
@@ -204521,7 +204521,7 @@ drachma. Plin. Dix soldats au —,
 Decem, haud plus militum. Liv. Ils
 avaient été réduits à cinq cents tout
 au —, Vix ad quingentos redacti
-erant. Caes. Quinze œufs tout au —,
+erant. Caes. Quinze oeufs tout au —,
 Ova plurima quindecim. Col.
 
 2. PLUS, adv. ne marquant pas
@@ -204842,7 +204842,7 @@ Voy. ce v. || POIGNANT, ANTE, adj.
 Piquant (au fig.). Acer, cris, cre. Cic.
 Virg. Tac. : Être poignant, (Aliquem)
 pungere, o, is, pupugi, punctum. Cic.
-J'ai au cœur un souci —, Aculeus
+J'ai au coeur un souci —, Aculeus
 pungit meum pectus. Plaut. Les atteintes poignantes de la douleur, Doloris stimuli (orum), m. pl. Cic. Voy.
 CUISANT 2°.
 
@@ -204854,8 +204854,8 @@ pugione percuti, pass. Sulp. ap. Cic.
 || Fig. Se voyant le poignard sur la
 gorge, Cum faucibus premeretur. Cic.
 Voy. COUTEAU 2°. Enfoncer à qqn le
-— dans le cœur, C. Causer un profond CHAGRIN. Tourner à qqn le — dans
-le cœur, dans la plaie, Dolorem alicujus
+— dans le coeur, C. Causer un profond CHAGRIN. Tourner à qqn le — dans
+le coeur, dans la plaie, Dolorem alicujus
 scindere (o, is, scidi, scissum). Cic.
 
 POIGNARDER, v. act. Frapper avec
@@ -204982,7 +204982,7 @@ un point, des points à qq. ch., C.
 COUDRE ou RECOUDRE. || 3° Ouvrage de
 broderie, de tapisserie. Voy. BRODERIE,
 TAPISSERIE. || 4° Petite tache (semblable à une piqûre). Punctum, i, n. Plin.
-Pl.-j. : Œufs marqués de points, Ova
+Pl.-j. : Oeufs marqués de points, Ova
 punctis distincta. Plin. || 5° Petite
 marque ronde usitée dans l'écriture.
 Punctum, i, n. Aus. Diom. || 6° Nombre marqué sur les dés, etc. Punctum,
@@ -205294,7 +205294,7 @@ Discordia est venenum urbis hujus.
 Liv. Qui est un — pour qqn, Alicui
 pestifer (era, erum). Cic. Voy. FLÉAU
 3°, EMPOISONNER 4°. || 3° Fig. Ce qui
-corrompt (le cœur). Corruptela, ae, f.
+corrompt (le coeur). Corruptela, ae, f.
 Cic. : Le poison de la musique, Cantus corruptela. Cic. L'amour, — des
 hommes, Amor hominum corruptor
 (oris), m. Plaut.
@@ -205513,7 +205513,7 @@ is, ivi, itum, act. Plin. Quint. Expolire, act. Cato. Quint. Depolire, act.
 Plin. : Polir à la pierre ponce, Pumice expolire. Cat. polire. Ov. Faire
 passer sur un objet la pierre à —,
 Aliquid cote depolire. Plin. || 2° Fig.
-Orner l'esprit, adoucir les mœurs :
+Orner l'esprit, adoucir les moeurs :
 Polir qqn, Aliquem expolire (voy. 1°).
 Cic. excolere (o, is, colui, cultum).
 Cic. — les esprits par l'instruction,
@@ -205530,7 +205530,7 @@ n. Cic. Voy. PERFECTIONNER.
 1° Devenir uni et
 luisant. Poliri, ior, iris, itus sum, pass.
 Plin. || 2° S'orner (en parl. de l'esprit),
-s'adoucir (en parl. des mœurs). Excoli,
+s'adoucir (en parl. des moeurs). Excoli,
 or, eris, cultus sum, pass. Cic. Expoliri (voy. 1°), pass. Cic. || 3° Perdre
 sa rudesse, se perfectionner. Perpoliri
 (voy. 1°), pass. Cic. Nitescere, o, is,
@@ -205702,7 +205702,7 @@ Polygonum, i, n. Censor.
 
 POLYMNIE, une des muses. Polyhymnia, ae, f. Hor. Ov.
 
-POLYNICE, fils d'Œdipe. Polynices,
+POLYNICE, fils d'Oedipe. Polynices,
 is, m. Plin.
 
 POLYPE, s. m.
@@ -205902,12 +205902,12 @@ PONDÉRATION, s. f. C. ÉQUILIBRE.
 
 PONDEUSE, adj. f. Qui pond. Parturiens, gén. entis. Col. || Subst. Surveiller les pondeuses, Speculari parturientes. Col.
 
-PONDRE, v. act. Faire des œufs :
-Pondre des œufs, Ova (et qqf. Ovum)
+PONDRE, v. act. Faire des oeufs :
+Pondre des oeufs, Ova (et qqf. Ovum)
 parere (io, is, peperi, partum, pariturus). Cic. gignere (o, is, genui, genitum). Cic. facere (io, is, feci, factum). Varr. edere (o, is, didi, ditum).
 Plin. ponere (o, is, posui, positum).
 Col. : Les poules, quand elles ont
-pondu leur œuf, Gallinae, edito ovo.
+pondu leur oeuf, Gallinae, edito ovo.
 Plin. || Abs. Pondre, Parere, n. Col.
 Parturire, io, is, ivi, s. sup., n. Col.
 Et mêmes traduct. que pl. haut.
@@ -205968,7 +205968,7 @@ PONT-DE-VEYLE, v. de France
 (Ain). *Pons (ontis, m.) ad Velam.
 
 PONTE, s. f. Action de pondre. Partio, onis, f. Varr. : Faire ses pontes,
-C. PONDRE. Elles donnent cinq œufs
+C. PONDRE. Elles donnent cinq oeufs
 à la première ponte, Pariunt fetu primo
 ova quina. Col. Elles ont achevé leur
 première —, Consummaverunt primum
@@ -206695,7 +206695,7 @@ chargé d'un poids. (En gén.) Ferre (voy.
 somme, d'une voiture, d'un navire,
 etc.) Vehere (voy. 1°), act. Cic. Sustinere, eo, es, ui, tentum, act. Cic.
 : Porter un enfant dans ses bras, Puerum in manibus gestare. Ter. — qq.
-ch., un bœuf sur ses épaules, Aliquid humeris ferre. Hor. Petr. portare.
+ch., un boeuf sur ses épaules, Aliquid humeris ferre. Hor. Petr. portare.
 Curt. (Voy. ÉPAULE 1°). Bovem humeris
 sustinere. Cic. — des fardeaux sur
 son dos, Dorso onera gestare. Curt. Je
@@ -206791,7 +206791,7 @@ Has cogitationes secum portare. Liv.
 — de la haine à qqn, Odium in aliquem gerere. Liv. L'intérêt que tu me
 portes, Tua erga me benevolentia. Cic.
 Voy. INTÉRÊT 6°. Porter qqn dans son
-cœur, Voy. CŒUR 5°. Que chacun
+coeur, Voy. COEUR 5°. Que chacun
 porte écrit sur son front ce qu'il pense
 des affaires publiques, Sit inscriptum
 in fronte uniuscujusque quid de republica sentiat. Cic. || 18° Tenir de telle
@@ -207054,7 +207054,7 @@ Expressa (ae) imago (ginis), f. Cic. :
 [Les écrivains grecs et latins] nous
 ont laissé les portraits d'une foule de
 vaillants hommes, Multas nobis imagines fortissimorum virorum expressas reliquerunt. Cic. Tracer des —
-de mœurs, Hominum mores describere
+de moeurs, Hominum mores describere
 (voy. 1°). Cic. Faire, Tracer le portrait de chacun, Describere quae forma
 ou quae naturalis nota cujusque sit.
 Cic. Tracer le — de qqn au physique,
@@ -207309,7 +207309,7 @@ majora. Cic. Posséder toutes les vertus guerrières, Bellicis laudibus
 abundare, n. Cic. Voy. AVOIR 14°. || 2° Avoir qqn chez soi; jouir de sa
 présence. Habere (voy. 1°), act. Cic. : Combien je voudrais posséder
 notre cher Panétius! Quam vellem Panaetium nostrum nobiscum haberemus!
-Cic. || 3° Avoir le cœur de qqn : [Amaryllis] me possède, Nos habet.
+Cic. || 3° Avoir le coeur de qqn : [Amaryllis] me possède, Nos habet.
 Virg. Il te —, Te tenet (voy. 4°). Tib. || 4° Fig. Savoir bien une
 chose. Tenere, eo, es, nui, tentum, act. Cic. Scire, io, is, ivi et
 ii, itum, act. Cic. Novisse, vi, visti, notum, act. Cic. Cognovisse,
@@ -207740,7 +207740,7 @@ POULARDE, s. f. Jeune poule qu'on a engraissée. Gallina (ae) altilis
 
 POULE, s. f.
 1° Femelle du coq. Gallina, ae, f. Cic. : Jeune poule, C.
-POULETTE. De —, Gallinaceus, a, um. Varr. Œuf de —, Ovum gallinaceum.
+POULETTE. De —, Gallinaceus, a, um. Varr. Oeuf de —, Ovum gallinaceum.
 Varr. Échelle pour les poules, Scala gallinaria. Cels. || Fig. Poule
 mouillée (= personne sans courage), Turturilla, ae, f. (= petite
 tourterelle). Sen. La chair de — (= le frisson), Voy. FRISSON. || 2°
@@ -208757,7 +208757,7 @@ Voy. POSSIBLE, IMPOSSIBLE.
 4. POUVOIR, s. m.
 1° Faculté par laquelle on peut qq. ch. Potestas, atis,
 f. Cic. Facultas, f. Cic. Copia, ae, f. Sall. Licentia, f. Sall. : Le
-pouvoir de former trois vœux, Potestas ter optandi. Cic. Avoir une
+pouvoir de former trois voeux, Potestas ter optandi. Cic. Avoir une
 pers. ou une ch. en son — (= à sa disposition), Voy. DISPOSITION 2°.
 Avoir une ch. en son — (= la posséder), Voy. POSSÉDER. Assentiment qui
 est en notre —, Assensio quae est sita in nostra potestate. Cic. Cela
@@ -209034,7 +209034,7 @@ dissimilis. Liv.
 
 2. PRÉCÉDENT, s. m. Fait, Exemple antérieur dont on s'autorise.
 Exemplum, i, n. Sall. Cic. : Citer des précédents, Exempla proferre.
-Cic. [Ces manœuvres me] semblent être des — redoutables pour
+Cic. [Ces manoeuvres me] semblent être des — redoutables pour
 l'avenir, In exemple pertimescenda videntur. Cic. Créer un dangereux
 précédent pour la postérité, Periculosam exempli imitationem reliquis
 in posterum prodere. Cic. Se conformer aux précédents, Aliorum
@@ -209783,7 +209783,7 @@ L'exorde est la — des parties, Exordium est princeps partium. Cic.
 Dans la — partie de la pièce de théâtre, In prima fabula. Ter. Les
 premiers rangs, Primi ordines. Liv. Les soldats du premier rang,
 Primores ou Principes, um, m. pl. Liv. Le — au danger, In periculo
-princeps. Cic. Il est le — dans mon cœur, Apud me, priores partes
+princeps. Cic. Il est le — dans mon coeur, Apud me, priores partes
 habet. Ter. || 2. TEMPS : Le premier des Esculapes, Primus
 Aesculapiorum. Cic. Le — Scipion l'Africain, Superior Africanus. Cic.
 Les premiers de tous les philosophes, ils enseignèrent..., Primi ex
@@ -209811,7 +209811,7 @@ attulit. Nep. Je me suis trompé tout le premier, mais je l'ai trompé
 aussi, Me scilicet maxime, sed maxime illum quoque fefelli. Cic. La
 première enfance, La — jeunesse, Voy. ENFANCE, JEUNESSE. Dans le
 premier des deux combats, In priore pugna. Sall. En — lieu, Primo
-(adv.). Cic. Voy. D'ABORD. Au — coup d'œil, à première vue, Primo
+(adv.). Cic. Voy. D'ABORD. Au — coup d'oeil, à première vue, Primo
 adspectu. Cic. Le — jour de février, et simpl. Le — février, Voy.
 CALENDES. Le — jour et le lendemain, [on fit...], Primo et proximo
 die. Cic. Le — jour que nous fûmes appelés, Quo die primum convocati
@@ -209837,7 +209837,7 @@ devant, en avant : Passe le premier, I prae. Plaut. Il marchait au
 combat le —, Ibat in praelium princeps (gen. cipis). Liv. Il tombe, Il
 est précipité la tête la première, Cadit pronus (a, um). Ov. Pronus
 volvitur in caput. Virg. [Venir au monde] la tête la —, In caput.
-Plin. [La corneille] sort de l'œuf la queue la —, A cauda de ovo
+Plin. [La corneille] sort de l'oeuf la queue la —, A cauda de ovo
 exit. Plin. || 3° Qui est au-dessus de tous les autres par son emploi,
 sa dignité, son rang dans la société. (Le premier de plus de deux)
 Primus, a, um. Cic. Summus. Cic. Princeps, gen. cipis. Cic. (Le premier
@@ -210141,7 +210141,7 @@ course, son cours, — cours, Voy. FUITE, COURSE 1°, COURS 1°, 3°, 10°.
 — son vol, C. S'ENVOLER 1°. — sa source, Voy. SOURCE. — telle ou telle
 tournure, Voy. TOURNURE. || 38° Fig. Adopter certaines manières de
 faire. Sumere (voy. 1°), act. Cic. Sen. Assumere, act. Cic. : Prendre
-des habitudes, des mœurs, Voy. ADOPTER 2°. — le caractère des gens
+des habitudes, des moeurs, Voy. ADOPTER 2°. — le caractère des gens
 qu'on fréquente, Sumere mores a conversantibus. Sen. — un genre de
 vie, Genus vitae instituere (voy. 3°). Suet. — l'initiative,
 l'offensive, Voy. ces m. — des airs, Voy. 2 AIR 5°. || Le prendre si
@@ -210216,7 +210216,7 @@ tout entier, Res eum diem exemit (de eximere, o, is, emptum). Liv. Les
 jeux nous prendront quinze jours, Ludi dies quindecim auferent (de
 auferre, voy. 18°). Cic. Prendre une grande partie de la vie, Magnam
 partem aetatis absumere. Quint. || 48° PRENDRE À, dans certaines
-phrases faites : Prendre qq. ch. à cœur, Aliquid curae habere (eo,
+phrases faites : Prendre qq. ch. à coeur, Aliquid curae habere (eo,
 es, bui, bitum). Sall. Quint. — qq. ch. à tâche, Voy. TÂCHE. — qqn à
 témoin, Voy. TÉMOIN. — qqn à partie, Voy. PARTIE 12°. || 49° PRENDRE EN
 dans certaines phrases faites : Prendre qqn en amitié, Aliquem in
@@ -210456,7 +210456,7 @@ Plaut. apponere (o, is, posui, positum — le servir). Ter. — un festin
 parare et instruere (o, is, struxi, structum). Cic. ornare et
 apparare. Cic. — un festin somptueux, Voy. FESTIN. — des aliments,
 Cibaria conficere (io, is, feci, fectum). Col. — le fromage, un
-breuvage, des œufs, Praeparare caseum. Col. potum. Plin. ova. Mart.
+breuvage, des oeufs, Praeparare caseum. Col. potum. Plin. ova. Mart.
 Vin préparé (= mélangé), Vinum medicatum. Col. [Les chenilles ne font
 pas de mal] aux semences ainsi préparées, Seminibus sic medicatis.
 Col. Préparer un poison, Venenum parare. Cic. temperare. Suet.
@@ -211293,7 +211293,7 @@ respondebat. Cic. — par les questions, Compressus interrogatione.
 V.-Max. || 13° Obliger à se hâter. Urgere (voy. 7°), act. Virg. Ov. :
 Pourquoi me presses-tu? Quid urges? Ov. Si tu n'as rien qui te
 presse, Si tibi subiti nihil est. Plaut. Presser la marche trop lente
-d'un bœuf, Bovem cunctantem producere (o, is, duxi, ductum). Col. —
+d'un boeuf, Bovem cunctantem producere (o, is, duxi, ductum). Col. —
 un cheval avec l'éperon, Equum calcaribus concitare. Liv. || 14°
 Augmenter la vitesse de. Accelerare, act. Caes. : Presser le pas, — un
 mouvement, Voy. HÂTER 2°. || 15° S'efforcer de rendre plus prompt.
@@ -212116,7 +212116,7 @@ PRIÈRE, s. f.
 gén.) Preces, um, f. pl. (inus. au nom. s., rare au gén., au dat. et
 à l'acc. s., usité à l'abl. s. prece). Cic. (Action de prier; Formule
 de prière) Precatio, onis, f. Cic. (Publique et solennelle)
-Supplicatio, f. Cic. : Des prières et des vœux, Preces ac vota. Cic.
+Supplicatio, f. Cic. : Des prières et des voeux, Preces ac vota. Cic.
 Être en prière, Faire sa —, ses prières, In prece esse. Ov. Les femmes
 s'étant mises en prière, Matronae in preces versae (de verti, or,
 eris, pass.). Liv. Adresser des prières aux dieux, Preces diis
@@ -212191,7 +212191,7 @@ Nommer qqn —, (Aliquem) ad primum pilum transducere. Caes.
 PRIMITIF, IVE, adj.
 1° Qui est le plus ancien. Primus, a, um. Cic. :
 La vie primitive, Vita priscorum. Plin. Signification — (d'un mot),
-Principalis significatio. Quint. || Fig. Mœurs primitives, Prisci
+Principalis significatio. Quint. || Fig. Moeurs primitives, Prisci
 mores. Liv. || 2° D'auparavant. Pristinus, a, um. Cic. || 3° Terme de
 grammaire : Verbes primitifs, Verba primigenia. Varr. primitiva.
 Prisc. || Mots primitifs (par oppos. à dérivés), Nativa verba. Cic.
@@ -212309,7 +212309,7 @@ sévères du père, Severa patris disciplina. Tac. Principe de
 conduite, Vivendi disciplina ou via, f. ou ratio (onis), f. Cic.
 Adopter un — de conduite, Institutum vitae capere. Cic. Il est
 contraire à, Il n'est pas dans mes principes d'écrire..., Alienum est
-institutis meis scribere. Cic. Former ses mœurs d'après des —, Mores
+institutis meis scribere. Cic. Former ses moeurs d'après des —, Mores
 praeceptis et ratione formare. Quint. Régler sa vie sur des —
 certains, Vitam dirigere ad certam rationis normam. Cic. Vivre
 d'après ses —, Vivere ex sua formula. Sen. Être fidèle à ses —, Sibi
@@ -212512,7 +212512,7 @@ PRIVATION, s. f.
 d'être privé de qq. ch. qu'on avait. (Action) Ademptio, onis, f. Cic.
 (Fait) Amissio, f. Cic. Jactura, ae, f. Cic. : Privation du droit de
 cité, Ademptio civitatis. Cic. — des droits civils, Capitis
-deminutio. Cic. Voy. PERTE 5°. — d'un œil, Oculi jactura. V.-Max.
+deminutio. Cic. Voy. PERTE 5°. — d'un oeil, Oculi jactura. V.-Max.
 Voy. PERTE 6°. || 2° Manque de qq. ch. qu'on n'avait pas. Inopia, ae,
 f. Cic. Penuria, f. Cic. Liv. Pl.-j. Voy. MANQUE, MANQUER (neut.) 11°.
 || 3° Ordin. au pl. Manque des choses nécessaires. Inopia, ae, f.
@@ -213116,7 +213116,7 @@ mirificus. Cic. — de grandeur (= grandeur surprenante), Miraculum
 magnitudinis. Liv. Homme qui est un — d'éloquence, Vir in dicendo
 admirabilis. Cic. Femme qui est un — de beauté, Mulier eximia
 pulchritudine. Cic. Statue qui est un — de l'art, Simulacrum
-singulari artificio perfectum. Cic. Voy. CHEF-D'ŒUVRE. — de valeur,
+singulari artificio perfectum. Cic. Voy. CHEF-D'OEUVRE. — de valeur,
 C. Action HÉROÏQUE 3°. Faire des prodiges, Voy. MERVEILLE.
 
 PRODIGIEUSEMENT, adv. C. ÉTONNAMMENT, EXTRÊMEMENT.
@@ -213187,7 +213187,7 @@ Cic. Exhibitio, f. Gell. : Production d'un testament, Exhibitio
 tabularum testamenti. Ulp. || 2° Action de produire, de donner
 naissance. Procreatio, onis, f. Cic. Progeneratio, f. Plin. || 3° Ce
 qui est produit par la nature. (Fruit, etc.) Fructus, us, m. Cic.
-Fetus, us, m. Cic. (Œuvre) Opus, peris, n. Cic. : Toutes les
+Fetus, us, m. Cic. (Oeuvre) Opus, peris, n. Cic. : Toutes les
 productions de la nature, Omnia quae natura gignit. Cic. [Perle qui
 est] une production vraiment unique de la nature, Vere unicum naturae
 opus. Plin. Les productions de la terre, Ea, quae terra gignit ou
@@ -213229,7 +213229,7 @@ Auctores certissimos laudare possum. Cic. Voy. ALLÉGUER. || 7° En
 parl. des animaux. Engendrer, mettre au monde. Gignere, o, is, genui,
 genitum, act. Cic. Procreare, act. Cic. Nep. Parere, io, is, peperi,
 partum, pariturus, act. Cic. Edere (voy. 5°), act. Cic. Generare,
-act. Cic. Progenerare, act. Col. : Les poissons produisent des œufs,
+act. Cic. Progenerare, act. Col. : Les poissons produisent des oeufs,
 Pisces ova gignunt. Cic. Les brebis —, Oves fructum edunt. Cic. [La
 vache, L'ânesse] commence à produire, Incipit fructum ferre (fero,
 fers, tuli, latum). Varr. capit generare. Plin. || 8° En parl. du
@@ -213265,7 +213265,7 @@ d'orateurs, Nulla aetate uberior oratorum fetus fuit. Cic. || 9°
 Faire, Créer, Obtenir par le travail manuel. Facere (voy. 8°), act.
 Cic. Conficere (voy. 8°), act. Cic. Voy. FAIRE 3°, FABRIQUER :
 Produire du vin, des céréales, Voy. FAIRE 14°. || 10° Composer par le
-travail de l'esprit. Faire, Créer (une œuvre d'art) Facere (voy.
+travail de l'esprit. Faire, Créer (une oeuvre d'art) Facere (voy.
 8°), act. Cic. Conficere (voy. 8°), act. Cic. : L'âge où l'on ne peut
 encore rien produire par soi-même, Aetates quae nihildum ipsae ex se
 generare queunt. Quint. Protogène a moins produit, Protogenis minor
@@ -213384,7 +213384,7 @@ PROFÉRER, v. act. Dire tout haut. Proferre, fero, fers, tuli, latum,
 act. Cic. Voy. PRONONCER, DIRE.
 
 PROFÈS, ESSE, adj. et s. m. f. Religieux, Religieuse qui a prononcé
-ses vœux. *Professus, i, masc. (Eccl.). *Professa, ae, fem. (Eccl.).
+ses voeux. *Professus, i, masc. (Eccl.). *Professa, ae, fem. (Eccl.).
 
 PROFESSER, v. act.
 1° Reconnaître publiquement, déclarer hautement.
@@ -213425,7 +213425,7 @@ PROFESSER 1°. || 2° Action de pratiquer ouvertement : Faire
 profession d'une religion, Religionem colere (o, is, colui, cultum).
 Liv. Faire — d'une doctrine, Sectam sequi (or, eris, secutus sum),
 dep. Quint. Voy. PROFESSER 2°. || 3° Acte par lequel un religieux, une
-religieuse prononce ses vœux. *Professio, onis, f. (Eccl.). || 4°
+religieuse prononce ses voeux. *Professio, onis, f. (Eccl.). || 4°
 État, emploi, métier. Ars, artis, f. Cic. Artificium, ii, n. Cic.
 Quaestus, us, m. Cic. : Professions libérales, Liberales quaestus.
 Cic. Profession de grammairien, Grammaticae professio (onis), f. Suet.
@@ -213626,7 +213626,7 @@ la — de cette érudition, Quaestio altissima ista eruditione digna.
 Pl.-j. || 5° Fig. Grande pénétration d'esprit : La profondeur de
 l'esprit, Voy. PÉNÉTRATION 3°. || 6° Partie reculée d'un lieu : Il
 alla se cacher dans les profondeurs de la Macédoine, Abdidit se in
-intimam Macedoniam. Cic. Voy. CŒUR 14°. || Fig. Pénétrer dans les
+intimam Macedoniam. Cic. Voy. COEUR 14°. || Fig. Pénétrer dans les
 profondeurs d'une cause, In causam penitus se demittere. Cic. Puiser
 la connaissance du droit dans les — de la philosophie, Haurire ex
 intima philosophia juris disciplinam. Cic. Tirer des arguments des —
@@ -214019,7 +214019,7 @@ promittere (o, is, misi, missum). Cic. polliceri (eor, eris, citus
 sum), dep. Cic. pollicitari, dep. Plaut. Dig. profiteri (eor, eris,
 fessus sum), dep. Cic. — positivement, Pro certo polliceri. Cic. —
 par serment, C. JURER 2°. — à une divinité, Voy. VOUER (qq. ch.),
-FAIRE VŒU (de). — à qqn de grandes récompenses, Magna praemia alicui
+FAIRE VOEU (de). — à qqn de grandes récompenses, Magna praemia alicui
 proponere (o, is, posui, positum). Cic. — monts et merveilles, des
 monts d'or, Voy. MERVEILLE, MONT. Il promet plus qu'il ne tient,
 Plura promittit quam tenet. Justin. Nous promettons beaucoup sans
@@ -214201,7 +214201,7 @@ onis, f. Cic.
 Pronuntiare, act. Cic. Dicere, o, is, dixi, dictum, act. Cic. :
 Prononcer un discours, Orationem dicere. Cic. agere (o, is, egi,
 actum). Cic. habere (eo, es, bui, bitum). Cic. Voy. PARLER 8°,
-DISCOURS 3°. — des vœux, Vota nuncupare. Cic. || Fig. Prononcer
+DISCOURS 3°. — des voeux, Vota nuncupare. Cic. || Fig. Prononcer
 soi-même sa condamnation, sa sentence, Sua confessione indui (or,
 eris, utus sum), pass. Cic. || 2° Déclarer en vertu de son autorité.
 Pronuntiare, act. Cic. Dicere (voy. 1°), act. Cic. Ferre, fero, fers,
@@ -214711,7 +214711,7 @@ interfectus. Cic. Pris par leurs propres défenseurs, Capti suismet
 ipsi praesidiis. Liv. Celui-là fut son propre accusateur, Hic ipse
 fuit suus accusator. Nep. Défendre les biens de ses alliés et ne pas
 défendre ses propres foyers, Sociorum fortunas, non sua tecta,
-defendere. Cic. Il a vu de ses — yeux, Praesens vidit. Cic. Voy. ŒIL
+defendere. Cic. Il a vu de ses — yeux, Praesens vidit. Cic. Voy. OEIL
 10°. De mon propre mouvement, Voy. MOUVEMENT 10°. || 2° Opposé à
 Commun, en parl. d'un nom. Qui ne convient qu'à une seule pers. ou à
 une seule ch. Proprius, a, um. Quint. : Nom propre, Nomen proprium.
@@ -215302,7 +215302,7 @@ hors de la capitale : Style de province, Poète de —, Voy. PROVINCIAL
 
 PROVINCIAL, ALE, adj.
 1° Relatif à une province (romaine).
-Provincialis, m. f., e, n. Cic. : Simplicité des mœurs
+Provincialis, m. f., e, n. Cic. : Simplicité des moeurs
 provinciales, Parsimonia provincialis. Tac. || Subst. Es-tu Italien
 ou provincial? Italicus es an provincialis? Pl.-j. Les provinciaux,
 Provinciales, ium, m. pl. Cic. || 2° Qui est d'une ville autre que la
@@ -215474,9 +215474,9 @@ Petite prune, Prunulum, i, n. Fronto.
 
 PRUNELLE, s. f.
 1° Sorte de prune sauvage. Prunum (i) silvestre (is),
-n. Plin. || 2° Partie de l'œil. Pupula, ae, f. Varr. Cic. Pupilla, f.
+n. Plin. || 2° Partie de l'oeil. Pupula, ae, f. Varr. Cic. Pupilla, f.
 Cels. Plin. : Jouer de la prunelle, Voy. Faire un CLIGNEMENT d'yeux.
-Aimer qqn plus que la — de ses yeux, Voy. ŒIL 10°. Conserver qq. ch.
+Aimer qqn plus que la — de ses yeux, Voy. OEIL 10°. Conserver qq. ch.
 comme la — de ses yeux, Rem servare diligentissime. Cic.
 
 PRUNELLIER, s. m. Prunier sauvage. Prunus (i) silvestris (is), f. Col.
@@ -216039,7 +216039,7 @@ Dig.
 1. PUPILLE, s. m. f. Personne mineure qui est sous la conduite d'un
 tuteur. Pupillus, i, masc. Cic. Pupilla, ae, fem. Cic.
 
-2. PUPILLE, s. f. C. PRUNELLE (de l'œil).
+2. PUPILLE, s. f. C. PRUNELLE (de l'oeil).
 
 PUPITRE, s. m. C. BUREAU
 1° .
@@ -216054,7 +216054,7 @@ Aurum purum. Plin. || Voix pure, Vox candida. Quint. liquida. Hor. ||
 purus. Cic. Ciel —, Caelum serenum. Cic. Jour très —, Dies
 purissimus. Pl.-j. Voy. CLAIR 1°. || 3° Fig. Qui est sans tache, sans
 souillure. Purus, a, um. Cic. Integer, gra, grum. Cic. Sanctus. Cic. :
-Mains pures, Purae manus. Virg. Sen. Suet. Cœur pur, Âme pure,
+Mains pures, Purae manus. Virg. Sen. Suet. Coeur pur, Âme pure,
 Animus purus. Cic. integer. Cic. sincerus. Sen. Il n'y a personne plus
 probe et plus — que lui, Illo nemo neque integrior est neque
 sanctior. Cic. Conscience pure, Voy. NET 7°. || 4° Fig. Chaste. Purus,
@@ -216123,7 +216123,7 @@ la voix, Vocis splendor (oris), masc. Cic. claritas (atis), f. Quint.
 || 2° État de ce que rien n'obscurcit : Pureté du ciel, Caeli
 serenitas (atis), f. Liv. Plin. || 3° Fig. État de ce qui est sans
 tache, sans souillure. Sinceritas, atis, f. Sen. Integritas, f. Cic. :
-Pureté de vie, des mœurs, Vitae sanctitas, f. Cic. sinceritas.
+Pureté de vie, des moeurs, Vitae sanctitas, f. Cic. sinceritas.
 V.-Max. modestia (ae), f. Cic. || 4° Fig. Chasteté. Castitas, atis,
 f. Cic. Sanctitas, f. Cic. Integritas, f. Cic. Pudicitia, ae, f. Cic. :
 La pureté du corps, Corporis castimonia (ae), f. Cic. En état de —,
@@ -216154,7 +216154,7 @@ Liv. — ces contrées des garnisons des barbares, Barbarorum
 praesidia ex iis regionibus depellere (o, is, puli, pulsum). Nep. —
 de dettes, Aere alieno levare ou liberare, act. Cic. Voy. DÉLIVRER 2°.
 || 3° Fig. Rendre pur : Purger sa conscience, Conscientiam exonerare.
-Curt. Voy. Se CONFESSER. — les mœurs, le style, Voy. CORRIGER 1°. —
+Curt. Voy. Se CONFESSER. — les moeurs, le style, Voy. CORRIGER 1°. —
 ses défauts, Voy. Se CORRIGER 1°. — une faute, une offense, Voy.
 LAVER 2°, EFFACER 3° et 4°. || 4° Fig. Ôter : Purger une hypothèque,
 Pignus luere (o, is, ui, uiturus). Dig. Voy. DÉGRÉVER. || 5° Faire
@@ -216196,7 +216196,7 @@ domus purgantur. Plin. Purifier un champ, une armée (en en faisant le
 tour), Lustrare agrum. Cato. exercitum. Cic. Liv. — le forum des
 traces de [ce] crime, Forum a sceleris vestigiis expiare. Cic. Lieu
 purifié, Purus locus. Dig. || 3° Fig. Rendre plus honnête, plus
-vertueux. Emendare, act. Cic. : Purifier les mœurs, Mores corrigere
+vertueux. Emendare, act. Cic. : Purifier les moeurs, Mores corrigere
 (o, is, rexi, rectum). Cic.
 
 870. Se PURIFIER, v.
@@ -216229,7 +216229,7 @@ f. Cels.
 
 PUSILLANIME, adj. Qui a l'âme faible, lâche. (Trop timide) Nimium
 timidus (a, um). Cic. (Lâche) Ignavus. Cic. Liv. : J'ai été
-pusillanime, Ego nullius animi fui. Cic. Cœur, Caractère —, C. le
+pusillanime, Ego nullius animi fui. Cic. Coeur, Caractère —, C. le
 suiv.
 
 PUSILLANIMITÉ, s. f. Âme faible, excessive timidité. (En gén.) Animus
@@ -216446,7 +216446,7 @@ artes praepediebat avaritia. Sall. Gâter par un seul défaut beaucoup
 de bonnes —, Multa bona uno vitio deformare. Liv. De ces deux noms,
 l'un marque un défaut, l'autre une qualité, Alterum vitii nomen (est),
 alterum laudis. Cic. Qui a de bonnes qualités (= un bon naturel),
-Bona indole praeditus. Cic. Qui a de bonnes — (= de bonnes mœurs),
+Bona indole praeditus. Cic. Qui a de bonnes — (= de bonnes moeurs),
 Recte moratus (a, um). Plaut. [Le peuple] plus considérable par la
 quantité que par la qualité, Turba quam dignitate conspectior. Liv.
 L'application, cette — qui renferme toutes les autres, Diligentia,
@@ -217078,7 +217078,7 @@ inopinatum. Liv. Quiddam demissum, humile. Cic. Vieillard qui a —
 chose d'un jeune homme, Senex in quo est aliquid adolescentis. Quint.
 C'est — chose quand on arrive de n'être pas un étranger, Est quiddam
 advenientem non esse peregrinum. Cic. Si — chose est de nature à
-enflammer les cœurs, Si ulla res est, quae animos possit incendere.
+enflammer les coeurs, Si ulla res est, quae animos possit incendere.
 Cic. Si — personne a entendu dire — chose, Si quis quid rumore
 acceperit. Caes. Voy. CHOSE 1°. Si nous avons eu — importance, Si
 fuimus aliquid. Cic. — soupçon, Suspicionis aliquid. Cic. — petit
@@ -217496,7 +217496,7 @@ que... (= équivalant à Quelle personne ou Quelle chose) dans une
 interr. indir., Voy. CELUI 8°. || 2° Relat. Équivalant à une
 conjonction suivie d'un pronom personnel : (= Puisque, Parce que je,
 tu, il...) Prodigieuse a été la vigilance de Caninius, qui pendant
-toute la durée de son consulat n'a pas fermé l'œil un instant,
+toute la durée de son consulat n'a pas fermé l'oeil un instant,
 Caninius fuit mirifica vigilantia, qui suo toto consulatu somnum non
 viderit (= cum is non viderit). Cic. Je ne puis blâmer ta résolution,
 moi qui ne suis point parti, Non possum reprehendere consilium tuum,
@@ -218148,7 +218148,7 @@ pas se raccommoder, (Cristalli) fragmenta sarciri nullo modo queunt.
 Plin. || 2° Réfl. Se réconcilier. Voy. ce m.
 
 1. RACCOMMODEUR, EUSE, s. m. f. Celui, Celle qui raccommode :
-Raccommodeur (d'une œuvre d'art), Refector, oris, masc. Suet. —
+Raccommodeur (d'une oeuvre d'art), Refector, oris, masc. Suet. —
 (d'habits, de maisons), Sartor, masc. Aug. Insc. Raccommodeuse
 (d'habits), Sartrix, icis, fem. C.-Aur. Voy. RACCOMMODER
 1° .
@@ -218359,7 +218359,7 @@ pas se raccommoder, (Cristalli) fragmenta sarciri nullo modo queunt.
 Plin. || 2° Réfl. Se réconcilier. Voy. ce m.
 
 2. RACCOMMODEUR, EUSE, s. m. f. Celui, Celle qui raccommode :
-Raccommodeur (d'une œuvre d'art), Refector, oris, masc. Suet. —
+Raccommodeur (d'une oeuvre d'art), Refector, oris, masc. Suet. —
 (d'habits, de maisons), Sartor, masc. Aug. Insc. Raccommodeuse
 (d'habits), Sartrix, icis, fem. C.-Aur. Voy. RACCOMMODER
 1° .
@@ -218570,7 +218570,7 @@ pas se raccommoder, (Cristalli) fragmenta sarciri nullo modo queunt.
 Plin. || 2° Réfl. Se réconcilier. Voy. ce m.
 
 3. RACCOMMODEUR, EUSE, s. m. f. Celui, Celle qui raccommode :
-Raccommodeur (d'une œuvre d'art), Refector, oris, masc. Suet. —
+Raccommodeur (d'une oeuvre d'art), Refector, oris, masc. Suet. —
 (d'habits, de maisons), Sartor, masc. Aug. Insc. Raccommodeuse
 (d'habits), Sartrix, icis, fem. C.-Aur. Voy. RACCOMMODER
 1° .
@@ -221012,7 +221012,7 @@ Varr. || 2° Passer le râteau pour nettoyer : Râteler la terre, Humum pectine 
 
 RÂTELIER, s. m.
 1° Balustrade pour
-maintenir le fourrage donné aux bœufs,
+maintenir le fourrage donné aux boeufs,
 etc. Faliseae, arum, f. pl. Cato. || 2° Les
 deux rangées des dents. C. DENTURE.
 
@@ -221670,7 +221670,7 @@ lus ou prononcés à —, Inversa verba.
 Ter. [Intervertir l'ordre naturel des
 propositions] et dire la même chose
 à —, Et idem rursum versus retroque
-dicere. Cic. Placé à —, Perverse collocatus. Suet. Bœufs qu'on fait marcher à — (= à reculons), Boves
+dicere. Cic. Placé à —, Perverse collocatus. Suet. Boeufs qu'on fait marcher à — (= à reculons), Boves
 aversi. Liv. || Voy. À REBROUSSE-POIL. || Fig. Prendre, Interpréter à
 rebours, Perverse interpretari, dep.
 (acc.). Plaut. Homme qui fait tout à
@@ -222083,7 +222083,7 @@ Accipere rem in bonam partem. Cic.
 in malam partem. Cic. Voy. INTERPRÉTER 1°. || 17° Fig. Accueillir bien
 ou mal. Accipere (voy. 1°), act. Cic.
 Excipere, act. Liv. Recipere, act. Cic.
-: Recevoir qqn à bras et à cœur ouverts, Aliquem suo sinu complexuque
+: Recevoir qqn à bras et à coeur ouverts, Aliquem suo sinu complexuque
 recipere. Cic. Voy. ACCUEILLIR 1°.
 || 18° Soutenir l'attaque d'un ennemi.
 Excipere (voy. 1°), act. Liv. : Recevoir de pied ferme l'attaque des
@@ -222236,7 +222236,7 @@ f. Cic. : La recherche des choses les
 plus secrètes, Rerum occultissimarum
 investigatio. Cic. Se livrer tout entier
 à la — de qq. ch., Collocare se totum
-in re exquirenda. Cic. Faire des recherches sur la vie et les mœurs,
+in re exquirenda. Cic. Faire des recherches sur la vie et les moeurs,
 De vita et moribus quaerere (o, is,
 quaesivi et sii, situm). Cic. Les —
 que nous faisons, Ea quae quaerimus. Cic. User sa vie dans des —,
@@ -222412,18 +222412,18 @@ de grands récits de..., Copiose laudare,
 act. Cic. Voy. 2 LOUER, ÉLOGE 2°.
 
 RÉCITATEUR, s. m. Celui qui récite
-qq. ch. par cœur. *Is qui rem memoriter
+qq. ch. par coeur. *Is qui rem memoriter
 pronuntiat (abat, avit...). D'apr. Cic.
 
 RÉCITATION, s. f. Action de réciter
-qq. ch. par cœur. S'expr. en tourn.
+qq. ch. par coeur. S'expr. en tourn.
 par le v. Voy. RÉCITER 3°.
 
 RÉCITER, v. act.
 1° Tr. rar. Lire
 à haute voix. Voy. LIRE 5°. || 2° Qqf.
 Raconter. Voy. ce m. || 3° Prononcer à
-haute voix qq. ch. qu'on sait par cœur.
+haute voix qq. ch. qu'on sait par coeur.
 Memoriter pronuntiare, act. Cic. :
 Discours récité, Oratio memoriter habita (de habere, eo, es, bui, bitum).
 Cic. Réciter un livre qu'on vient de
@@ -225239,7 +225239,7 @@ efforts sur ses forces, Studia sua
 suae naturae regula metiri (ior, iris,
 mensus sum), dep. Cic. — sur cela
 son jugement, Judicium ad ea dirigere. Quint. Je réglerai mes vues sur
-les tiennes, Meum consilium accommodabo ad tua. Cic. Régler nos mœurs
+les tiennes, Meum consilium accommodabo ad tua. Cic. Régler nos moeurs
 sur la conduite de qqn, Mores nostros
 ad aliquem exigere (o, is, egi, actum).
 Sen. — la vie d'après les conditions
@@ -225381,9 +225381,9 @@ Cic. Vigere, eo, es, gui, s. sup., n.
 Cic. Valere, eo, es, lui, litum, n. Cic.
 Praevalere, s. sup., n. Plin. : Philon
 règne dans l'Académie, Philo in Academia maxime viget. Cic. Régner sur
-le cœur de Néron, Apud Neronem
+le coeur de Néron, Apud Neronem
 praevalere. Tac. — par les bienfaits
-sur les cœurs des peuples, Civitates
+sur les coeurs des peuples, Civitates
 suo sibi beneficio obstrictas habere
 (eo, es, bui, bitum). Caes. C'est là que
 l'éloquence règne, Eloquentia hic regnat ou imperat. Quint. Dans un État
@@ -225450,7 +225450,7 @@ de soldats, Urbs redundat militibus.
 Cic. Qui regorge, Refertus, a, um
 (de ch., abl. ; de pers., gén. et rar.
 abl.). Cic. Voy. PLEIN 1°. || Fig. Mon
-cœur regorge de joie, Mihi pectus
+coeur regorge de joie, Mihi pectus
 laetitia abundat. Plaut. || 7° Être fort
 abondant. Superare, n. Sall. Cic. :
 L'argent regorgeait chez toi, Tibi pecunia superabat. Cic.
@@ -225490,9 +225490,9 @@ ferre moleste. Cic. Voy. PEINE 4°.
 Mourir avec les plus vifs regrets, Iniquissimo animo mori. Cic. Qui agit
 à regret, Invitus, a, um. Cic. Voy.
 MALGRÉ 1°. Faire qq. ch. à —, Facere
-aliquid invite. Cic. Voy. CONTRECŒUR. Cela se fera à mon grand —,
+aliquid invite. Cic. Voy. CONTRECOEUR. Cela se fera à mon grand —,
 Id me invitissimo fiet. Cic. Je l'ai congédié à mon grand —, Eum invitissimus dimisi. Cic. Sans —, Non gravate. Cic. aequo animo. Cic. Voy. De
-bon CŒUR 6°. || 4° Repentir. Paenitentia, ae, f. Cic. Dolor, oris, masc. Cic.
+bon COEUR 6°. || 4° Repentir. Paenitentia, ae, f. Cic. Dolor, oris, masc. Cic.
 : [Cette acquisition] ne laisse aucun
 regret, Paenitentiae locum non relinquit. Pl.-j. Il se souviendra avec qq.
 — de ses turpitudes, Cum aliquo dolore flagitiorum suorum recordabitur.
@@ -225630,7 +225630,7 @@ régulier, (Orator) dispositus. Pl.-j.
 Tout ce qui s'enseigne d'une manière
 régulière, Omnia quae ratione docentur
 et via. Cic. Faire des études régulières, Studere legitime. Tac. Voy. MÉTHODIQUE 1° et 2°. || 11° Conforme aux
-bonnes mœurs. Rectus, a, um. Cic. Voy.
+bonnes moeurs. Rectus, a, um. Cic. Voy.
 MORAL 2°. || 12° Dont la conduite est
 conforme à la morale. Bene moratus (a,
 um). Cic. Sanctus. Cic. || 13° Exact,
@@ -225745,7 +225745,7 @@ REINE, s. f.
 Regina, ae, f. V.-Max. Justin. || La reine
 Junon, Regina Juno. Cic. || 2° Souveraine d'un royaume. Regina, ae, f. Cic.
 Virg. Suet. || La reine du ciel, Caeli
-regina. Vulg. || 3° Fig. Femme qui domine, qui conduit : La reine du chœur,
+regina. Vulg. || 3° Fig. Femme qui domine, qui conduit : La reine du choeur,
 Chori regina (ae), f. Stat. || 4° Fig.
 Ce qui exerce une sorte d'empire. Domina, ae, f. Cic. Mart. : Que la Fortune soit la reine du champ de Mars,
 Sit Fors domina Campi. Cic. Voy. ROI.
@@ -226008,7 +226008,7 @@ afferre. Plin. Alicui voluptati esse
 (sum, es, fui, futurus). Cic. laetitiae
 esse. Cic. gaudio esse. Plaut. Voy.
 JOIE 1°, PLAISIR 1°, CHARMER 6°. ||
-2° Charmer (le cœur), flatter (les sens).
+2° Charmer (le coeur), flatter (les sens).
 Delectare, act. Cic. Permulcere, eo, es,
 mulsi, mulsum et mulctum, act. Cic.
 Blandiri, ior, iris, itus sum, dep. (dat.).
@@ -226143,9 +226143,9 @@ RELÂCHÉ, ÉE, part. passé de RELÂCHER. Voy. ce v. || Adj. Moins strict,
 moins exact, moins sévère. Solutus, a,
 um. Cic. Dissolutus. Cic. : Relâché
 dans l'exercice du pouvoir, Ad imperandum segnis (m. f., e, n.). Cic.
-— dans ses mœurs, Qui a des mœurs
+— dans ses moeurs, Qui a des moeurs
 relâchées, Dissolutus, a, um. Cic. Voy.
-DISSOLU. Mœurs —, Discipline relâchée, Voy. RELÂCHEMENT 6°. La jeunesse est tellement —, Ita prolapsa
+DISSOLU. Moeurs —, Discipline relâchée, Voy. RELÂCHEMENT 6°. La jeunesse est tellement —, Ita prolapsa
 est juventus. Cic. Sa conduite était
 —, Vitae remissioris erat. Suet. Mon
 indulgence a paru trop —, Mea lenitas solutior visa est. Cic. Qui est
@@ -226168,7 +226168,7 @@ masc. Cic. || 5° Fig. Délassement, utile
 cessation de travail. C. RELÂCHE 1°. ||
 6° Fig. Diminution dans la moralité,
 dans la discipline : Relâchement dans
-les mœurs, Mores (um) ad mollitiem
+les moeurs, Mores (um) ad mollitiem
 lapsi (orum), m. pl. Cic. Mores soluti. Justin. dissoluti. Ph. Eutr. Voy.
 DISSOLUTION 3°. — dans la discipline
 (militaire), Imperium (ii) solutum (i)
@@ -226230,7 +226230,7 @@ studia minuuntur. Cic. L'activité se
 —, Industria languescit (de languescere, o, gui, s. sup., n.). Cic.
 Voy. DIMINUER (neut.). || 5° Pron. Fig.
 Devenir moins strict, moins exact, moins
-sévère : Mœurs qui se relâchent, Mores desidentes (de desidere, o, is, sedi,
+sévère : Moeurs qui se relâchent, Mores desidentes (de desidere, o, is, sedi,
 s. sup., n.). Liv. La discipline se relâche, Disciplina labitur (de labi, or,
 eris, lapsus sum, dep.). Liv. || 6° Réfl.
 Rabattre de son ardeur, de son exactitude, de sa sévérité. Se relaxare. Cic.
@@ -226557,7 +226557,7 @@ cessi, cessum), n. Caes. Des troupes
 fraîches relèvent les troupes fatiguées, Integri succedunt invicem defatigatis (au dat.). Caes. Voy. RELAYER.
 || 24° Libérer d'un engagement. Solvere, o, is, solvi, solutum, act. Cic.
 Liberare, act. Cic. : Relever la cité
-d'un engagement religieux, d'un vœu,
+d'un engagement religieux, d'un voeu,
 Solvere civitatem religione. Cic. voto.
 Justin. Le droit prétorien peut — de
 ces engagements, Haec promissa jure
@@ -226629,7 +226629,7 @@ Le crédit se releva, Fides refecta est
 11° Réfl. Reprendre de l'élévation morale : Beaucoup de gens se sont relevés, Multi emerserunt (voy. 8°).
 Cic. ad bonam frugem se receperunt
 (de recipere, io, is, ceptum). Cic. Les
-mœurs publiques se relèvent, Civitas
+moeurs publiques se relèvent, Civitas
 emendatur. Cic. corrigitur. Cic. || 12°
 Récipr. Se remplacer, se relayer. C.
 Se RELAYER.
@@ -226742,7 +226742,7 @@ Sanctimonialis, m. f., e, n. C.-Th. : Vie
 religieuse, Sanctimonialis vita. C.-Th.
 
 2. RELIGIEUX, EUSE, s. m. f. Personne
-qui s'est engagée par des vœux à suivre
+qui s'est engagée par des voeux à suivre
 une règle autorisée par l'Église. Religiosus, i, masc. Salv. Sanctimonialis
 (is) mulier (eris), fem. C.-Th., et
 simpl. Sanctimonialis, is, fem. Aug.
@@ -260990,7 +260990,7 @@ n. Liv. Cadere, o, is, cecidi, casum,
 n. Cic. Evadere, o, is, vasi, vasum.
 Sall. Procedere. Cic. Evenire, io, is,
 veni, ventum. Ter. : Cela tourna autrement, Quod contra vertit. Hor.
-Quand tout tourne selon nos vœux,
+Quand tout tourne selon nos voeux,
 In rebus ad voluntatem fluentibus
 (voy. 13°). Cic. Selon que l'affaire
 tourne bien ou mal, Prout bene aut
@@ -261341,7 +261341,7 @@ asse. Quint. Il est — mensonge, Totus
 ex mendacio compositus. Cic. Tu es —
 sagesse, Tu quantus quantus nil nisi
 sapientia es. Ter. De — son pouvoir,
-Omni ope. Sall. De — son cœur, Ex
+Omni ope. Sall. De — son coeur, Ex
 animo. Cic. Toto pectore. Cic. Le mur
 atteint toute sa hauteur, Justa muri
 altitudo expletur. Cic. Avec — la
@@ -261548,7 +261548,7 @@ gradu placide ire. Ter. Couler — doucement, Tractu leni labi. Curt. Comment va
 de la santé), Quid rei gerit ? sic tenuiter. Ter. — entier absorbé dans ses
 pensées, Totus in illis. Hor. Le sénat
 se leva — entier, Consurrexit senatus
-ad unum. Cic. Le cœur — entier,
+ad unum. Cic. Le coeur — entier,
 Cunctum pectus. Cat. L'Italie — entière, Omnis Italia. Sall. Je ne mourrai
 pas — entier, Non omnis moriar. Hor.
 Le peuple était — entier pour Hannibal, Plebs Hannibalis tota erat. Liv.
@@ -261572,7 +261572,7 @@ ejus similitudinem fert prae se. Liv.
 Aller — droit au navire, Ire prorsus in
 navem. Plaut. Les astres sont — de feu,
 Sidera tota sunt ignea. Cic. Il est —
-cœur, Strenue agit. Cic. — en arrivant, Primo statim adventu. Liv. C'est
+coeur, Strenue agit. Cic. — en arrivant, Primo statim adventu. Liv. C'est
 — vu, Visum est. Plaut. La maison
 s'écroule — d'un coup, Aedes ruunt
 perpetuae (de perpetuus, a, um). Plaut.
@@ -263807,7 +263807,7 @@ naturam. Plin. La nature ne fait que
 Qu'elle avait transformés en bêtes,
 Quos hominum ex facie in vultus ferarum induerat (de induere, o, is, ui,
 utum) (poet.). Virg. || 2° Fig. Changer. Mutare, act. Cic. : Transformer
-le reproche en éloge, Crimen in laudem convertere (voy. 1°). Cic. Guerriers transformés en manœuvres, Opifices pro bellatoribus. Liv.
+le reproche en éloge, Crimen in laudem convertere (voy. 1°). Cic. Guerriers transformés en manoeuvres, Opifices pro bellatoribus. Liv.
 
 1209. Se TRANSFORMER, v. réfl.
 1° Prendre une autre forme. Se mutare (in,
@@ -264125,10 +264125,10 @@ Cic. Ferro incubare (o, as, cubui, cubitum). Sen.-tr. Ferrum adigere in
 viscera. Sen. Pectus ferro trajicere.
 Liv. Pectus transfodere ou perfodere.
 Plin. Transigere se gladio. Tac. || 2°
-Fig. Transpercer le cœur, Cor findere
+Fig. Transpercer le coeur, Cor findere
 (o, is, fidi, fissum). Plaut. Animum
 dolore fodere (voy. 1°). Plaut. : Ces
-paroles me transpercent le cœur, Me
+paroles me transpercent le coeur, Me
 exanimant hae voces. Cic.
 
 TRANSPIRATION, s. f. Sueur.
@@ -264611,7 +264611,7 @@ manibus (de manus, us, f.). Cic. Le
 — de la terre, Agrorum cura. Quint.
 Rerum rusticarum usus (us), m. Cic.
 Res (rei) rustica (ae), f. Col. Par le —
-des manœuvres et des esclaves, Fabrorum ministeriis ac servili opera.
+des manoeuvres et des esclaves, Fabrorum ministeriis ac servili opera.
 Liv. On cessa tout —, Feriae habitae
 sunt. Liv. || 2° L'ouvrage qui est à
 faire ou qu'on fait actuellement. Opus,
@@ -264896,7 +264896,7 @@ Angi, or, eris, s. parf., pass. Cic. Se
 cruciare. Ter. Angi animo. Cic. Anxio
 animo esse. Cic. : Suant et se travaillant pour expliquer, Aestuans laboransque quonam pacto explicet. Cic.
 Pourquoi te travailler ainsi ? Quin tu
-otiosus es ? Ter. || 2° Être mis en œuvre
+otiosus es ? Ter. || 2° Être mis en oeuvre
 (en parl. de bois, de matériaux). Voy.
 TRAVAILLER.
 
@@ -266368,7 +266368,7 @@ TRICHEUR, s. m. Celui qui triche
 au jeu. Infidus (i) lusor (oris), m. Cic.
 
 TRICHIASIS, s. f. Renversement
-des cils vers le globe de l'œil. Capillatio, onis, f. C.-Aur.
+des cils vers le globe de l'oeil. Capillatio, onis, f. C.-Aur.
 
 TRICLINIUM, s. m. Salle à manger
 à trois lits (chez les Romains). Triclinium, ii, n. Cic.
@@ -269104,7 +269104,7 @@ me tue, Exspectando exedor (de exedi,
 eris, esus sum, pass.). Plaut. || 4° Épuiser de fatigue. Frangere, o, is, fregi,
 fractum, act. Cic. Enecare (voy. 1°),
 act. Hor. Exhaurire, io, is, hausi, haustum, act. Sen. : Travail qui tue,
-Voy. TUANT 1°. Tuer les bœufs de
+Voy. TUANT 1°. Tuer les boeufs de
 fatigue, Boves conterere (o, is, trivi,
 tritum). Lucr. Être tué de fatigue,
 Lassitudine confici (ior, eris, fectus
@@ -269370,7 +269370,7 @@ Cic. Revêtir d'une —, Tunicare. Varr.
 sous leur chasuble. Tunica, ae, f. (Cang.).
 || 3° Membranes qui enveloppent certaines parties du corps. Tunica, ae, f.
 Cels. Tunicula, f. Plin. Membrana, f.
-Cic. : La tunique de l'œil, Oculorum
+Cic. : La tunique de l'oeil, Oculorum
 tunicae, f. pl. Plin. || 4° (En terme de
 botanique.) Cosse, coque, gousse, pelure. Tunica, ae, f. Plin. Membrana, f.
 Plin. Tunicula, f. Fest.
@@ -270012,7 +270012,7 @@ Liv. Exacerbare, act. Liv. : Il ulcéra
 les soldats, Militum iras auxit (de
 augere, eo, es, auxi, auctum). Liv. Ulcère,
 Exulceratus, à, um. Cic. Exacerbatus.
-Liv. Exasperatus. Liv. Ayant le cœur
+Liv. Exasperatus. Liv. Ayant le coeur
 —, Servans sub pectore vulnus (de
 vulnus, neris, n.). Virg. J'ai été —,
 Magnum accepi dolorem (de dolor, oris,
@@ -270091,7 +270091,7 @@ Chacune [des gouttes] reproduit une
 image, Singulae singulas facies reddunt. Sen. Un homme ou plusieurs,
 Aliquis unus pluresve. Cic. — ou deux,
 Unus aut alter. Hor. Unus et alter.
-Hor. Être privé d'— œil, Altero oculo
+Hor. Être privé d'— oeil, Altero oculo
 carere. Plin. L'— des deux censeurs,
 Alter ex censoribus. Liv. Non pas tous
 les deux, mais l'— ou l'autre, Non
@@ -270221,7 +270221,7 @@ Après les rochers, rencontrant —
 plaine, E rupibus nactus planitiem.
 Caes. D'après un décret du sénat, Ex
 senatus consulto. Sall. Juger — homme
-d'après l'habit, Hominem ex veste aestimare. Sen. N'assistant pas à ce spectacle d'— œil indifférent, Non haec
+d'après l'habit, Hominem ex veste aestimare. Sen. N'assistant pas à ce spectacle d'— oeil indifférent, Non haec
 nullis observans oculis. Virg. Une sorte
 d'éloquence, Quasi quaedam eloquentia.
 Cic. Il m'en a donné plus d'— (= m'a
@@ -270256,7 +270256,7 @@ l'autre, Duo Romani alius super alium
 exspirantes corruerunt. Liv. Ils se
 rendent service l'— à l'autre, Operas
 mutuas tradunt. Ter. L'— brise les
-œufs de l'autre, Alter alterius ova
+oeufs de l'autre, Alter alterius ova
 frangit. Cic. || LES UNS,... LES AUTRES,... L'UN L'AUTRE (en parl. de
 plus de deux). Alii... alii... Cic. Hi...
 illi... Cic. Alius alium (l'un sujet,
@@ -270332,7 +270332,7 @@ voix —..., Secuta ex omni multitudine consentiens (gen. entis) vox ratum
 effecit. Liv. Suffrage —, Accord —,
 Sentiment —, Voy. UNANIMITÉ. À la
 demande —, Postulantibus universis.
-Apul. Vœux unanimes, Collata vota.
+Apul. Voeux unanimes, Collata vota.
 Pl.-j. Félicitations —, Celeberrima
 gratulatio. Cic. Avec des cris —, Consonante clamore. Liv. D'une voix unanime, Uno ore (de os, oris, n.). Ter.
 Voce congruentissima (de congruens,
@@ -270547,7 +270547,7 @@ dessins dans le bois, Indigesta (ae)
 ligni simplicitas (atis), f. Plin. L'armée
 offrait une certaine —, Acies erat
 unius prope formae (de forma, ae, f.).
-Liv. Il n'y a pas d'— dans les œuvres
+Liv. Il n'y a pas d'— dans les oeuvres
 de la nature, Non ad unam formam
 natura opus suum praestat. Sen. En
 tout l'— engendre le dégoût, Omnibus
@@ -270590,7 +270590,7 @@ cohaeret (de cohaerere, eo, es, haesi, haesum). Sen. || 2° Fig. Concorde. Conju
 Cic. Consensio, onis, f. Cic. Concordia,
 ae, f. Cic. Societas, atis, f. Caes. Unitas, f. Sen. : L'union entre frères,
 Fratrum unanimitas, f. Liv. Fratrum
-gratia (ae), f. Ov. L'— de nos cœurs,
+gratia (ae), f. Ov. L'— de nos coeurs,
 Animorum nostrorum conjunctio. Cic.
 Vivre dans l'— avec qqn, Vivere cum
 aliquo conjuncte. Nep. conjunctissime.
@@ -271350,7 +271350,7 @@ competere (o, is, ivi et ii, itum). Sall.
 Qui ne peut presque plus faire — de
 ses pieds, Neutro pede satis utilis.
 Plin. Il perdit à peu près l'— de
-l'œil droit, Postea numquam dextro
+l'oeil droit, Postea numquam dextro
 oculo aeque bene usus est. Nep. Qui a
 perdu l'— de ses membres, Membris
 captus (a, um). Cic. Perdre [momentanément] l'— de ses sens, Animo
@@ -271444,14 +271444,14 @@ USÉ, ÉE, part. passé de USER. Voy.
 ce v. || Adj.
 1° Détérioré. Tritus, a,
 um. Hor. Detritus. Tac. Attritus. Virg.
-Attenuatus. Plin. : Pieds [des bœufs]
+Attenuatus. Plin. : Pieds [des boeufs]
 dont la corne est usée, Subtriti pedes.
 Col. Vêtements usés, Vestitus obsoletus. Nep. obsoletior. Cic. Qui porte
 des vêtements —, Vestitu obsoletus.
 Apul. || 2° Fig. Fatigué, épuisé. Effetus, a, um. Cic. Detritus. Gell. Exhaustus. Curt. Confectus. Cic. : Corps
 usé de fatigue, Corpus labore confectum. Liv. — par la guerre, Bello
 fractus. Liv. — de corps et d'esprit,
-Corpore et animo confectus. Cic. Cœur
+Corpore et animo confectus. Cic. Coeur
 usé, Veternosus animus. Sen. Palais
 [de la bouche] —, Os (oris) hebes
 (etis). Ov. Haine usée, Exoletum jam
@@ -271540,7 +271540,7 @@ tritum, act. Plin. Deterere, act. Plin.
 Vestem atterere. Ulp. — un fouet sur
 le dos, Conterere corios in tergo. Plaut.
 — la corne de ses pieds (en parl. des
-bœufs), Pedes subterere. Cato. Subteri,
+boeufs), Pedes subterere. Cato. Subteri,
 or, eris, tritus sum, pass. Sen.
 || Fig. User ses mains à un travail,
 Manus opere atterere. Tib. Ils usent
@@ -272113,7 +272113,7 @@ amove. Ter. Mais — donc, Quid stas
 (de stare, sto, steti, statum) ? Ter. —
 vite, Curre. Ter. || Employé adverbialement et au fig. Virg. : —,
 meurs, Nunc morere. Virg. —, tu es
-un homme de cœur, Abi, virum te
+un homme de coeur, Abi, virum te
 judico. Ter.
 
 VABAR, fl. d'Afrique. Vabar, aris,
@@ -272350,7 +272350,7 @@ Ov. Sine ullo satis certo auctore rumor
 (oris), masc. Liv. Opinion non pas
 flottante et —, mais ferme et sûre,
 Non errans et vaga, sed stabilis certaque sententia. Cic. || 3° Dont on ne
-peut définir la cause = Mon cœur est
+peut définir la cause = Mon coeur est
 troublé d'appréhensions vagues, Nescio quid mihi animus praesagit mali.
 Ter. — espérances de paix, Dubia
 spes pacis. Cic. Une crainte vague,
@@ -273618,7 +273618,7 @@ f. pl. Cic. Nebulosa exhalatio. Plin.
 Des — sortent de l'eau, Emanat aura
 ex aqua. Gell. Les rivières se couvrent
 de —, Amnes frigidis nebulis caligant. Col. — marécageuses, Paludum
-graves nebulae. Just. Vapeur qui s'élève du cou des bœufs, Boum fumantia colla. Virg. — qui s'élève du
+graves nebulae. Just. Vapeur qui s'élève du cou des boeufs, Boum fumantia colla. Virg. — qui s'élève du
 corps des chevaux, Equi sudore fumantes. Virg. Dégager des vapeurs,
 Vaporare, n. Plin. || 3° Vapeur d'eau
 bouillante. Vapor, oris, masc. Cic. :
@@ -274357,7 +274357,7 @@ veillera, Id curabitur. Ter. J'y veillerai, Id mihi curae erit. Liv. Pour
 veiller de près sur la conduite des
 Boiens, Ad visendum ex propinquo
 quae in Boiis gererentur. Liv. — sur
-les mœurs, Mores regere (o, is, rexi,
+les moeurs, Mores regere (o, is, rexi,
 rectum). Liv. — au bien de l'État,
 Reipublicae consulere. Cic. operam navare. Cic. Operam dare ne quid respublica detrimenti capiat. Sall. Rempublicam tutari, dep. Cic. — sur
 vos jours, Vestrae saluti consulere.
@@ -275175,7 +275175,7 @@ fellis, n. Ov. Rubigo, ginis, f. Sen. :
 Le venin de la jalousie, Invidiae venenum. Sil. Que ce présent fait par des
 ennemis recelait du —, Id donum
 inimicorum veneno illitum esse (de
-illini, or, eris, pass.). Liv. Leur cœur
+illini, or, eris, pass.). Liv. Leur coeur
 est plein de —, Corda felle sunt lita.
 Plaut. Langue pleine de —, Lingua
 veneno suffusa. Hor. Répandre son —
@@ -275276,7 +275276,7 @@ disais de —, In litteris te evocabam.
 Cic. Je ne puis te faire — a Rome,
 Te Romam non attraho (de attrahere,
 o, is, traxi, tractum). Cic. Fais — ma
-sœur ici, Huc sororem siste (de sistere, o, is, s. parf., statum). Virg.
+soeur ici, Huc sororem siste (de sistere, o, is, s. parf., statum). Virg.
 Venir baiser la main [du prince],
 Ad manum accedere. Vop. Faire —
 un médecin, Medicum adhibere (eo,
@@ -275320,7 +275320,7 @@ venit. Liv. Tout ce qui vient du dehors,
 Quaecumque foris veniunt. Lucr. Pour
 qu'il vienne un peu d'air, Ut perflatus
 aliquis accedat (voy. 1°), n. Caes. C'est
-là que viennent toutes les veines parties du cœur, Huc venarum omnis e
+là que viennent toutes les veines parties du coeur, Huc venarum omnis e
 corde vis tendit (de tendere, o, is, tetendi,
 tensum et tentum, n.). Plin. Voici des
 présents qui te —, Dona tibi adsunt
@@ -275449,7 +275449,7 @@ Maturitatem adipisci (or, eris, adeptus
 sum), dep. Plaut. — à ses fins, — à
 son but, Propositum assequi (or, eris,
 secutus sum), dep. Sen. — à la fin de
-son œuvre, Ad finem operis pervenire.
+son oeuvre, Ad finem operis pervenire.
 Sen. Tu viendras à bout de tes desseins, Quod cogitas, optinebis. Ter.
 En — à qq. ch. (= aborder qq. ch.), Ad
 aliquid venire. Cic. pervenire. Ter.
@@ -275573,7 +275573,7 @@ Provenir, procéder, émaner. Venire
 ortus sum, dep. Cic. Proficisci, or, eris,
 profectus sum, dep. Cic. Emanare, n.
 Cic. Descendere (voy. 5°), n. Sen. Procedere (voy. 5°), n. Cod. : [Ce conseil]
-vient d'un bon cœur, Ab optimo animo
+vient d'un bon coeur, Ab optimo animo
 proficiscitur. Balb. ad Cic. Défaut qui
 — de la stérilité d'esprit, Vitium
 quod ex inopia venit. Quint. Ce qui
